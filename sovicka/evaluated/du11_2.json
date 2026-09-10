@@ -1,0 +1,68 @@
+{
+  "3188": {
+    "points": 3.0,
+    "correct": false,
+    "justification": "The submission identifies the correct reciprocal diagonal E and the right transfer pattern from an SVD, but the displayed v_1, v_2, v_3 are not normalized and consequently neither V nor the derived U is orthogonal. The later cancellations V^T V=I and U^T U=I are therefore invalid for the matrices actually defined; u_4=u_1×u_2×u_3 is also not a defined ordinary cross product in R^4. This is a concrete gap in an otherwise essentially correct construction, matching the 3-point training examples.",
+    "feedback": "Zvolené nenulové diagonální prvky matice $E$ jsou správně a také vztah mezi pseudoinverzí diagonální matice a hledanou maticí $B$ míří správným směrem. V zápisu singulárního rozkladu však vektory $v_1,v_2,v_3$ nejsou normované, takže uvedená matice $V$ není ortogonální a nelze v následujících výpočtech použít $V^T V=I$; stejný problém se přenáší i do konstrukce $U$. Navíc zápis $u_4=u_1\\times u_2\\times u_3$ není bez další definice platnou konstrukcí v $\\mathbb R^4$. Je potřeba opravit samotný singulární rozklad a potom znovu doložit všechny čtyři požadované vlastnosti matice $B$."
+  },
+  "2430": {
+    "points": 3.0,
+    "correct": false,
+    "justification": "The diagonal pseudoinverse E and the conceptual SVD reduction are correct, but the final numerical B is not the Moore–Penrose inverse. Direct multiplication gives AB=I_3, ABA=A, and BAB=B, but BA is not symmetric. The written claim that BA=I_4 is impossible because rank(BA)≤rank(A)=3 and is contradicted by the displayed product. A correct construction with a decisive arithmetic/verification failure merits 3/4.",
+    "feedback": "Postup s maticemi $D$ a $E$ je správně rozmyšlený: zvolená $E$ splňuje $DED=D$, $EDE=E$ a součiny $DE$, $ED$ jsou symetrické. Chyba vzniká při převodu zpět a při výpočtu konkrétní matice $B$. Pro Vámi uvedenou výslednou matici sice vyjde $AB=I_3$, ale matice $BA$ není symetrická; tvrzení $BA=I_4$ navíc nemůže platit, protože $A$ má hodnost nejvýše $3$. Je nutné opravit násobení vedoucí k $B$ a poté skutečně ověřit symetrii obou součinů."
+  },
+  "3248": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The student chooses the correct rectangular diagonal pseudoinverse E, establishes the Penrose identities and symmetry for D/E, transfers it as B=VEU^T under A=UDV^T, and correctly derives ABA=A and BAB=B. The symmetry argument for AB and BA is also present. This is complete at the same level accepted among the 4-point examples; an expanded numerical B is not required when U,V are those already obtained in 11.1.",
+    "feedback": "Řešení je správné. Matice $E$ je zvolena jako převrácení nenulových singulárních hodnot v $D$, správně ověřujete vztahy $DED=D$, $EDE=E$ i symetrii $DE$ a $ED$. Volba $B=VEU^T$ pak při rozkladu $A=UDV^T$ dává obě požadované rovnosti a z tvarů $UDEU^T$ a $VEDV^T$ plyne také symetrie $AB$ a $BA$. Výsledek je dostatečně určen pomocí singulárního rozkladu z předchozí úlohy."
+  },
+  "3288": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The solution uses the correct D and E, verifies DE=I_3 and ED=diag(1,1,1,0), then sets B=VEU^* for A=UDV^*. It correctly reduces both generalized-inverse identities and both symmetry requirements to the corresponding identities for D and E. This is a complete proof, even without multiplying out B numerically.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici $E$, kontrolujete oba symetrické součiny $DE$ a $ED$ a využíváte vztahy $DED=D$ a $EDE=E$. Přechod od $A=UDV^*$ k $B=VEU^*$ je proveden konzistentně a výpočty pokrývají jak $ABA=A$, $BAB=B$, tak symetrii $AB$ a $BA$. Konkrétní roznásobení matice $B$ už pro platnost konstrukce není nutné."
+  },
+  "2868": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The student gives the correct E, verifies all four defining properties at the D/E level, transfers it correctly through the SVD, and obtains the correct explicit B=(1/9)[[3,3,3],[1,1,-2],[1,-2,1],[-2,1,1]]. The proof of symmetry is valid. Full credit.",
+    "feedback": "Řešení je správné a dobře uzavřené. U matice $E$ ověřujete obě rovnosti i symetrii $DE$ a $ED$, následně správně volíte $B=VEU^T$ a přenášíte všechny vlastnosti přes ortogonální matice ze singulárního rozkladu. Dopočtená matice $B=\\frac19\\begin{pmatrix}3&3&3\\\\1&1&-2\\\\1&-2&1\\\\-2&1&1\\end{pmatrix}$ je správná."
+  },
+  "3198": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The two-page solution constructs the correct E, checks DED=D, EDE=E and the symmetry of DE/ED, then identifies B as the SVD pseudoinverse VEU^T using the U and V computed in 11.1. Although it does not multiply the final matrix out, the construction is explicit relative to the prior part and mathematically sufficient, consistent with full-credit examples.",
+    "feedback": "Řešení je správné. Matice $E$ má správné rozměry i hodnoty a kontrola vztahů pro $D$ a $E$ je provedena korektně. Následná volba $B=VEU^T$ přesně odpovídá singulárnímu rozkladu $A=UDV^T$ z předchozí úlohy a dává požadovanou pseudoinverzi. Není nutné matici znovu roznásobit, jsou-li použité matice $U$ a $V$ jednoznačně převzaty z řešení 11.1."
+  },
+  "3276": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The solution correctly defines D', verifies DD'=I_3 and D'D=diag(I_3,0), takes B=VD'U^T for A=UDV^T, and derives ABA=A, BAB=B, plus symmetry of AB and BA. The apparent simplification AB=UU^T is valid because U is the 3x3 orthogonal left factor. Complete and correct.",
+    "feedback": "Řešení je úplné a správné. Správně sestavujete obdélníkovou pseudoinverzi $D'$, ověřujete oba potřebné součiny a volíte $B=VD'U^T$. Následné výpočty dokazují obě rovnosti $ABA=A$, $BAB=B$ a také symetrii $AB$ a $BA$. Argument správně využívá ortogonalitu matic $U$ a $V$ ze singulárního rozkladu."
+  },
+  "3238": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The student recomputes a valid compact SVD, forms the correct reciprocal diagonal E, derives V consistently, and multiplies out the correct B. While the four target identities are not separately displayed, the Moore–Penrose construction is adequately established by the valid SVD and correct pseudoinverse; the assignment asks to find B, and the numerical result is correct. In light of the lenient 4-point training examples, this is full credit.",
+    "feedback": "Výsledná matice $B=\\frac19\\begin{pmatrix}3&3&3\\\\1&1&-2\\\\1&-2&1\\\\-2&1&1\\end{pmatrix}$ je správná. Také výpočet singulárních hodnot, příslušných ortonormálních vektorů a konstrukce $E$ převrácením nenulových singulárních hodnot jsou konzistentní. Z této korektní SVD konstrukce plyne, že jde o hledanou pseudoinverzi, a řešení tak splňuje zadání."
+  },
+  "3351": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "Despite rough notation and exploratory algebra, the final E corresponds to diag(1/sqrt(3),1/3,1/3,0) for the student's singular-value ordering, the transfer formula B=VEU^* is correct, and the final multiplied matrix is the correct Moore–Penrose inverse. The construction contains enough valid work to support the result and matches full-credit handwritten examples.",
+    "feedback": "Výsledná konstrukce je správná. Při pořadí singulárních hodnot $(\\sqrt3,3,3)$ má matice $E$ správné nenulové diagonální prvky $(1/\\sqrt3,1/3,1/3)$ a vztah $B=VEU^*$ je správný. Konečným násobením dostáváte hledanou matici $\\frac19\\begin{pmatrix}3&3&3\\\\1&1&-2\\\\1&-2&1\\\\-2&1&1\\end{pmatrix}$. Zápis je místy obtížně čitelný, ale matematický obsah a výsledek jsou v pořádku."
+  },
+  "3104": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The student derives the full-row-rank pseudoinverse formula B=A^T(AA^T)^{-1}, computes (AA^T)^{-1} correctly, obtains the correct B, and explicitly verifies AB=I_3, symmetric BA, ABA=A, and BAB=B. This is fully correct and independent of the hinted SVD route.",
+    "feedback": "Řešení je správné a velmi dobře ověřené. Využití plné řádkové hodnosti a vzorce $B=A^T(AA^T)^{-1}$ je v této úloze oprávněné, inverze $AA^T$ i výsledná matice $B$ jsou spočteny správně. Následná kontrola $AB=I_3$, symetrie $BA$ a obou rovností $ABA=A$, $BAB=B$ pokrývá všechny požadavky zadání."
+  },
+  "3076": {
+    "points": 4.0,
+    "correct": true,
+    "justification": "The handwritten solution correctly takes the reciprocal diagonal E for the SVD A=UDV^T, verifies DED=D and EDE=E, chooses B=VEU^T, and derives the generalized-inverse identities and symmetry forms. This is mathematically complete to the same level as the accepted full-credit examples, even though B is left in factored form.",
+    "feedback": "Řešení je správné. Zvolená matice $E$ odpovídá převrácení nenulových singulárních hodnot, součiny $DE$ a $ED$ mají správný diagonální tvar a z nich plynou vztahy $DED=D$ a $EDE=E$. Volba $B=VEU^T$ je následně správně přenesena přes singulární rozklad a dává obě požadované rovnosti i symetrii součinů. Faktorizovaný tvar $B$ je dostačující."
+  }
+}

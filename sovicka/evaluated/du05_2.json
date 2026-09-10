@@ -1,0 +1,800 @@
+{
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "1771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2125": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2202": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2377": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2401": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2430": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2517": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2518": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2743": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2764": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2815": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2826": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2857": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2858": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2865": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2866": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2867": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2869": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2871": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2874": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2876": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2877": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2878": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2886": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2887": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2888": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2892": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2899": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2900": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2918": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2922": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2932": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2948": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2956": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2980": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2984": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "2993": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3000": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3001": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3003": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3007": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3036": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3037": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3038": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3056": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3057": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3060": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3076": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3077": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3089": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3090": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3102": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3111": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3115": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3121": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3131": {
+    "points": 0,
+    "correct": false,
+    "justification": "The attachment solves problem 5.1 rather than problem 5.2 and contains no construction of the requested 3x3 matrix.",
+    "feedback": "Odevzdaný text řeší úlohu 5.1 o součtech prvků ve sloupcích, nikoli úlohu 5.2. Chybí hledaná matice řádu 3 i popis její konstrukce podle zadaných vlastních prostorů."
+  },
+  "3135": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3142": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3165": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3166": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3168": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3174": {
+    "points": 3,
+    "correct": false,
+    "justification": "The first derivation obtains the correct matrix, but the explicitly presented alternative solution contains an erroneous basis conversion and concludes with a different matrix that does not satisfy the conditions. The two claimed results are contradictory.",
+    "feedback": "První postup vede ke správné matici. V alternativním postupu však chybný převod mezi bázemi dává jinou matici, která podmínky zadání nesplňuje, takže si oba uvedené závěry odporují. Alternativní postup opravte nebo odstraňte."
+  },
+  "3179": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3188": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3193": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3196": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3198": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3204": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3205": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3209": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3213": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3218": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3219": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3221": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3223": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3231": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3238": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The construction and resulting matrix are correct, but the final claim that the matrix is not uniquely determined is false. The prescribed actions on the eigenspace plane and on the complementary line spanned by (1,1,1) determine the operator uniquely.",
+    "feedback": "Výpočet i nalezená matice jsou správné. Závěrečné tvrzení, že matice není určena jednoznačně, je však chybné: volba jiné báze uvnitř téhož vlastního prostoru nemění zadané působení operátoru. Toto tvrzení opravte."
+  },
+  "3239": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3240": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3241": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3242": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3244": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3245": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3248": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3253": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3254": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3259": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3260": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3264": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3265": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3269": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3271": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3272": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3273": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3275": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3277": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3281": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3283": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3284": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3288": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3294": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3295": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3299": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3300": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3301": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3305": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3308": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3309": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3310": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3314": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3316": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3318": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3320": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3326": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3332": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3340": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3345": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3347": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3351": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3403": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  },
+  "3407": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response constructs a basis of the prescribed eigenspace, adjoins the given eigenvector for eigenvalue 3, represents the operator by diag(2,2,3), and correctly converts it to the canonical basis, obtaining the required matrix.",
+    "feedback": "Správně volíte bázi roviny vlastních vektorů pro vlastní číslo 2, doplníte ji vektorem (1,1,1)^T pro vlastní číslo 3 a převodem z diagonální matice získáte správnou matici A. Konstrukce zároveň zajišťuje, že vlastní prostor pro číslo 2 je právě zadaná rovina."
+  }
+}

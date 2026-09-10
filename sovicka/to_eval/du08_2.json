@@ -1,0 +1,488 @@
+{
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3283": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3283/attachment_0.jpg"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2903/attachment_0.pdf"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2430/attachment_1.jpg"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "3324": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3324/attachment_0.pdf"
+      }
+    ]
+  },
+  "2947": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2947/attachment_0.pdf"
+      }
+    ]
+  },
+  "2511": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2511/attachment_0.pdf"
+      }
+    ]
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2202/attachment_0.jpg"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2871/attachment_1.pdf"
+      }
+    ]
+  },
+  "2859": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2859/attachment_0.pdf"
+      }
+    ]
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3041/attachment_0.pdf"
+      }
+    ]
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3198/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3198/attachment_1.jpg"
+      }
+    ]
+  },
+  "3245": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3245/attachment_0.pdf"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3276/attachment_0.pdf"
+      }
+    ]
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3009/attachment_0.jpg"
+      }
+    ]
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2968/attachment_0.pdf"
+      }
+    ]
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/1771/attachment_0.jpg"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "3318": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3318/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Nech $\\lambda$ je vlastné číslo (nie nutne reálne) matice $A$ a nech $x$ je niektorý z jeho príslušných vektorov. Potom \n$$0 = \\bold{0}x = (A^5+2A^3 + A)x = (\\lambda^5 +2\\lambda^3 + \\lambda)x = (\\lambda)(\\lambda^2 + 1)^2x$$\nKeďže daný súčin musí byť $0$, tak $\\lambda \\in \\{0, i, -i\\}$. Keďže dokazujeme diagonovateľnosť nad $\\mathbb{C}$, tak $A$ má $3$ vlastné čísla (nie nutne reálne). Matica $A$ je reálna, takže ak má komplexné vlastné číslo, tak potom má aj vlastné číslo komplexne združené k nemu a má ho rovankej násobnosti. To znamená, že ak by $\\pm i$ bolo vlastné číslo, tak aj $\\mp i$ je vlastné číslo. Teda $\\pm i$ nemôže mať násobnosť $2$, inak by $A$ mala $4$ vlastné čísla a to je spor. \n\nAk $i$ je vlastné číslo $A$, tak aj $-i$ je vlastné číslo a obe sú násobnosti $1$. Potom posledné vlastné číslo je nutne $0$. Nutne musí byť vlastné číslo, keďže nad $\\mathbb{C}$ má matica vždy dostatok vlastných čísel. Máme teda $3$ rôzne vlastné čísla a teda $A$ je diagonalizovateľná.\n\nAk $i$ nie je vlastné číslo, potom ani $-i$ nie je vlastné číslo. Teda jediné možné vlastné čísla sú $0$, teda ich algebraická násobnosť je $3$ (keďže nad $\\mathbb{C}$ má matica vždy dostatok vlastných čísel). To znamená, že jej charakteristický polyóm je $p_A(\\lambda) = (-1)^3 \\lambda^3$. Z Cayley-Hamiltonovej vety máme, že $-A^3 = \\bold{0}$. Dosadením do rovnice zo zadanie získame $A=\\bold{0}$ a keďže nulová matica je diagonalizovateľná, tak sme hotový."
+      }
+    ]
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3305/attachment_0.jpg"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3072/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3072/attachment_2.jpg"
+      }
+    ]
+  },
+  "2763": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2763/attachment_0.jpg"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2866/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2862/attachment_0.pdf"
+      }
+    ]
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2924/attachment_0.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "Nech $\\lambda\\in\\mathbb{C}$ je vlastné číslo matice $A$, a nech $\\mathbf{v}$ je príslušný vlastný vektor. Potom platí \n$$ (A^5 + 2A^3 + A)\\mathbf{v} = 0_{3\\times 3}\\mathbf{v} = \\mathbf{o},  $$\n$$   A^5\\mathbf{v} + 2A^3\\mathbf{v} + A\\mathbf{v} = \\mathbf{o},    $$\n$$   \\lambda^5\\mathbf{v} + 2\\lambda^3\\mathbf{v} + \\lambda\\mathbf{v} = \\mathbf{o},    $$\n$$  (\\lambda^5 + 2\\lambda^3 + \\lambda)\\mathbf{v} = \\mathbf{o},  $$\na keďže $\\mathbf{v}\\neq \\mathbf{o}$, tak dostávame\n$$  \\lambda^5 + 2\\lambda^3 + \\lambda = \\lambda(\\lambda^2+1)^2=0.  $$\nPreto $\\lambda\\in \\{0,i,-i\\}$. \n\nNech $p_A$ je charaktristický polynóm matice $A$. Keďže $A$ je reálna, tak $p_A$ je reálny polynóm tretieho stupňa, a teda má buď jeden alebo tri reálne korene (pre $P\\in\\mathbb{R}[x]$ a $z\\in\\mathbb{C}$ platí $P(z)=0$ práve vtedy ak $P(\\overline{z})=0$). Ak má práve jeden reálny koreň, musí ním byť $0$, a zvyšné dva komplexné korene musia byť $i,-i$. Vidíme tak, že všetky vlastné čísla matice $A$ sú rôzne, a teda matica $A$ je diagonalizovateľná.\n\nOstáva prípad, kedy $p_A$ má všetky tri korene reálne. Potom musí ísť o koreň $0$ s multiplicitou $3$, a teda platí $p_A(x)=-x^3$ (vedúci člen je $(-1)^3$). Poďľa Cayley-Hamiltona potom platí $-A^3=0_{3\\times 3}$, a teda aj $A^5 = A^2 A^3 = 0_{3\\times 3}$. Preto z danej podmienky vidíme, že\n$$  0_{3\\times 3} = A^5 + 2A^3 + A = 0_{3\\times 3} + 20_{3\\times 3} + A , $$\na teda $A$ je nulová matica, ktorá je triviálne diagonalizovateľná."
+      }
+    ]
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3264/attachment_0.pdf"
+      }
+    ]
+  },
+  "1654": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/1654/attachment_0.jpg"
+      }
+    ]
+  },
+  "2864": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2864/attachment_0.pdf"
+      }
+    ]
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2562/attachment_0.jpg"
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "3008": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3008/attachment_0.pdf"
+      }
+    ]
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3131/attachment_0.pdf"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3317/attachment_0.pdf"
+      }
+    ]
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2865/attachment_0.pdf"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2937/attachment_0.jpg"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3205/attachment_0.pdf"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3045/attachment_0.pdf"
+      }
+    ]
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2980/attachment_0.pdf"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2940/attachment_0.pdf"
+      }
+    ]
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3168/attachment_0.pdf"
+      }
+    ]
+  },
+  "3165": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3165/attachment_0.pdf"
+      }
+    ]
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2398/attachment_0.pdf"
+      }
+    ]
+  }
+}

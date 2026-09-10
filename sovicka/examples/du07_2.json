@@ -1,0 +1,189 @@
+{
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2492/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3136": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3136/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3166/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3326": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3326/attachment_0.jpg"
+      }
+    ],
+    "points": 2.5
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3264/attachment_1.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3213": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3213/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3077/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3248/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2562/attachment_0.jpg"
+      }
+    ],
+    "points": 1.0
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3135/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2866/attachment_2.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Každý prvok $\\bold{V}$ je tvaru $ax^2 + bx + c$ pre $a, b, c \\in \\mathbb{R}$. Potom $\\phi (ax^2 + bx + c) = 2(2ax + b) + x^2(2a) = 2ax^2 + 4ax + 2b$. Nech $K = (x^2, x, 1)$ je kanonická báza. Potom z rovnice vyššie:\n$$\n[\\phi]_K^K = \n\\left( \n\\begin{array}{ccc}\n2 & 0 & 0 \\\\\n4 & 0 & 0 \\\\\n0 & 2 & 0\n\\end{array}\n\\right)\n$$\nSpočítame vlastné čísla a im príslušné vlastné vektory:\n$$\n\\det\\left(\\begin{array}{ccc}\n2-\\lambda & 0 & 0 \\\\\n4 & -\\lambda & 0 \\\\\n0 & 2 & -\\lambda\n\\end{array}\\right)=(-\\lambda^3+2\\lambda^2) = - \\lambda^2(\\lambda -2)\n$$\nTeda vlastné čísla sú $0$ algebraickej násobnosti $2$ a $2$ algebraickej násobnosti $1$. Pozrime sa na geometrickú násobnosť $0$:\n$$ \nA = \\left( \n\\begin{array}{ccc}\n2-0 & 0 & 0 \\\\\n4 & 0-0 & 0 \\\\\n0 & 2 & 0-0\n\\end{array}\n\\right)\n$$\nchceme ako lineárnu kombináciu stĺpcov (násobenie vektorom $\\bold{x}$) dostať nulový vekor, čo však ale zrejme ide len pre $\\bold{x} \\in \\text{Span}((0, 0, 1)^T)$, teda $0$ má geometrickú násobnosť $1$ a teda matica nejde diagonalizovať. Zistili sme teda, že v Jordanovom tvare bude mať bunku s vlastným číslom $2$ veľkosti $1$ a bunku s vlastným číslom $0$ veľkosti $2$. Chceme nájsť vlastný vektor $\\bold{v_1} \\in \\text{Im } A$, zoberme napríklad $\\bold{v_1} = (0, 0, 2)^T$, keďže pre voľbu $\\bold{v_2} = (0, 1, 0)^T$ máme $A\\bold{v_2} = \\bold{v_1}$. Teraz už nám stačí len nájsť vektor $\\bold{v_3}$, ktorý je lineárne nezávislý s $v_1$ (a teda potom nutne aj s $v_2$), ktorý prislúcha vlastnému číslu $2$. Teda chceme:\n$$\n\\left( \n\\begin{array}{ccc}\n0 & 0 & 0 \\\\\n4 & -2 & 0 \\\\\n0 & 2 & -2\n\\end{array}\n\\right)\\bold{v_3} = \\bold{0}\n$$\nTo môžeme docieliť napríklad $\\bold{v_3} = (1, 2, 2)^T$, čo je triviálne nezávislé s $\\bold{v_1}$. \n\nTeda ako bázu $B$ si môžeme zvoliť $(\\bold{v_1}, \\bold{v_2}, \\bold{v_3})$ a potom:\n$$\nJ = [\\phi]_B^B =\\left(\n\\begin{array}{ccc}\n0 & 1 & 0 \\\\\n0 & 0 & 0 \\\\\n0 & 0 & 2\n\\end{array}\n\\right)\n$$"
+      }
+    ],
+    "points": 3.0
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/534/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3188/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/1771/attachment_0.jpg"
+      }
+    ],
+    "points": 0.0
+  },
+  "2981": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2981/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3225/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3198/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3198/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3198/attachment_2.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2858/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2464/attachment_0.jpg"
+      }
+    ],
+    "points": 2.5
+  }
+}

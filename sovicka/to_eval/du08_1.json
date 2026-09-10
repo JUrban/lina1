@@ -1,0 +1,457 @@
+{
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3314": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3314/attachment_0.jpg"
+      }
+    ]
+  },
+  "3283": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3283/attachment_0.jpg"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3166/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3221/attachment_0.jpg"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "3324": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3324/attachment_0.pdf"
+      }
+    ]
+  },
+  "3298": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3298/attachment_1.pdf"
+      }
+    ]
+  },
+  "2511": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2511/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2871/attachment_0.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3174/attachment_0.pdf"
+      }
+    ]
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3261/attachment_0.pdf"
+      }
+    ]
+  },
+  "3245": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3245/attachment_0.pdf"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3115/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3009/attachment_0.jpg"
+      }
+    ]
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/1771/attachment_0.jpg"
+      }
+    ]
+  },
+  "3256": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3256/attachment_0.pdf"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "3351": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3351/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Spočítame vlastné čísla:\n$$\n\\text{det}\\left(\n\\begin{array}{ccc}\n-1-\\lambda & -2 & 0 \\\\\n-1 & 3-\\lambda & -1 \\\\\n2 & 3 & 1-\\lambda\n\\end{array}\n\\right) = -\\lambda^3 + 3\\lambda^2 +4 = -(\\lambda-2)^2(\\lambda + 1)\n$$\n\nSpočítame vlastný vektor ku $2$:\n$$\n\\left(\n\\begin{array}{ccc}\n-3 & -2 & 0 \\\\\n-1 & 1 & -1 \\\\\n2 & 3 & -1\n\\end{array}\n\\right)x = \\bold{0}\n$$\nprvé dva koeficienty oba nie sú nulové a teda sú vynútené (až na násobky), z toho dopočítame posledný koeficient unikátne, teda $x \\in \\text{span}((2, -3, 5)^T)$, teda je len $1$ vektor prislúchajúci vl. číslu $2$. Ďalej si všimnime, že $(0, -1, 2)^T$ sa v tomto zobrazení zobrazuje na tento vl. vektor.\n\nSpočítame vl. vektor prislúchajúci $-1$:\n$$\n\\left(\n\\begin{array}{ccc}\n0 & -2 & 0 \\\\\n-1 & 4 & -1 \\\\\n2 & 3 & 2\n\\end{array}\n\\right)x = \\bold{0}\n$$\nvyhovuje napríklad $x = (1, 0, -1)^T$.\n\nHľadáme všetky roviny $U$ také, že $g = f_A|_U$ je invariatná na $U$. To môže nastať len vtedy ak charakteristický polynóm $g$ delí charakteristický polynóm $f$, teda $g$ má buď vlastné čísla $-1$ a $2$, alebo vl. číslo $2$ alg. násobnosti $2$.\n\nAk $g$ má vl. čísla $-1$ a $2$, teda v $U$ sa nachádzajú nutne príslušné vektory k týmto vl. číslam, ktoré sú lineáne nezávislé a teda už musia tvoriť celé $U$.  Potom ako bázu môžeme zvoliť $((2, -3, 5)^T, (1, 0, -1)^T)$, keďže sú to vl. vektory. Matica $g$ vzhľadom k tejto báze je:\n$$\n\\left(\\begin{array}{cc}\n2&0 \\\\\n0&-1\n\\end{array}\\right)\n$$\n\nAk $g$ má vl. číslo $2$ násobnosti $2$, potom je nutne tvorený jordanovým retiazokm, teda ako bázu môžeme zvoliť $((2, -3, 5)^T, (0, -1, 2)^T)$ a matica $g$ vzhľadom k tejto báze je:\n$$\n\\left(\\begin{array}{cc}\n2&1 \\\\\n0&2\n\\end{array}\\right)\n$$"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3072/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3072/attachment_1.jpg"
+      },
+      {
+        "msg": "1.stránka je druhý soubor\n2.stránka je první soubor"
+      }
+    ]
+  },
+  "3089": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3089/attachment_0.pdf"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2866/attachment_0.pdf"
+      }
+    ]
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3331/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2862/attachment_0.pdf"
+      },
+      {
+        "msg": "Vektory z jordanových řetízků si označím jako v1 a z druhého v2, v3. \nPokud bychom měli prostor U=Span{a,b}, kde a=k*v3+něco, pak nutně v3 i v2 musí být v U, protože f(a)=v3 a f(v3)=v2. Tak můžeme ukázat, že žádná jiná rovina splňující zadání neexistuje, nebo by musela mít jinou dimenzi."
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "3273": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3273/attachment_0.jpg"
+      }
+    ]
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/1989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "Spočítame, že $p_A(x)=-(x-2)^2(x+1)$, a následne aj\n$$  \\text{Ker}(A-2I_3) = \\text{Span}\\{(-2,3,5)^T\\},  $$\n$$  \\text{Ker}(A+I_3) = \\text{Span}\\{(1,0,-1)^T\\}.  $$\nVyriešime ešte sústavu $(A-2I_3)\\mathbf{x}=(-2,3,5)^T$, a dostaneme, že riešením je množina $\\text{Span}\\{(0,1,-2)^T\\}$.\n\nNech $U\\leq \\mathbb{R}^3$ je priestor dimenzie $2$ taký, že $f_A(U)=U$. Špeciálne platí aj $f_A(U)\\subseteq U$, teda $U$ je invariantným priestorom zobrazenia $f_A$. Preto charakteristický polynóm zobrazenia $f_A|_U$ delí $p_A$, a teda ním môže byť buď $(x-2)(x+1)$ alebo $(x-2)^2$ (vedúci člen musí byť $(-1)^{\\dim U}=1$). Rozoberme prípady:\n\n(1) Ak charakteristický polynóm zobrazenia $f_A|_U$ je $(x-2)(x+1)$, znamená to, že $f_A|_U$ má vlastné čísla $2$ aj $-1$, a teda oba vlastné vektory musia patriť $U$. Preto\n$$  \\text{Span}\\{(-2,3,5)^T, (1,0,-1)^T\\} \\subseteq U,  $$\na nakoľko dimenzie oboch priestorov sa rovnajú dostávame \n$$  \\text{Span}\\{(-2,3,5)^T, (1,0,-1)^T\\} = U.  $$\nZvoľme bázu $B_U=((-2,3,5)^T, (1,0,-1)^T)$. Potom dostávame \n$$  [f_A|_U]_{B_U}^{B_U} = \\begin{pmatrix}\n2 & 0 \\\\\n0 & -1\n\\end{pmatrix},  $$\nako sme chceli.\n\n(2) Nech charakteristický polynóm zobrazenia $f_A|_U$ je $(x-2)^2$. Z toho plynie, že $f_A|_U$ má vlastné číslo iba $2$ a teda $\\text{Span}\\{(-2,3,5)^T\\} \\subseteq U$. Zvoľme $\\mathbf{o}\\neq \\mathbf{u_1}\\in \\text{Span}\\{(-2,3,5)^T\\}$ a doplňme $(\\mathbf{u_1})$ na bázu priestoru $U$ ako $B_U=(\\mathbf{u_1},\\mathbf{u_2})$. Potom $A\\mathbf{u_2}= a\\mathbf{u_1}+b\\mathbf{u_2}$. Všimnime si, že $a\\neq 0$, inač by $\\mathbf{u_2}\\in U$ bol vlastný vektor zobrazenia $f_A|_U$, a teda nutne $\\mathbf{u_2}\\in \\text{Span}\\{(-2,3,5)^T\\}$, čo je v spore s tým, že $B_U$ je báza. Preto môžeme BÚNO predpokladať $a=1$ (inak sme si na začiatku namiesto $\\mathbf{u_1}$ mohli zvoliť $a\\mathbf{u_1}$). Preto \n$$C= [f_A|_U]_{B_U}^{B_U}= \\begin{pmatrix}\n2 & 1 \\\\\n0 & b\n\\end{pmatrix}.$$\nZ Cayley-Hamiltona vieme, že $(C-2I_2)^2=0_{2\\times 2}$, teda\n$$ 0_{2\\times 2} = \\begin{pmatrix}\n0 & 1 \\\\\n0 & b-2\n\\end{pmatrix}^2 = \\begin{pmatrix}\n0 & b-2 \\\\\n0 & (b-2)^2\n\\end{pmatrix}, $$\na teda $b=2$. Preto $(A-2I_3)\\mathbf{u_2}=\\mathbf{u_1}$, a teda $\\mathbf{u_2}\\in \\text{Span}\\{(0,1,-2)^T\\}$. Vidíme tak, že\n$$  \\text{Span}\\{(-2,3,5)^T,(0,1,-2)^T\\} \\subseteq U,  $$\na teda z rovností dimenzií plynie\n$$  \\text{Span}\\{(-2,3,5)^T,(0,1,-2)^T\\} = U.  $$\nZvoľme preto $B_U=((-2,3,5)^T,(0,1,-2)^T)$, a dostávame\n$$  [f_A|_U]_{B_U}^{B_U} = \\begin{pmatrix}\n2 & 1 \\\\\n0 & 2\n\\end{pmatrix},  $$\nako sme chceli.\n\nVidíme tak, že existujú práve dva také priestory $U$."
+      }
+    ]
+  },
+  "1654": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/1654/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/1654/attachment_1.jpg"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Charakteristický polynom matice A je $p_A(\\lambda)=-\\lambda^3 +3\\lambda^2 -4=-(\\lambda +1)(\\lambda-2)^2$. Pokud existuje nějaký zúžený operátor na dvoudimenzionální podprostor $U$, tak podle tvrzení 9.112 ze skript jeho charakteristický polynom dělí $p_A$, takže má buď a) vlastní čísla -1, 2 násobnosti 1, nebo b) vlastní číslo 2 násobnosti 1.\n\na) Aby -1 a 3 byla vlastní čísla zúženého operátoru, musí do $U$ náležet nějaký vlastní vektor jim příslušný. Jádra $Ker (A+I_3)=Span \\{(-1,0,1)^T\\}$ a $Ker (A-2I_3)=Span \\{(-2,3,5)^T\\}$ jsou obě jednodimenzionální, generovaná lineárně nezávislými vektory. Volbou libovolné dvojice vektorů $B=(\\mathbf{u},\\mathbf{v})$ (každého z jednoho jádra), například $B=((-1,0,1)^T,(-2,3,5)^T)$ dostaneme bázi roviny. Navíc $f_A(\\mathbf{u})=-\\mathbf{u}$ a $f_A(\\mathbf{v})=2\\mathbf{v}$, takže  $U$ je opravdu invariantní a matice zobrazení na tomto podprostoru vzhledem k bázi $B$ je diagonální (a tedy i v Jordanově tvaru).\n\nb) Do $U$ musí opět náležet vlastní vektor příslušný vlastnímu číslu 2, $\\mathbf{u}\\isin Span{(-2,3,5)^T}$. Aby byl prostor $U$ invariantní, musí pro druhý bázový vektor platit $f_A(\\mathbf{v})=a\\mathbf{v}+b\\mathbf{u}$ pro nějaká reláná $a$, $b$. Zároveň chceme, aby byla matice zúženého zobrazení vzhledem k bázi $B=(\\mathbf{u}, \\mathbf{v})$ v Jordanově tvaru (taková báze existuje vždy, protože vlastní číslo má algebraickou násobnost 2). Zvolím proto $a=2$, $b=1$ a dostávám $(f_A-2id)(\\mathbf{v})=\\mathbf{u}$. Vektory $(\\mathbf{v}, \\mathbf{u})$, tvoří Jordanův řetízek, například $B=((-2,3,5)^T,(0,1,-2)^T)$ (volba jiného násobku vektoru $k\\mathbf{u}$ vede k bázi stejného podprostoru $(k\\mathbf{u},k\\mathbf{v})$)."
+      }
+    ]
+  },
+  "3008": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3008/attachment_0.pdf"
+      }
+    ]
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3131/attachment_0.pdf"
+      }
+    ]
+  },
+  "3142": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3142/attachment_0.jpg"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/2858/attachment_1.jpg"
+      }
+    ]
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2865/attachment_0.pdf"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du08_1/2937/attachment_0.png"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3205/attachment_0.pdf"
+      }
+    ]
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2980/attachment_0.pdf"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2940/attachment_0.pdf"
+      }
+    ]
+  }
+}

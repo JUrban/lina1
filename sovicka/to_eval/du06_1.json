@@ -1,0 +1,1095 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "3356": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3356/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3356/attachment_1.jpg"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3283": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3283/attachment_0.jpg"
+      }
+    ]
+  },
+  "3332": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du06_1/3332/attachment_1.png"
+      },
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du06_1/3332/attachment_2.png"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2903/attachment_0.pdf"
+      }
+    ]
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2935/attachment_0.pdf"
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3281/attachment_0.pdf"
+      }
+    ]
+  },
+  "3227": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3227/attachment_0.pdf"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2430/attachment_1.jpg"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "Lemma: $A\\vec{v} = \\lambda{v} \\Rightarrow A^n\\vec{v}=\\lambda^n\\vec{v}$   \nDůkaz: $A^n\\vec{v} = A^{n-1}A\\vec{v}=A^{n-1}\\lambda{v}$   \nProtože vlastní vektory tvoří podprostor, je $\\lambda\\vec{v}$ také vlastním vektorem, tedy takto můžeme pokračovat, dokud se nedostaneme k $\\lambda^n \\vec{v}$ \n\n# a) Platí\nZvolme vlastní nenulový vektor $\\vec{v}$ příslušný vlastnímu číslu $\\lambda$  \n$A\\vec{v}=\\lambda\\vec{v}$   \n$A^2 \\vec v = \\lambda \\vec v$    \nZ Lemma výše také víme, že    \n$A^2\\vec v=\\lambda^2 \\vec v$   \nTakže   \n$\\lambda^2 \\vec v=\\lambda \\vec v$   \n$(\\lambda^2-\\lambda)\\vec v = \\vec o$   \n$\\lambda(\\lambda-1)\\vec{v} = \\vec o$   \nTakže $\\lambda\\in\\{0,1\\}$\n\n\n# b) Neplatí\nNapříklad matice $A = \\begin{pmatrix}1\\end{pmatrix}$ splňuje $A^2=A$ a má pouze vlastní číslo 1   \nu\n# c) Platí\nZvolme vlastní nenulový vektor $\\vec{v}$ příslušný vlastnímu číslu $\\lambda$     \n   \nDíky Lemma výše víme, že \n$A^n\\vec{v}=\\lambda^n\\vec{v}$   \n$0_{k\\times k}\\vec{v}=\\lambda^n\\vec{v}$   \n$\\vec o = \\lambda^n \\vec v$\n$\\lambda = 0$\n\n# d) Platí\nNalezneme nejmenší $n$ pro které $A^n=0_{k\\times k}$   \nMějme nenulový vektor $\\vec{v} \\in\\R^k$   \nDále mějme vektor $\\vec{u} = A^{n-1}\\vec{v}$   \nVektor $\\vec{u}$ je vlastní vektor matice $A$ příslušný vlastnímu číslu $0$, protože   \n$A\\vec{u} = AA^{n-1}\\vec{v}=A^n\\vec{v}=0_{k\\times k}\\vec{v} = \\vec{o}$"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "2899": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2899/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3166/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3221/attachment_0.pdf"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "2986": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2986/attachment_0.pdf"
+      }
+    ]
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3288/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2956/attachment_0.pdf"
+      }
+    ]
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2202/attachment_0.jpg"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3209/attachment_0.pdf"
+      }
+    ]
+  },
+  "3204": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3204/attachment_0.pdf"
+      }
+    ]
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2826/attachment_0.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3174/attachment_0.pdf"
+      }
+    ]
+  },
+  "2868": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2868/attachment_0.pdf"
+      }
+    ]
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3041/attachment_0.pdf"
+      }
+    ]
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3111/attachment_0.pdf"
+      }
+    ]
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du06_1/3261/attachment_0.png"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3233/attachment_0.pdf"
+      }
+    ]
+  },
+  "3038": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3038/attachment_0.pdf"
+      }
+    ]
+  },
+  "3139": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3139/attachment_0.pdf"
+      }
+    ]
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3194/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/1500/attachment_0.pdf"
+      }
+    ]
+  },
+  "2847": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2847/attachment_0.pdf"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3329": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3329/attachment_0.pdf"
+      }
+    ]
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2492/attachment_0.pdf"
+      }
+    ]
+  },
+  "2860": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2860/attachment_0.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3115/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "3269": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3269/attachment_0.pdf"
+      }
+    ]
+  },
+  "2736": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2736/attachment_0.pdf"
+      }
+    ]
+  },
+  "2918": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2918/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2918/attachment_1.jpg"
+      }
+    ]
+  },
+  "3284": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3284/attachment_0.pdf"
+      }
+    ]
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/1771/attachment_0.jpg"
+      }
+    ]
+  },
+  "3256": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3256/attachment_0.pdf"
+      }
+    ]
+  },
+  "2876": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2876/attachment_0.pdf"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "2989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3136": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3136/attachment_0.pdf"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "#### (a)\n$\\gdef\\x{\\mathbf{x}}$\nPlatí. Mějme $A^2 = A$, $\\lambda$ je vlastním číslem $A$ a $\\x$ je vlastním vektorem příslušícím $\\lambda$. Potom\n$$ \\lambda^2 \\x = \\lambda A \\x = A \\lambda x = A^2 \\x = A\\x = \\lambda \\x $$\njelikož nasobení maticí a skalárem je komutativní. Vektor $\\x$ je nenulový, tedy musí mít alespoň jednu nenulovou složku. Tou lze vydělit a potom tato rovnice v této složce dává\n$$ \\lambda^2 = \\lambda $$\n$$ \\lambda (\\lambda-1) = 0 $$\n$$ \\lambda \\in \\{0, 1\\} $$\n$\\hearts$\n#### (b)\nNeplatí. Mějme $A = I_k$. Jednotková matice je triviálně regulární, a tedy 0 není její vlastní číslo (jejím vlastním číslem je 1 s multiplicitou $k$). $\\hearts$\n#### \\(c)\nPlatí. Budiž $\\x$ vlastní vektor příslušící $\\lambda$. Potom\n$$ 0\\x = \\mathbf{o} = 0_{k \\times k} \\x = A^n \\x = \\lambda^n \\x $$\n$\\x$ je opět nenulový vektor, takže\n$$ \\lambda^n = 0 $$\n$$ \\lambda = 0 $$\n$\\hearts$\n#### (d)\nPlatí. Pro každou matici existuje alespoň jedno komplexní vlastní číslo. Jelikož platnost \\(c) nezávisí na reálnosti $\\lambda$, je s jeho použitím důkaz hotov. $\\hearts$"
+      }
+    ]
+  },
+  "3318": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3318/attachment_0.pdf"
+      }
+    ]
+  },
+  "3277": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3277/attachment_0.pdf"
+      },
+      {
+        "msg": "**Vypracovali**\n- Štěpán Kovačič (32242782)\n- Lukáš Novák (11240823)"
+      }
+    ]
+  },
+  "3351": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3351/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "a) Nech $\\lambda$ je vlastné číslo $A$ a $\\bold{x}$ jeho príslušný nenulový vektor, potom:\n$$\n\\begin{align*}\n(A-\\lambda I_k)\\bold{x} &= 0 \\\\\n(A^2 - A\\lambda I_k)\\bold{x} &= 0 \\\\\n(A - A\\lambda I_k)\\bold{x} &= 0 \\\\\n(1-\\lambda)A\\bold{x} &= 0 \\\\\n(1-\\lambda)\\lambda\\bold{x} &= 0\n\\end{align*}\n$$\nTo však ale platí len ak $\\lambda \\in \\{0, 1\\}$, keďže $\\bold{x} \\neq 0$.\n\nb) Tvrdenie neplatí, ako protipríklad si môžeme zvoliť $A= I_k$, potom platí $A^2 = I_k = A$. Charakteristický polynóm $I_k$ je $(1-\\lambda)^k$, teda jediné vlastné číslo je $1$.\n\nc) Nech $\\lambda$ je vlastné číslo $A$ a $\\bold{x}$ je príslušný nenulový vlastný vektor. Potom platí $A\\bold{x} = \\lambda \\bold{x}$. $A^2 \\bold{x} = A\\lambda \\bold{x} = \\lambda A \\bold{x} = \\lambda^2 \\bold{x}$. Indukciou môžeme pokračovať a dostaneme, že $A^n \\bold{x} = \\lambda^n \\bold{x}$. Avšak $A^n = 0_{k \\times k}$, teda $0 = \\lambda^n \\bold{x}$ pre $\\bold{x} \\neq 0$, teda $\\lambda = 0$.\n\nd) Pre spor predpokladajme, že $0$ nie je vlastné číslo $A$, teda $\\text{det}(A - 0I_k) \\neq 0$, teda $A$ je regulárna. Súčin regulárnych matíc je regulárny, teda $A^n= 0_{k\\times k}$ je regulárna, čo je spor."
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3072/attachment_0.jpg"
+      }
+    ]
+  },
+  "2763": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2763/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2763/attachment_1.jpg"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2932": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2932/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3265/attachment_1.jpg"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2866/attachment_0.pdf"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3339": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3339/attachment_0.pdf"
+      }
+    ]
+  },
+  "3104": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3104/attachment_0.pdf"
+      }
+    ]
+  },
+  "2542": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2542/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3254/attachment_1.pdf"
+      }
+    ]
+  },
+  "3350": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3350/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2862/attachment_0.pdf"
+      }
+    ]
+  },
+  "3075": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3075/attachment_0.pdf"
+      }
+    ]
+  },
+  "3340": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3340/attachment_0.pdf"
+      }
+    ]
+  },
+  "3297": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3297/attachment_0.jpg"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2924/attachment_0.pdf"
+      }
+    ]
+  },
+  "2941": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2941/attachment_2.pdf"
+      }
+    ]
+  },
+  "3085": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3085/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2892/attachment_0.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "2743": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2743/attachment_0.pdf"
+      }
+    ]
+  },
+  "3056": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3056/attachment_1.jpg"
+      }
+    ]
+  },
+  "2771": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2771/attachment_0.pdf"
+      }
+    ]
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3320/attachment_0.pdf"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2984/attachment_0.pdf"
+      }
+    ]
+  },
+  "3260": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3260/attachment_0.pdf"
+      }
+    ]
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/1989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "(a) Áno. Pre spor nech $\\lambda\\not\\in\\{0,1\\}$ je vlastné číslo matice $A$, a nech $\\mathbf{v}$ je príslušný vlastný (nenulový) vektor. Potom platí $A\\mathbf{v}=\\lambda \\mathbf{v}$, a teda prenásobením $A$ z ľava a využitím $A^2=A$ dostávame $A\\mathbf{v}=A\\lambda \\mathbf{v}$, teda $(1-\\lambda)A\\mathbf{v}=\\mathbf{o}$. Nakoľko $1-\\lambda \\neq 0$, tak dostávame $A\\mathbf{v}=\\mathbf{o}=\\lambda \\mathbf{v}$, a nakoľko $\\lambda \\neq 0$, tak dostávame $\\mathbf{v}=\\mathbf{o}$, spor.\n\n(b) Nie. Napríklad matica $A=I_k$ splňuje podmienku, avšak jediné vlastné číslo je $\\lambda = 1$, nakoľko $\\det(I_k - xI_k)=(1-x)^k$ má iba koreň $1$.\n\n(c ) Áno. Pre spor nech $\\lambda\\neq0$ je vlastné číslo matice $A$, a nech $\\mathbf{v}$ je príslušný vlastný (nenulový) vektor. Indukciou na $i=0,1,\\dots,n$ ukážeme, že $A^{n-i}\\mathbf{v}=\\mathbf{o}$. Pre $i=0$ tvrdenie plynie z podmienky. Predpokladajme teraz, že tvrdenie platí pre nejaké $i < n$. Prenásobme rovnicu $A\\mathbf{v}=\\lambda \\mathbf{v}$ z ľava $A^{n-i-1}$, čím dostaneme\n$$  \\mathbf{o} = A^{n-i} \\mathbf{v}=A^{n-i-1}\\lambda \\mathbf{v} = \\lambda A^{n-i-1} \\mathbf{v},  $$\npričom v prvej rovnosti sme použili indukciu. Keďže $\\lambda\\neq 0$, tak z tejto rovnosti plynie $A^{n-i-1} \\mathbf{v} =\\mathbf{o}$. Indukcia dokázaná.\n\nVidíme tak, že pre $i=n$ dostávame $\\mathbf{v} =\\mathbf{o}$, spor.\n\n(d) Áno. Z podmienky dostávame $\\det(A)^n=0$, a teda $\\det(A)=0$, takže $A$ je singulárna, teda má netriviálne jadro, a teda existuje nenulové riešenie rovnice $A\\mathbf{v}=\\mathbf{o}=0\\cdot \\mathbf{v}$, takže $0$ je vlastné číslo."
+      }
+    ]
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3264/attachment_0.pdf"
+      }
+    ]
+  },
+  "1654": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/1654/attachment_0.jpg"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; $(a)$ Predpokladajme $A^2 = A$ a $\\lambda \\in \\R$ je vlastné číslo matice $A$. Potom existuje nenulový vlastný vektor $\\overrightarrow{x} \\in \\R^k$ matice $A$ príslušný $\\lambda$, teda $A\\overrightarrow{x} \\overset{(1)}{=} \\lambda \\overrightarrow{x}$. Prenásobíme obe strany maticou $A$, teda\n$$\nA\\left(A\\overrightarrow{x}\\right) = A\\left(\\lambda \\overrightarrow{x}\\right) \\overset{\\text{asoc.}}{\\implies} A^2\\overrightarrow{x} = \\lambda \\left( A \\overrightarrow{x} \\right) \\overset{\\text{(1)}}\\implies A^2 \\overrightarrow{x} = \\lambda^2 \\overrightarrow{x} \\tag{★}\n$$\nZ predpokladu $A^2 = A$, teda\n$$\\lambda^2\\overrightarrow{x} = A^2\\overrightarrow{x} = A\\overrightarrow{x} \\overset{(1)}{=} \\lambda \\overrightarrow{x}\\implies \\lambda^2\\overrightarrow{x} = \\lambda\\overrightarrow{x} \\implies \\lambda^2\\overrightarrow{x} - \\lambda\\overrightarrow{x} = \\overrightarrow{0} \\overset{\\text{distr.}}{\\implies} \\lambda(\\lambda - 1)\\overrightarrow{x} = \\overrightarrow{0}$$\nPretože $\\overrightarrow{x} \\neq \\overrightarrow{0}$, platí \n$$\\lambda(\\lambda-1) = 0 \\implies \\lambda \\in \\{0, 1\\}$$\nčo sme chceli ukázať.\n\n&nbsp; $(b)$ Uvažujme $A = I_k$. Predpoklad je splnený, pretože $A^2 = I_k^2 = I_k = A$. Jednotková matica má ale jediné vlastné číslo $1$ (každý vektor zobrazí na $1$-násobok seba samého), teda $0$ nie je vlastným číslom $A$, takže tvrdenie neplatí.\n\n&nbsp; $(c)$ Predpokladajme $A^n = 0_{k\\times k}$ a $\\lambda \\in \\R$ je vlastné číslo $A$. Analogicky k $(a)$ existuje nenulový $\\overrightarrow{x} \\in \\R^k$ taký, že \n$$A\\overrightarrow{x} = \\lambda \\overrightarrow{x} \\overset{(★)}{\\implies} A^2\\overrightarrow{x} = \\lambda^2\\overrightarrow{x}$$\nOpakovaným použitím $(★)$ dostávame\n$$A^n\\overrightarrow{x} = \\lambda^n\\overrightarrow{x} \\implies 0_{k\\times k}\\overrightarrow{x} = \\lambda^n \\overrightarrow{x} \\implies \\overrightarrow{0} = \\lambda^n \\overrightarrow{x}$$\nPretože $\\overrightarrow{x} \\neq \\overrightarrow{0}$, platí \n$$\\lambda^n = 0 \\implies \\lambda=0$$\nčo sme chceli ukázať.\n\n&nbsp; $(d)$ Predpokladajme $A^n = 0_{k\\times k}$. Uvažujme korene charakteristického polynómu matice $A$, teda korene rovnice $\\text{det}(A-\\lambda I_k)=0$. Pre spor predpokladajme, že $0$ nie je vlastným číslom $A$. Potom, pretože sú vlastné čísla koreňmi charakteristického polynómu, nie je $0$ koreňom, teda\n$$\\text{det}(A - 0I_k) \\neq 0 \\implies \\text{det}(A) \\neq 0$$\nZ toho je $A$ regulárna matica. Pretože súčin regulárnych matíc je regulárna matica, $A^n$ je tiež regulárna, teda podľa predpokladu je $0_{k \\times k}$ regulárna, čo je spor, pretože nulová matica je vždy singulárna. Tým je tvrdenie dokázané."
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "(a) Platí. Pro nějaký nenulový vektor $\\mathbf{v}$ platí $A\\mathbf{v} = \\lambda\\mathbf{v}$. Po vynásobení zleva maticí $A$ dostaneme $A^2\\mathbf{v} = A(\\lambda\\mathbf{v})$, neboli $A\\mathbf{v} = \\lambda(A\\mathbf{v})$. To dále upravím za použití první rovnice na $\\lambda\\mathbf{v}=\\lambda^2\\mathbf{v}$ a odečtu: $\\mathbf{o}=(\\lambda^2-\\lambda)\\mathbf{v}$. Protože $\\mathbf{v}$ je nenulový, řeší rovnici pouze $\\lambda = 1$ a $\\lambda = 0$.\n\n(b) Neplatí. Pro jednotkovou matici $I$ platí $I^2 = I$, ale jediný vektor, který řeší $I\\mathbf{v} = 0\\mathbf{v}$, neboli $\\mathbf{v}=\\mathbf{o}$ je nulový vektor, takže $I$ nemá vlastní číslo 0.\n\n\\(c\\) Platí. Pro nějaký nenulový vektor $\\mathbf{v}$ platí $A\\mathbf{v} = \\lambda\\mathbf{v}$. \nKdyž obě strany rovnice vynásobím $A^{n-1}$, dostanu $A^n\\mathbf{v} = A^{n-1}(\\lambda\\mathbf{v})$. Levá strana je ze zadání rovna $\\mathbf{o}$ pravou stranu upravím opakovanou aplikací linearity maticového násobení a první rovnosti, $\\mathbf{o} = \\lambda^n\\mathbf{v}$. Jelikož $\\mathbf{v}$ je nenulový, tak $\\lambda^n = 0$, tedy $\\lambda = 0$.\n\n(d) Platí. Pro nějaký nenulový vektor $\\mathbf{v}$ a $k$ celé nezáporné označím $a_k = A^k\\mathbf{v}$. Dodefinuji $a_0 = \\mathbf{v} \\neq \\mathbf{o}$ a ze zadání $a_n = \\mathbf{o}$. Existuje tedy $k$ takové, že $a_k = \\mathbf{o}$, ale $a_{k-1}\\neq\\mathbf{o}$. Takže $A(A^{k-1}\\mathbf{v})=\\mathbf{o}=0A^{k-1}\\mathbf{v}$, pro nenulový vektor $A^{k-1}\\mathbf{v}$, tedy 0 je vlastní číslo $A$."
+      }
+    ]
+  },
+  "2922": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2922/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "3108": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3108/attachment_1.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2815/attachment_1.jpg"
+      }
+    ]
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2464/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3407": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3407/attachment_0.pdf"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3135/attachment_0.pdf"
+      }
+    ]
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2865/attachment_0.pdf"
+      }
+    ]
+  },
+  "2934": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2934/attachment_0.pdf"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3121": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3121/attachment_0.pdf"
+      }
+    ]
+  },
+  "3000": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3000/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "2764": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2764/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2764/attachment_1.jpg"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du06_1/2937/attachment_0.png"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3205/attachment_0.pdf"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3045/attachment_1.pdf"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2940/attachment_0.pdf"
+      }
+    ]
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3168/attachment_0.pdf"
+      }
+    ]
+  },
+  "3196": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3196/attachment_0.pdf"
+      }
+    ]
+  }
+}

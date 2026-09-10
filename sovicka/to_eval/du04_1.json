@@ -1,0 +1,1125 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3356": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3356/attachment_0.jpg"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3314": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3314/attachment_0.jpg"
+      }
+    ]
+  },
+  "3128": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3128/attachment_0.pdf"
+      }
+    ]
+  },
+  "3332": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3332/attachment_0.pdf"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2903/attachment_0.pdf"
+      }
+    ]
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2935/attachment_0.pdf"
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du04_1/3281/attachment_0.png"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2430/attachment_0.jpg"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "Abychom minimalizovali dané čtverce budeme uvažovat soustavu   \n$\\begin{pmatrix}\n0&0&1&|&1\\\\\n1&0&1&|&1\\\\\n0&1&1&|&1\\\\\n1&1&1&|&2\\\\\n1&-1&1&|&0\\\\\n-1&1&1&|&1\n\\end{pmatrix}$   \na vyřešíme rovnici $A^*A\\vec{\\widehat{x}}=A^*\\vec{b}$   \n$\\begin{pmatrix}\n0&1&0&1&1&-1\\\\\n0&0&1&1&-1&1\\\\\n1&1&1&1&1&1\\\\\n\\end{pmatrix}\n\\begin{pmatrix}\n0&0&1\\\\\n1&0&1\\\\\n0&1&1\\\\\n1&1&1\\\\\n1&-1&1\\\\\n-1&1&1\n\\end{pmatrix}\n\\begin{pmatrix}a\\\\b\\\\c\\end{pmatrix}=\n\\begin{pmatrix}\n0&1&0&1&1&-1\\\\\n0&0&1&1&-1&1\\\\\n1&1&1&1&1&1\\\\\n\\end{pmatrix}\\begin{pmatrix}\n1\\\\1\\\\1\\\\2\\\\0\\\\1\\end{pmatrix}$   \n$\\begin{pmatrix}\n4 &-1&2\\\\\n-1&4 &2\\\\\n2 &2 &6\\\\\n\\end{pmatrix}\n\\begin{pmatrix}a\\\\b\\\\c\\end{pmatrix}=\n\\begin{pmatrix}\n2\\\\\n4\\\\\n6\n\\end{pmatrix}\n$   \n   \n$\\begin{pmatrix}\n4 &-1&2&|&2\\\\\n-1&4 &2&|&4\\\\\n2 &2 &6&|&6\\\\\n\\end{pmatrix}\n$   \n   \nŘešením soustavy je vektor $\\begin{pmatrix}0.4\\\\0.8\\\\0.6\\end{pmatrix}$   \nRovnoce roviny je tedy $z=0.4x+0.8y+0.6$"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3225/attachment_1.jpg"
+      }
+    ]
+  },
+  "2899": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2899/attachment_0.pdf"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3248/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3248/attachment_1.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3221/attachment_0.pdf"
+      }
+    ]
+  },
+  "3324": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3324/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3324/attachment_1.pdf"
+      }
+    ]
+  },
+  "3349": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3349/attachment_0.jpg"
+      }
+    ]
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3288/attachment_0.pdf"
+      }
+    ]
+  },
+  "2947": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2947/attachment_0.pdf"
+      }
+    ]
+  },
+  "2923": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2923/attachment_0.pdf"
+      }
+    ]
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 4.1.\n\nRovina bude mít vzorec $\\frac{2}{5}x+\\frac{4}{5}y+\\frac{3}{5}=z$.\n\n#### Důkaz\n\nHledáme vlastně zobrazení vektorů z x a y do z. Lze to zapsat jako soustavu lineárních rovnic s vektory ze zadání: $\\left(\\begin{array}{ccc|c} 0 & 0 & 1 & 1 \\\\ 1 & 0 & 1 & 1 \\\\ 0 & 1 & 1 & 1 \\\\ 1 & 1 & 1 & 2 \\\\ 1 & -1 & 1 & 0 \\\\ -1 & 1 & 1 & 1 \\end{array}\\right)$. Poslední sloupec jsou hodnoty c.\n\nDle tvrzení 8.91 ze skripter kde je SLR nahoře $A\\mathbf{x}=\\mathbf{b}$. V tom případě je $A^{T}A = \\left(\\begin{array}{c} 4 & -1 & 2 \\\\ -1 & 4 & 2 \\\\ 2 & 2 & 6 \\end{array}\\right)$. Druhá strana rovnice bude $A^{T}\\mathbf{b}=\\left(\\begin{array}{c} 2 \\\\ 4 \\\\ 6 \\end{array}\\right)$. Řešení této SLR bude $\\left(\\begin{array}{c} \\frac{2}{5} \\\\ \\frac{4}{5} \\\\ \\frac{3}{5} \\end{array}\\right)$, což jsou naše $\\left(\\begin{array}{c} a \\\\ b \\\\ c \\end{array}\\right)$"
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2956/attachment_1.pdf"
+      }
+    ]
+  },
+  "2881": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2881/attachment_0.pdf"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3209/attachment_0.pdf"
+      }
+    ]
+  },
+  "3204": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3204/attachment_0.pdf"
+      }
+    ]
+  },
+  "2857": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2857/attachment_0.pdf"
+      }
+    ]
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2826/attachment_0.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3174/attachment_0.pdf"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3233/attachment_0.pdf"
+      }
+    ]
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3198/attachment_0.jpg"
+      }
+    ]
+  },
+  "3245": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3245/attachment_0.pdf"
+      }
+    ]
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3194/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/1500/attachment_0.pdf"
+      }
+    ]
+  },
+  "2847": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2847/attachment_0.pdf"
+      }
+    ]
+  },
+  "2889": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2889/attachment_0.pdf"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3329": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3329/attachment_0.pdf"
+      }
+    ]
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2492/attachment_0.pdf"
+      }
+    ]
+  },
+  "2860": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2860/attachment_0.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3115/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3268/attachment_1.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "3113": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du04_1/3113/attachment_0.png"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3276/attachment_0.pdf"
+      }
+    ]
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3250/attachment_0.pdf"
+      }
+    ]
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2968/attachment_0.pdf"
+      }
+    ]
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/1771/attachment_0.jpg"
+      }
+    ]
+  },
+  "3256": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3256/attachment_0.pdf"
+      }
+    ]
+  },
+  "2876": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2876/attachment_0.pdf"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3266": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3266/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\bf#1{\\mathbf{#1}}$\n$\\gdef\\u{\\bf{u}}$\n$\\gdef\\v{\\bf{v}}$\n$\\gdef\\scal#1#2{\\langle #1, #2 \\rangle}$\n$\\gdef\\sscal#1{\\scal{#1}{#1}}$\n$\\gdef\\vect#1{\\begin{pmatrix}#1\\end{pmatrix}}$\n$\\gdef\\matr#1#2{\\left ( \\begin{array}{#1} #2\\end{array} \\right )}$\nHledáme tedy optimální řešení soustavy rovnic, kde každý řádek jsou koeficienty pro $a$, $b$ a $c$ resp. a pravá strana jsou příslušné souřadnice z. Máme tedy\n$$ \\matr{ccc|c}{0&0&1&1\\\\\n1&0&1&1\\\\\n0&1&1&1\\\\\n1&1&1&2\\\\\n1&-1&1&0\\\\\n-1&1&1&1} $$\nNalezení optimálního řešení tedy spočívá ve spočtení kolmého průmětu pravé strany do obrazu levé, jelikož to minimalizuje normu $||A\\bf{x}-\\bf{z}||$. Provedeme tedy Gram=Schmidtovu ortogonalizaci sloupců levé strany. Dostáváme\n$$a_1=\\vect{0.0\\\\\n -0.5\\\\\n  0.0\\\\\n -0.5\\\\\n -0.5\\\\\n  0.5}, a_2=\\vect{  0.0\\\\\n -0.129\\\\\n -0.516\\\\\n -0.645\\\\\n  0.387\\\\\n -0.387}, a_3=\\vect{ -0.547\\\\\n -0.182\\\\\n -0.182\\\\\n  0.182\\\\\n -0.547\\\\\n -0.547}$$\nNyní stačí spočítat ortogonální průmět $\\bf{z}$.\n$$ A\\bf{x} = (a_1 \\cdot \\bf{z}) a_1 + (a_2 \\cdot \\bf{z}) a_2 + (a_3 \\cdot \\bf{z}) a_3 = \\vect{0.6\\\\1\\\\1.4\\\\1.8\\\\0.2\\\\1} $$\nNyní stačí přesně vyřešit tuto rovnici (například Gaussovou eliminací).\n$$ \\bf{x} = \\vect{0.4\\\\0.8\\\\0.6} $$\nRegrese je tedy $z = 0.4 x + 0.8 y + 0.6$. $\\hearts$"
+      }
+    ]
+  },
+  "3318": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3318/attachment_0.pdf"
+      }
+    ]
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3238/attachment_0.pdf"
+      }
+    ]
+  },
+  "2125": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2125/attachment_0.jpg"
+      }
+    ]
+  },
+  "3351": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3351/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Použijeme metódu najmenších štvorcov, teda trojica $(a, b, c)$ je približným riešením sústavy:\n$$\n\\left(\\begin{array}{ccc|c}\nx_1 & y_1 & 1 & z_1 \\\\\nx_2 & y_2 & 1 & z_2 \\\\\nx_3 & y_3 & 1 & z_3 \\\\\nx_4 & y_4 & 1 & z_4 \\\\\nx_5 & y_5 & 1 & z_5 \\\\\nx_6 & y_6 & 1 & z_6 \n\\end{array}\\right)\n=\n\\left(\\begin{array}{ccc|c}\n0 &0 & 1 & 1 \\\\\n1 & 0 & 1 & 1 \\\\\n0 & 1 & 1 & 1 \\\\\n1 & 1 & 1 & 2 \\\\\n1 & -1 & 1 & 0 \\\\\n-1 & 1 & 1 & 1 \n\\end{array}\\right)\n=\n(A|\\bold{b})\n$$\nToto približné riešenie získavame ako riešenie:\n$$\nA^*A(a, b, c)^T = A^*\\bold{b} \\\\\n\\left(\\begin{array}{cccccc}\n0 & 1 & 0 & 1 & 1 & -1 \\\\\n0 & 0 & 1 & 1 & -1 & 1\\\\\n1 & 1 & 1 & 1 & 1 & 1\n\\end{array}\\right)\n\\left(\\begin{array}{ccc}\n0 &0 & 1 \\\\\n1 & 0 & 1 \\\\\n0 & 1 & 1 \\\\\n1 & 1 & 1 \\\\\n1 & -1 & 1 \\\\\n-1 & 1 & 1\n\\end{array}\\right)\n\\left(\\begin{array}{c}\na \\\\\nb\\\\\nc\n\\end{array}\\right)\n=\n\\left(\\begin{array}{cccccc}\n0 & 1 & 0 & 1 & 1 & -1 \\\\\n0 & 0 & 1 & 1 & -1 & 1\\\\\n1 & 1 & 1 & 1 & 1 & 1\n\\end{array}\\right)\n\\left(\\begin{array}{c}\n1 \\\\\n1 \\\\\n1 \\\\\n2 \\\\\n0 \\\\\n1\n\\end{array}\\right)\n\\\\\n\\left(\\begin{array}{ccc}\n4 & -1 & 2 \\\\\n-1 & 4 & 2 \\\\\n2 & 2 & 6\n\\end{array}\\right)\n\\left(\\begin{array}{c}\na \\\\\nb\\\\\nc\n\\end{array}\\right)\n=\n\\left(\\begin{array}{c}\n2 \\\\\n4\\\\\n6\n\\end{array}\\right)\n$$\nPo vyriešení poslednej sústavy dostávame $(a, b, c) = \\left(\\frac{2}{5}, \\frac{4}{5}, \\frac{3}{5}\\right)$."
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3305/attachment_0.jpg"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3072/attachment_1.jpg"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2760/attachment_1.pdf"
+      }
+    ]
+  },
+  "2932": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2932/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3265/attachment_0.jpg"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3287": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3287/attachment_0.pdf"
+      }
+    ]
+  },
+  "3339": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3339/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3331/attachment_0.pdf"
+      }
+    ]
+  },
+  "3037": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3037/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2862/attachment_0.pdf"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2924/attachment_0.pdf"
+      }
+    ]
+  },
+  "2941": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2941/attachment_0.pdf"
+      }
+    ]
+  },
+  "3085": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3085/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2892/attachment_1.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "2743": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2743/attachment_0.pdf"
+      }
+    ]
+  },
+  "2988": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2988/attachment_0.pdf"
+      }
+    ]
+  },
+  "3056": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3056/attachment_0.jpg"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2984/attachment_0.pdf"
+      }
+    ]
+  },
+  "3260": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3260/attachment_0.pdf"
+      }
+    ]
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/1989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "Riešime sústavu $A\\mathbf{x}=\\mathbf{b}$ metódou najmenších štvorcov, kde\n$$ A = \\begin{pmatrix}\n0 & 0 & 1 \\\\\n1 & 0 & 1 \\\\\n0 & 1 & 1 \\\\\n1 & 1 & 1 \\\\\n1 & -1 & 1 \\\\\n-1 & 1 & 1\n\\end{pmatrix}   $$\na\n$$  \\mathbf{b} = (1,1,1,2,0,1)^T  .  $$\nZ prednášky vieme, že množina hľadaných riešení je rovna množine riešení $\\mathbf{\\hat{x}}$ súsatvy\n$$ A^*A \\mathbf{\\hat{x}} = A^*\\mathbf{b}. $$\nPomocou skalárnych súčinov stĺpcov matice $A$ ľahko spočítame\n$$  A^*A = \\begin{pmatrix}\n4 & -1 & 2 \\\\\n-1 & 4 & 2 \\\\\n2 & 2 & 6\n\\end{pmatrix} . $$\nNavyše\n$$  A^*\\mathbf{b} = (2,4,6)^T . $$\nRiešením sústavy $(A^*A \\ \\vert A^*\\mathbf{b})$ je vektor $\\mathbf{\\hat{x}}=(2/5,\\ 4/5,\\ 3/5)^T$, a teda hľadaná rovina je\n$$ z = \\frac{2}{5}x + \\frac{4}{5}y + \\frac{3}{5}.    $$"
+      }
+    ]
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3264/attachment_0.jpg"
+      }
+    ]
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2562/attachment_0.jpg"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "3326": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3326/attachment_0.jpg"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3253/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3253/attachment_1.pdf"
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "2922": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2922/attachment_0.pdf"
+      }
+    ]
+  },
+  "3108": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3108/attachment_0.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2815/attachment_0.jpg"
+      }
+    ]
+  },
+  "3008": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3008/attachment_0.pdf"
+      }
+    ]
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2464/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3131/attachment_0.pdf"
+      }
+    ]
+  },
+  "3407": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3407/attachment_0.pdf"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3135/attachment_0.pdf"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3317/attachment_0.pdf"
+      }
+    ]
+  },
+  "3150": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3150/attachment_0.pdf"
+      }
+    ]
+  },
+  "2934": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2934/attachment_0.pdf"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3121": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3121/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "2764": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2764/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2764/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2764/attachment_2.jpg"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2937/attachment_0.jpg"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3205/attachment_0.pdf"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3045/attachment_0.pdf"
+      }
+    ]
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du04_1/2980/attachment_0.jpg"
+      }
+    ]
+  },
+  "3094": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3094/attachment_0.pdf"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2517": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/2517/attachment_0.pdf"
+      }
+    ]
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3168/attachment_0.pdf"
+      }
+    ]
+  },
+  "3165": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3165/attachment_0.pdf"
+      }
+    ]
+  },
+  "3179": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du04_1/3179/attachment_0.pdf"
+      }
+    ]
+  }
+}

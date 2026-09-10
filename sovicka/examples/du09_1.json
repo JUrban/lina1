@@ -1,0 +1,193 @@
+{
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3039/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2866/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3198/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3198/attachment_1.jpg"
+      }
+    ],
+    "points": 1.5
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2492/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2398/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3314": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3314/attachment_0.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2917/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3072/attachment_0.jpg"
+      }
+    ],
+    "points": 0.0
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3275/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3275/attachment_2.jpg"
+      }
+    ],
+    "points": 1.5
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 9.1.\n\nPokud je stotísíců komárů více než stovek žáb, počty obou půjdou pro $n \\to \\infty$ do nekonečna. Poměr se v budoucnosti blíží 5000. Pokud je stovek žáb více než stotísíců komárů, oba druhy v konečném čase vymřou. (Pokud je na každou stovku žáb stotisíc komárů, populace obou půjde v nekonečném čase k nule.)\n\n### Důkaz\n\nKomáry a žáby si přepíšeme do jednotek kde je 100 000 komárů jedna jednotka komárů a 100 žáb jedna jednotka žáb. Poté lze chování systému vyjádřit jako $\\left(\\begin{array}{c} 1,3 & -0,5 \\\\ 0,1 & 0,7 \\end{array}\\right)\\left(\\begin{array}{c} k_n \\\\ z_n \\end{array}\\right)=\\left(\\begin{array}{c} k_{n+1} \\\\ z_{n + 1} \\end{array}\\right)$ kde $k_n$ je počet jednotek komárů v čase n a $z_n$ je počet jednotek žáb v čase n.\n\nTuto soustavu lze diagonalizovat, jelikož mztice má dvě vlastní čísla (0,8 a 1,2) s násobností 1. Báze ve které je matice diagonální bude $\\left\\{\\left(\\begin{array}{c} 1 \\\\ 1 \\end{array}\\right);\\left(\\begin{array}{c} 5 \\\\ 1 \\end{array}\\right)\\right\\}$. Vektor jednotek žáb a komárů v této bázi bude $\\left(\\begin{array}{c} \\frac{-k_n + 5z_n}{4} \\\\ \\frac{k_n - z_n}{4} \\end{array}\\right)$. Vektor jednotek žáb a komárů v čase n bude tedy $\\left(\\begin{array}{c} (0,8)^k \\frac{-k_0 + 5z_0}{4} \\\\ (1,2)^k \\frac{k_0 - z_0}{4} \\end{array}\\right)$. Z toho už lze vidět jak se bude soustava chovat pro počáteční hodnoty. Pokud bude více jednotek komárů než jednotek žáb, z druhého členu vektoru lze vidět že počet půjde do nekonečna. Pokud jde čas do nekonečna, stabilní podíl ke kterému se systém blíží by se měl rovnat vlastnímu vektoru systému (Jelikož vlastní vektor se vždy zobrazí na násobek seme sama). Pro číslo 1,2 je tento podíl $\\frac{5}{1}$, tedy mimo jednotek 5000. Pokud je žáb více než komárů, z vyjádření v bázi lze vidět že počet komárů se po nějakém bodě stane záporným (díky tomu že počet komárů v bázi je v tomto případě nižší než počet žáb) po nějakém počtu roků, což znamená vymření."
+      }
+    ],
+    "points": 3.0
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3288/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3115/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3254/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3264/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3131/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3009/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/1989/attachment_1.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/534/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3317/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3111/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  }
+}

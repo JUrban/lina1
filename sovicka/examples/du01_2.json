@@ -1,0 +1,180 @@
+{
+  "3300": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3300/attachment_0.jpg"
+      }
+    ],
+    "points": 0.0
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 1.2.\n\nVektory $\\mathbf{v}$ a $\\mathbf{u}$ lze zapsat jako násobek dvou nenulových různě orientovaných vektorů (Velikost báze prostoru $\\mathbb{R}^2$ je 2, a tedy jako důsledek Steignitzovi věty je posloupnost dvou nenulových vektorů bází prostoru.) Vektor $\\mathbf{u}$ tedy bude $u_1 \\mathbf{e}_1+ u_2 \\mathbf{e}_2$, podobně pro vektor $\\mathbf{v}$. Jejich součin lze přepsat jako:\n\n$$\\langle \\mathbf{u}; \\mathbf{v} \\rangle = \\langle (u_1 \\mathbf{e}_1+ u_2 \\mathbf{e}_2); (v_1 \\mathbf{e}_1+ v_2 \\mathbf{e}_2) \\rangle = v_1 u_1\\langle \\mathbf{e}_1; \\mathbf{e}_1 \\rangle + v_2 u_1\\langle \\mathbf{e}_1; \\mathbf{e}_2 \\rangle + v_1 u_2\\langle \\mathbf{e}_2; \\mathbf{e}_1 \\rangle + v_2 u_2\\langle \\mathbf{e}_2; \\mathbf{e}_2 \\rangle $$\n\nToto lze přepsat do maticové podoby jako $\\left(\\begin{array}{cc} u_1 & u_2 \\end{array}\\right)\\left(\\begin{array}{cc} \\langle \\mathbf{e}_1; \\mathbf{e}_1 \\rangle && \\langle \\mathbf{e}_1; \\mathbf{e}_2 \\rangle \\\\ \\langle \\mathbf{e}_2; \\mathbf{e}_1 \\rangle && \\langle \\mathbf{e}_2; \\mathbf{e}_2 \\rangle \\end{array}\\right) \\left(\\begin{array}{c} v_1 \\\\ v_2 \\end{array}\\right)$. Při správné volbě báze jsou vektory v tomto výrazu vektory $\\mathbf{u}^T$ a $\\mathbf{v}$. Matice je tedy matice $A$. Velikost vektorů jejichž součin tvoří první člen matice jsou větší než nula, takže $a_{11} > 0$. Determinant matice bude $\\langle \\mathbf{e}_1; \\mathbf{e}_1 \\rangle \\langle \\mathbf{e}_2; \\mathbf{e}_2 \\rangle - \\langle \\mathbf{e}_1; \\mathbf{e}_2 \\rangle \\langle \\mathbf{e}_2; \\mathbf{e}_1 \\rangle$. Jelikož $\\langle \\mathbf{e}_2; \\mathbf{e}_1 \\rangle = |\\mathbf{e}_2| |\\mathbf{e}_1| \\cos{(\\phi)} = \\langle \\mathbf{e}_1; \\mathbf{e}_2 \\rangle$ kde $\\phi$ je úhel mezi vektory. Jelikož vektory jsou lineárně nezávyslé, jejich vektorový součin bude nižší než násobek velikostí vektorů ($\\phi\\ne 0$). $|\\mathbf{e}_2|^2 |\\mathbf{e}_1|^2 - |\\mathbf{e}_2| |\\mathbf{e}_1| \\cos{(\\phi)} > 0$  platí pro libovolné nenulové různě orientované vektory $\\mathbf{e}_1$ a  $\\mathbf{e}_2$ a tedy det$(A)>0$"
+      }
+    ],
+    "points": 0.5
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3264/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3039/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3076/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3331/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3344/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3340": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3340/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2900/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3150": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3150/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2865/attachment_0.pdf"
+      }
+    ],
+    "points": 0.5
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3261/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3205/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2871/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3009/attachment_0.jpg"
+      }
+    ],
+    "points": 2.5
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2984/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3115/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "Dané zobrazenie zrejme spĺňa symetriu (plynie z toho, že matica $A$ je symetrická), a aj linearitu v druhej zložke (plynie z toho ako funguje násobenie matíc). Preto nám stačí ukázať, že daná reálna matica \n$$A=\\begin{pmatrix}\na & b \\\\\nb & c\n\\end{pmatrix}$$\nje pozitívne definitívna (nad $\\mathbb{R}^2$) práve vtedy keď $a>0$ a $ac>b^2$.\n\nNech $\\textbf{x}=\\binom{x}{y}$, kde $x,y\\in\\mathbb{R}$. Potom ľahko spočítame, že\n$$  \\textbf{x}^TA\\textbf{x} = ax^2 + 2bxy + cy^2.  $$ \nDokážme teraz obe implikácie:\n\n($\\implies$) Nech pre všetky $x,y\\in\\mathbb{R}$ platí $ax^2 + 2bxy + cy^2\\geq 0$, pričom rovnosť nastáva práve vtedy keď $(x,y)=(0,0)$. Ak $a=0$, potom ak by $b\\neq 0$ tak výraz $2bxy$ vieme vhodnou voľbou $x$ urobiť veľmi záporný, a teda by nepltila daná nerovnosť. Preto aj $b=0$. Avšak potom rovnosť nastáva pre hociakú dvojicu $(x,0)$, spor.\n\nPreto $a\\neq 0$. Zvoľme teraz $y=1$. Potom kvadratická rovnica $ax^2+2bx+c$ nemôže mať koreň, a teda diskriminant musí byť záporný, teda $4b^2-4ac<0$, teda $b^2<ac$. Zvoľme ďalej $(x,y)=(1,0)$, odkiaľ $a\\geq 0$, nakoľko $a\\neq 0$ tak $a>0$.\n\n($\\impliedby$) Nech $a>0$ a $ac>b^2$. Z toho plynie aj $c>0$, a $\\sqrt{ac}>b>-\\sqrt{ac}$. \n\nAk $xy > 0$, potom $2bxy > -2\\sqrt{ac}xy$, a teda\n$$  ax^2 + 2bxy + cy^2 > (\\sqrt{a}x)^2 + (\\sqrt{c}y)^2 -2\\sqrt{ac}xy = (\\sqrt{a}x-\\sqrt{c}y)^2\\geq 0  .$$\nAk $xy<0$, tak $2bxy > 2\\sqrt{ac}xy$, a teda\n$$  ax^2 + 2bxy + cy^2 > (\\sqrt{a}x)^2 + (\\sqrt{c}y)^2 +2\\sqrt{ac}xy = (\\sqrt{a}x+\\sqrt{c}y)^2\\geq 0  .$$\nAk $xy=0$, tak buď $x=0$ alebo $y=0$. Ak $x=0$, potom \n$$  ax^2 + 2bxy + cy^2 = cy^2 \\geq 0,  $$\npričom rovnosť nastáva práve vtedy ak aj $y=0$. Analogicky pre prípad $y=0$."
+      }
+    ],
+    "points": 4.0
+  },
+  "3349": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3349/attachment_0.jpg"
+      }
+    ],
+    "points": 0.0
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3310/attachment_0.jpg"
+      }
+    ],
+    "points": 0.5
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 3.2.\n\nOrtogonální báze je $\\left( \\frac{1}{2}; \\frac{(x-3)\\sqrt{3}}{4}; \\frac{(3x^2 -18x+23)\\sqrt(5)}{16} \\right)$. Z skalárních násobků a velikostí funkcí lze prokázat že jsou ortonormální, a členy jsou lineárními kombinacemi $1;x;x^2$.\n\nProjekce funkce sinus na podprostor je shruba $-0.000008(x^2-x2192.46+2.19912)$. Jako polynom to je $-0.000008x^2+0.01754x+0.000018$. Funkce $sin(x)+0.000008(x^2-x2192.46+2.19912)$ není úplně kolmá na ortonormální báze. Toto je kvůli zaukrouhlování funkce, která je tvořena zlomkem s goniometrickými funkcemi.\n\nNorma projekce je shurba $|sin(x)+0.000008(x^2-x2192.46+2.19912)|=0.101988$."
+      }
+    ],
+    "points": 1.0
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3301/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "3350": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3350/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2956/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3283": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3283/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "2511": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2511/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3166/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3331/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3238/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "3089": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3089/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3316": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3316/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2398/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2182/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "2743": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2743/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3194/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "3300": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3300/attachment_0.jpg"
+      }
+    ],
+    "points": 2.0
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3310/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3310/attachment_1.jpg"
+      }
+    ],
+    "points": 2.5
+  },
+  "3308": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3308/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3346/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3244": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3244/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  }
+}

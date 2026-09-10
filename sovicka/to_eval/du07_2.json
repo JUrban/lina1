@@ -1,0 +1,848 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3244": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3244/attachment_0.pdf"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3332": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du07_2/3332/attachment_0.png"
+      }
+    ]
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2935/attachment_0.pdf"
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3281/attachment_0.pdf"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "Mějme \"základní\" bázi $K = \\{1,x,x^2\\}$   \nMatice operátoru $\\phi$: $[\\phi_A]^K_K = \n\\begin{pmatrix}\n0&2&0\\\\\n0&0&4\\\\\n0&0&2\n\\end{pmatrix}$   \n   \nNalezneme charakteristický polynom   \n$\\det\\begin{pmatrix}\n0-\\lambda&2&0\\\\\n0&0-\\lambda&4\\\\\n0&0&2-\\lambda\n\\end{pmatrix} = (-\\lambda)(-\\lambda)(2-\\lambda)=-\\lambda^3+2\\lambda^2=\\lambda^2(2-\\lambda)$   \n   \nOperátor má vlastní čísla: $0$ s algebraickou násobností 2 a $2$ s a.n. 1   \n   \nNalezneme podprostory $\\ker(\\phi-0id)$ a $\\ker(\\phi-2id)$   \n$\\ker(\\phi-0id)=\\ker\\begin{pmatrix}\n0-0&2&0\\\\\n0&0-0&4\\\\\n0&0&2-0\n\\end{pmatrix} = Span\\{(1,0,0)^T\\}$   \n$\\ker(\\phi-2id)=\\ker\\begin{pmatrix}\n0-2&2&0\\\\\n0&0-2&4\\\\\n0&0&2-2\n\\end{pmatrix} = Span\\{(2,2,1)^T\\}$   \n   \nObě vlastní čísla budou mít jeden Jordanův řetízek   \n   \n$\\vec{u_2}\\overset{\\phi-0id}{\\mapsto}\\vec{u_1}\\overset{\\phi-0id}{\\mapsto}\\vec{o}$   \n$\\vec{v_1}\\overset{\\phi-2id}{\\mapsto}\\vec{o}$   \n   \n$u_1\\in\\ker(\\phi-0id)$, zvolím $u_1=(1,0,0)^T$   \n$u_2$ je řešením soustavy $[\\phi_A-0id]^K_Ku_2=u_1$, zvolím $u_2 = (0,\\frac{1}{2},0)^T$   \n   \n$v_1\\in\\ker(\\phi-2id)$, zvolím $v_1=(2,2,1)^T$   \n   \nJako bázi $B$ si tedy zvolím $B=(u_1,u_2,v_1)=((1,0,0)^T,(0,\\frac{1}{2},0)^T,(2,2,1)^T)$    \nMatice v Jordanově tvaru operátoru $\\phi$ příslušná bázi $B$ je tedy   \n$[\\phi]^B_B=\\begin{pmatrix}0&1&0\\\\0&0&0\\\\0&0&2\\end{pmatrix}$"
+      }
+    ]
+  },
+  "2899": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2899/attachment_0.pdf"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3219": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du07_2/3219/attachment_0.png"
+      }
+    ]
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3288/attachment_0.pdf"
+      }
+    ]
+  },
+  "3298": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3298/attachment_0.pdf"
+      }
+    ]
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 7.2.\n\nMatice v Jordanově tvaru bude $[\\Phi]_B ^B = \\left(\\begin{array}{c} 2 & 0 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & 0 \\end{array}\\right)$ a to pro bázi $B = \\left\\{ x^2 + 2x + 2 ; 1 ; \\frac{1}{2}x \\right\\}$\n\n### Důkaz\n\nPokud budeme brát polynom jako tříčlenný vektor, lze operátor popsat jako matici $[\\Phi]^K _K = \\left(\\begin{array}{c} 2 & 0 & 0 \\\\ 4 & 0 & 0 \\\\ 0 & 2 & 0 \\end{array}\\right)$. Tato matice bude mít vlastní čísla 0 a 2. Budou tedy dva Jordanovy řetízky, jeden s vlastním číslem ě délky jedna a druhý s vlastním číslem 0 délky 2. Ten kratší řetízek bude mít jako jediný člen dle definice řetízků vektor $\\left(\\begin{array}{c} 1 \\\\ 2 \\\\ 2 \\end{array}\\right)$. Z delšího řetízku bude první vektor $\\left(\\begin{array}{c} 0 \\\\ 0 \\\\ 1 \\end{array}\\right)$, zatímco druhý se musí zobrazit na ten první. Druhý tedy bude např. $\\left(\\begin{array}{c} 0 \\\\ \\frac{1}{2} \\\\ 0 \\end{array}\\right)$. Tyto tři zmíněné vektory tvoří bázi B. Výsledný jordanův tvar bude výsledek $[id]^K _B [\\Phi]^K _K [id]^B _K$, tedy $ \\left(\\begin{array}{c} 1 & 0 & 0 \\\\ -2 & 0 & 1 \\\\ -4 & 2 & 0 \\end{array}\\right)\\left(\\begin{array}{c} 2 & 0 & 0 \\\\ 4 & 0 & 0 \\\\ 0 & 2 & 0 \\end{array}\\right)\\left(\\begin{array}{c} 1 & 0 & 0 \\\\ 2 & 0 & \\frac{1}{2} \\\\ 2 & 1 & 0 \\end{array}\\right)  = \\left(\\begin{array}{c} 2 & 0 & 0 \\\\ 0 & 0 & 1 \\\\ 0 & 0 & 0 \\end{array}\\right)$"
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2956/attachment_0.pdf"
+      }
+    ]
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2202/attachment_0.jpg"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3209/attachment_1.pdf"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2871/attachment_0.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3174/attachment_0.pdf"
+      }
+    ]
+  },
+  "2868": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2868/attachment_0.pdf"
+      }
+    ]
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3041/attachment_0.pdf"
+      }
+    ]
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3111/attachment_0.pdf"
+      }
+    ]
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3261/attachment_0.pdf"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3233/attachment_1.pdf"
+      }
+    ]
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3194/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/1500/attachment_0.pdf"
+      }
+    ]
+  },
+  "2847": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2847/attachment_0.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3102": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3102/attachment_0.pdf"
+      }
+    ]
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3276/attachment_0.pdf"
+      }
+    ]
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3009/attachment_0.jpg"
+      }
+    ]
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3250/attachment_0.pdf"
+      }
+    ]
+  },
+  "3090": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3090/attachment_0.pdf"
+      }
+    ]
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2968/attachment_0.pdf"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\vect#1{\\begin{pmatrix}#1\\end{pmatrix}}$\n$\\gdef\\jchain#1{\\xmapsto{f - #1 I}}$\n$\\gdef\\b{\\mathbf{b}}$\n$\\gdef\\o{\\mathbf{o}}$\nNajděme nejprve matici $\\phi$ v bázi $C = (1, x, x^2)$.\n$$ \\phi(1) = 0 $$\n$$ \\phi(x) = 2 $$\n$$ \\phi(x^2) = 4x+2x^2 $$\nTo odpovídá matici\n$$ [\\phi]_C^C = \\vect{0&2&0\\\\0&0&4\\\\0&0&2} $$\nTato matice je horní trojúhelníková, tedy vlastní čísla jsou z diagonály 0 s algebraickou multiplicitou 2 a 2 s algebraickou multiplicitou 1. Jordanovy řetízky tedy můžeme sestavit jako\n$$ x \\jchain{0} 2 \\jchain{0} 0 $$\n$$ x^2+2x+2 \\jchain{2} 0 $$\nMatice J je tedy\n$$ J = \\vect{0&1&0\\\\0&0&0\\\\0&0&2} $$\nA báze $B$ je\n$$ B = (2,x,x^2+2x+2) $$"
+      },
+      {
+        "msg": "Zapomněl jsem $\\hearts$, pardon."
+      }
+    ]
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3238/attachment_0.pdf"
+      }
+    ]
+  },
+  "3345": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3345/attachment_1.jpg"
+      }
+    ]
+  },
+  "2125": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2125/attachment_0.jpg"
+      }
+    ]
+  },
+  "3351": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3351/attachment_0.pdf"
+      }
+    ]
+  },
+  "3071": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3071/attachment_0.jpg"
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "2763": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2763/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2763/attachment_1.jpg"
+      }
+    ]
+  },
+  "3089": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3089/attachment_0.pdf"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3265/attachment_1.jpg"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3287": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3287/attachment_0.pdf"
+      }
+    ]
+  },
+  "2542": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2542/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3350": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3350/attachment_0.pdf"
+      }
+    ]
+  },
+  "3338": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3338/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2862/attachment_0.pdf"
+      }
+    ]
+  },
+  "3003": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3003/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3003/attachment_1.jpg"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2892/attachment_0.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "2988": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2988/attachment_0.pdf"
+      }
+    ]
+  },
+  "2886": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2886/attachment_0.pdf"
+      }
+    ]
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3320/attachment_0.pdf"
+      }
+    ]
+  },
+  "3007": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du07_2/3007/attachment_0.png"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2984/attachment_0.pdf"
+      }
+    ]
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/1989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "Zvoľme bázu $C=(x^2,x,1)$ priestoru $\\mathbf{V}$. Potom pre $p=ax^2+bx+c$ platí $\\phi(p)=2ax^2+4ax+2b$, teda $[\\phi(p)]_C = (2a, 4a, 2b)^T$. Vidíme tak, že \n$$  A=[\\phi]_C^C = \\begin{pmatrix}\n2 & 0 & 0 \\\\\n4 & 0 & 0 \\\\\n0 & 2 & 0\n\\end{pmatrix}.  $$\nJej charakteristický polynóm je $(2-\\lambda)\\lambda^2=0$, teda máme vlastné čísla $2$ (algebraická násobnosť $1$), a $0$ (algebraická násobnosť $2$). Počítajme\n$$  \\text{Ker}(A-2I_3) = \\text{Ker} \\begin{pmatrix}\n0 & 0 & 0 \\\\\n4 & -2 & 0 \\\\\n0 & 2 & -2\n\\end{pmatrix} = \\text{Span}\\{(1,2,2)^T\\},  $$\n$$  \\text{Ker}(A-0I_3) = \\text{Ker} \\begin{pmatrix}\n2 & 0 & 0 \\\\\n4 & 0 & 0 \\\\\n0 & 2 & 0\n\\end{pmatrix} = \\text{Span}\\{(0,0,1)^T\\}.  $$\nVidíme, že vlastné číslo $0$ má geometrickú násobnosť $1$. Preto báza $B$ sa bude skladať z dvoch Jordanových retiazok: jedna dĺžky $1$ prislúchajúca vlastnému číslu $2$, a jedna dĺžky $2$ prislúchajúca vlastnému číslu $0$. Hľadáme preto vektor $\\mathbf{x}$ taký, že \n$$  \\begin{pmatrix}\n2 & 0 & 0 \\\\\n4 & 0 & 0 \\\\\n0 & 2 & 0\n\\end{pmatrix} \\mathbf{x} = \\begin{pmatrix}\n0 \\\\\n0 \\\\\n1\n\\end{pmatrix},   $$\nčomu vyhovuje napríklad $\\mathbf{x}=(0,1/2,0)^T$. Preto súradnice prvkov bázy $B$ vzhľadom k $C$ sú \n$$  [B]_C = \\left( \\begin{pmatrix}\n1 \\\\\n2 \\\\\n2\n\\end{pmatrix}, \\begin{pmatrix}\n0 \\\\\n0 \\\\\n1\n\\end{pmatrix}, \\begin{pmatrix}\n0 \\\\\n1/2 \\\\\n0\n\\end{pmatrix}   \\right)  ,$$\na teda dostávame hľadanú bázu $B$ priestoru $\\mathbf{V}$ ako\n$$ B = (x^2+2x+2, \\ 1, \\ 0.5x) .  $$\nHľadaná matica $J$ potom budem mať tvar\n$$ [\\phi]_B^B = J =  \\begin{pmatrix}\n2 & 0 & 0 \\\\\n0 & 0 & 1 \\\\\n0 & 0 & 0\n\\end{pmatrix}.  $$"
+      }
+    ]
+  },
+  "1654": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/1654/attachment_0.jpg"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "3002": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3002/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3002/attachment_1.jpg"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Matice operátoru $\\phi$ vzhledm k bázi $C=(1,x,x^2)$ je \n\n$$A={[\\phi]}_C^C=\\begin{pmatrix}\n   0 & 2 & 0\\\\\n   0 & 0 & 4\\\\\n   0 & 0 & 2\n\\end{pmatrix} \\,.$$\n\nCharakteristický polynom matice je $p(x)=x^2(2-x)$, operátor má vlastní číslo 0 algebraické násobnosti 2 a vlastní číslo 2 algebraické násobnosti 1, existuje pro něj tedy Jordanův tvar.\n\nNajdu jádra prostorů příslušných jednotlivým vlastním číslům.\n\n$$Ker{A-0I_3} = Ker{A} = Span{\\begin{pmatrix}\n   1\\\\\n   0\\\\\n   0\n\\end{pmatrix}}$$\n\n$$Ker{A-2I_3} = Ker{\\begin{pmatrix}\n   -2 & 2 & 0\\\\\n   0 & -2 & 4\\\\\n   0 & 0 & 0\n\\end{pmatrix}} = Span{\\begin{pmatrix}\n   2\\\\\n   2\\\\\n   1\n\\end{pmatrix}}$$\n\nObě vlastní čísla mají geometrickou násobnost 1, takže jim přísluší jedna Jordanova buňka (řádu dle algebraické násobnosti) v matici $J$ a jeden Jordanův řetízek v bázi $B$.\n\n$$J=\\begin{pmatrix}\n   0 & 1 & 0\\\\\n   0 & 0 & 0\\\\\n   0 & 0 & 2\n\\end{pmatrix}$$\n\nBáze $B = (\\mathbf{v_1}, \\mathbf{v_2}, \\mathbf{v_3})$. Souřadnice prvního vektoru leží v $Im{A}$ a zároveň v $Ker A$, zvolíme například $[\\mathbf{v_1}]_C=(2,0,0)^T$, na který se zobrazí souřadnice druhého vektoru $[\\mathbf{v_2}]_C = (0,1,0)^T$. Souřadnice třetího vektoru leží v $Ker{A-2I_3}$ a zároveň tvoří s $[\\mathbf{v_1}]_C$ lineárně nezávislou posloupnost, např. $[\\mathbf{v_3}]_C = (2,2,1)^T$. Nyní už jen přejdu od souřadnic zpět k polynomům $B = (2,x,x^2+2x+2)$."
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "2922": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2922/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "3108": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3108/attachment_0.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2815/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2815/attachment_1.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3407": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3407/attachment_0.pdf"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3317/attachment_0.pdf"
+      }
+    ]
+  },
+  "2993": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2993/attachment_0.jpg"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_2/2937/attachment_0.jpg"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3045/attachment_0.pdf"
+      }
+    ]
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2980/attachment_0.pdf"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/2940/attachment_0.pdf"
+      }
+    ]
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3168/attachment_0.pdf"
+      }
+    ]
+  },
+  "3165": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3165/attachment_0.pdf"
+      }
+    ]
+  },
+  "3179": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_2/3179/attachment_0.pdf"
+      }
+    ]
+  }
+}

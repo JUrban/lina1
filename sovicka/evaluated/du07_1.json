@@ -1,0 +1,566 @@
+{
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "1654": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "1771": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The core formula and basis are correct, but mixed large-exponent boundary cases are not all clearly covered.",
+    "feedback": "Hlavní vzorec i volba bázových vektorů jsou správné. Není však jednoznačně uzavřen rozbor všech smíšených okrajových případů, kdy je pouze jeden z exponentů alespoň 5; výslovně je zachycen jen případ, kdy jsou velké oba exponenty."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2202": {
+    "points": 2,
+    "correct": false,
+    "justification": "The dimension is correct, but the basis is selected from the wrong end of every Jordan chain.",
+    "feedback": "Vzorec pro dimenzi je správný, ale báze má obrácenou orientaci v Jordanových řetízcích. Rozsah od pozice j+1 do min(i,N) obecně průnik nepopisuje; například pro i=1,j=1 mají být v bázi b1,b6,b9."
+  },
+  "2377": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2401": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2430": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2464": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The blockwise idea is sound, but the dimension formula omits truncation at zero and can become negative.",
+    "feedback": "Rozdělení na tři řetízky je správné. Vzorec pro dimenzi však neomezuje příspěvky zdola nulou, takže pro j větší nebo rovné délce řetízku dává záporné hodnoty. Slovní konvence pro bázi tuto chybu ve vzorci neodstraňuje."
+  },
+  "2517": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2859": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2862": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2866": {
+    "points": 2,
+    "correct": false,
+    "justification": "Strict inequalities introduce a systematic off-by-one error in both bases and dimensions.",
+    "feedback": "Podmínky pro pozici vektoru jsou chybně ostré místo neostrých. Hraniční vektor proto systematicky chybí a výsledné báze i dimenze jsou obecně o jeden vektor menší."
+  },
+  "2869": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2871": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The basis is characterized correctly, but the requested dimension is not explicitly stated.",
+    "feedback": "Báze průniku je správně popsána pro všechny tři řetízky. Chybí však výslovné určení požadované dimenze, tedy součet počtů uvedených bázových vektorů."
+  },
+  "2877": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2881": {
+    "points": 3,
+    "correct": false,
+    "justification": "The correct table for i=1,...,4 omits all nonzero cases i>=5,j<5.",
+    "feedback": "Tabulka je správná pro i od 1 do 4 a pro j alespoň 5. Chybějí však všechny nenulové případy i alespoň 5 a j menší než 5, takže výsledek není uveden pro každou dvojici i,j."
+  },
+  "2888": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2889": {
+    "points": 3,
+    "correct": false,
+    "justification": "Dimensions are correct, but many bases remain unevaluated symbolic intersections rather than explicit subsets of B.",
+    "feedback": "Tabulka dimenzí je správná. U řady buněk však není konkrétní báze z vektorů B; zůstává jen symbolický průnik dříve uvedených podprostorů. Požadavek na bázi pro každou dvojici tak není splněn."
+  },
+  "2900": {
+    "points": 1,
+    "correct": false,
+    "justification": "The false claim i<=j implies a zero intersection invalidates the dimension and basis formulas.",
+    "feedback": "Tvrzení, že pro i menší nebo rovné j je průnik nulový, je nepravdivé. Například pro i=1,j=1 má průnik bázi (b1,b6,b9) a dimenzi 3. Na tomto chybném tvrzení stojí i následné vzorce."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2918": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2924": {
+    "points": 1,
+    "correct": false,
+    "justification": "The false claim i<j implies a zero intersection and the incomplete case analysis do not yield a general solution.",
+    "feedback": "Tvrzení, že i<j vždy znamená nulový průnik, je chybné; pro i=1,j=2 je báze (b1,b6) a dimenze 2. Dále jsou uvedeny jen dílčí případy, nikoli správný obecný výsledek."
+  },
+  "2935": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2937": {
+    "points": 3,
+    "correct": false,
+    "justification": "Kernels, images, and dimensions are correct, but the intersection bases are not actually listed.",
+    "feedback": "Jádra, obrazy i tabulka dimenzí jsou správné. Báze jednotlivých průniků však nejsou uvedeny jako konkrétní podmnožiny B; řešení pouze odkazuje na výběr z předchozích seznamů."
+  },
+  "2941": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2947": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2948": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "2984": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3001": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3009": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3025": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3038": {
+    "points": 2,
+    "correct": false,
+    "justification": "The dimension formula is correct, but an incorrect maximum and index range make the proposed basis wrong.",
+    "feedback": "Vzorec pro dimenzi je správný. Zápis báze však používá chybnou mez s maximem a nesprávný rozsah indexů, takže obecně nevybírá první společné vektory řetízků."
+  },
+  "3039": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3057": {
+    "points": 3,
+    "correct": false,
+    "justification": "The final cutoff is essentially correct, but vector relabeling is contradictory, indices are swapped in intermediate descriptions, and no dimension is stated.",
+    "feedback": "Závěrečná podmínka pro počet vektorů vystihuje správnou myšlenku. Přeznačení báze je ale rozporné (b3 je označeno stejně jako b9), zaměňují se indexy řetízku a pozice a chybí výslovný vzorec pro dimenzi."
+  },
+  "3076": {
+    "points": 1,
+    "correct": false,
+    "justification": "The submission is incomplete and contains incorrect claims, with no coherent general formula or complete table.",
+    "feedback": "Řešení obsahuje jen neúplné a nesourodé dílčí případy. Některé výroky o mocninách, obrazech a průnicích jsou chybné a není uveden platný obecný vzorec ani úplná tabulka bází a dimenzí."
+  },
+  "3135": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3136": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3139": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3142": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3167": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3174": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The intersection is left unevaluated, its dimension is missing, and dim Im J^i = dim Ker J^i is falsely asserted.",
+    "feedback": "Popis jader a obrazů zachycuje správnou základní myšlenku. Samotný průnik však zůstává nezpracovaný, dimenze chybí a tvrzení dim(Im J^i)=dim(Ker J^i) je obecně nepravdivé."
+  },
+  "3179": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3188": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3193": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3194": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3196": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The dimension formula is correct, but every nonempty basis range stops one vector too early.",
+    "feedback": "Vzorec pro dimenzi je správný. Rozsahy báze však končí na indexu d−1 místo d, takže z každého neprázdného příspěvku chybí hraniční vektor a báze nemá vypočtenou dimenzi."
+  },
+  "3198": {
+    "points": 2,
+    "correct": false,
+    "justification": "The dimension formula is correct, but the requested basis is entirely missing.",
+    "feedback": "Obecný vzorec pro dimenzi je správný a zahrnuje všechny tři bloky. Úloha ale požaduje také bázi pomocí B a ta v řešení zcela chybí."
+  },
+  "3209": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The basis table is correct, but one dimension is 8 instead of 7 for i>=5,j=1.",
+    "feedback": "Tabulka bází je správná. Pro i alespoň 5 a j=1 je však uvedena dimenze 8 místo 7; přímo uvedená báze v téže buňce obsahuje sedm vektorů."
+  },
+  "3218": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3223": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3233": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3239": {
+    "points": 2,
+    "correct": false,
+    "justification": "The dimension is correct, but missing offsets 5 and 8 make the second and third basis ranges invalid.",
+    "feedback": "Vzorec pro dimenzi je správný. U druhého a třetího řetízku však v horních mezích báze chybějí posuny navazující na indexy 6 a 9. Podle uvedené konvence by tyto části byly většinou prázdné."
+  },
+  "3241": {
+    "points": 2,
+    "correct": false,
+    "justification": "A systematic off-by-one error and an initially misstated block size invalidate the bases and dimensions.",
+    "feedback": "Ve vzorci pro příspěvek řetízku i v bázi je systematická chyba o jeden index. Na začátku je navíc třetí blok uveden s chybnou velikostí. Výsledky proto neodpovídají blokům 5,3,2."
+  },
+  "3242": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3248": {
+    "points": 1.5,
+    "correct": false,
+    "justification": "The formula max(0,min(i,k)-j) is not the intersection contribution, and no complete basis is given.",
+    "feedback": "Dílčí dimenze jader a obrazů jsou správné, ale vzorec pro průnik odečítá j až po výpočtu min(i,k). Například v bloku délky 5 pro i=2,j=1 dává chybnou hodnotu. Úplná báze navíc chybí."
+  },
+  "3250": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3254": {
+    "points": 2,
+    "correct": false,
+    "justification": "A correct single-chain cutoff is then reused for all three blocks, and the final dimension expression is wrong.",
+    "feedback": "Pro jeden řetízek je správně rozpoznán počet prvních společných vektorů. V závěru se však stejná hodnota používá pro všechny tři délky 5,3,2 a vzorec pro dimenzi počítá jinou veličinu. Obecná báze i dimenze jsou proto chybné."
+  },
+  "3259": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3261": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3265": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3266": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3275": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3277": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3281": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3288": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3294": {
+    "points": 3,
+    "correct": false,
+    "justification": "The dimension table is correct, but intersection bases are only implicit in separate kernel and image lists.",
+    "feedback": "Tabulka dimenzí i samostatné báze jader a obrazů jsou správné. Báze průniků však nejsou pro dvojice i,j vypsány a zůstávají pouze implicitní jako průnik dvou dřívějších seznamů."
+  },
+  "3295": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3297": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3299": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3301": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3309": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3310": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The general basis is correct, but the requested dimension is not explicitly provided.",
+    "feedback": "Obecný zápis báze průniku je správný a zahrnuje i prázdné části. Chybí však výslovné určení dimenze prostoru."
+  },
+  "3314": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3316": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3317": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3318": {
+    "points": 1,
+    "correct": false,
+    "justification": "Images are taken from the wrong end of the Jordan chains, so both basis ranges and dimension formula are incorrect.",
+    "feedback": "Obraz mocniny je vybírán z nesprávného konce Jordanova řetízku. Proto jsou chybné rozsahy báze i vzorec pro dimenzi. Například Im f má obsahovat b1 až b4, b6,b7 a b9, nikoli koncové vektory řetízků."
+  },
+  "3332": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3338": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3344": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3345": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3346": {
+    "points": 3,
+    "correct": false,
+    "justification": "Several dimensions in the j=1 row undercount the otherwise mostly correct bases.",
+    "feedback": "Většina tabulky je správná. V řádku j=1 jsou však pro i alespoň 3 příliš malé dimenze: pro i=3 má být 6 a pro i alespoň 4 má být 7. Uvedené báze přitom obsahují odpovídající větší počet vektorů."
+  },
+  "3347": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3350": {
+    "points": 1.5,
+    "correct": false,
+    "justification": "The intersection is incorrectly taken as a middle chain interval, and complete global bases and dimensions are absent.",
+    "feedback": "Popis jádra a obrazu jednoho řetízku zachycuje část struktury. Průnik je však zapsán jako chybný prostřední úsek od pozice d−j do i. Chybí také úplné báze a dimenze pro všechny tři bloky a všechny dvojice."
+  },
+  "3351": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  },
+  "3403": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The intersection bases and boundary cases are correct, but dimensions are explicit only for selected grouped cases.",
+    "feedback": "Vypsané průniky dávají správné báze i nulové okrajové případy. Dimenze jsou však výslovně připsány jen k části seskupených případů, nikoli ke všem dvojicím i,j."
+  },
+  "3407": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution gives the correct blockwise dimension formula and the corresponding basis from B for all i,j, including boundary cases.",
+    "feedback": "Řešení je úplné a správné. Pro každý ze tří Jordanových řetízků správně určujete počet společných vektorů, jejich součet jako dimenzi a odpovídající bázi z vektorů B. Zahrnuty jsou i nulové okrajové případy."
+  }
+}

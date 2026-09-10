@@ -1,0 +1,181 @@
+{
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3072/attachment_1.jpg"
+      }
+    ],
+    "points": 1.5
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3276/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3259/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3254/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3076/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3238/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2892/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2492/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2871/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Nech $\\lambda$ je vl. číslo operátora $\\varphi$, potom z podmienky máme $\\lambda^5 = 1$, teda $\\lambda \\in \\{1, e^{\\frac{2 i \\pi}{5}}, e^{2\\cdot\\frac{2 i \\pi}{5}}, e^{3\\cdot \\frac{2 i \\pi}{5}}, e^{4\\cdot \\frac{2 i \\pi}{5}}\\}$. Keďže matica operátora má dimenziu $3$, tak aspoň $1$ vl. číslo musí byť reálne a teda $1$ a nech $\\bold{v}$ je príslušný vl. vektor. Pozrime sa na ortogonálny doplnok $\\text{Span}(\\bold{v})$, je to invariantný podpriestor, teda na ňom sa bude $\\varphi$ správať ako na $\\mathbb{R}^2$, teda to bude rotácia alebo reflecia. Reflexia to nemôže byť lebo má rád $2$ a my potrebujeme $\\varphi^5 = \\text{id}$. Teda to je nutne rotácia o uhol $\\alpha$ a chceme aby $5\\alpha = k \\cdot 360$, teda $\\alpha$ je ľubovoľný násobok $72^\\circ$.\n\nTeda sme zistili, že $\\varphi$ musí fixovať nejakú priamku a zvyšok priestora rotovať okolo nej o nejaký celočíselný násobok $72^\\circ$ (aj $0$ je násobok)."
+      }
+    ],
+    "points": 4.0
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3317/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3188/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/2858/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/273/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/1989/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/1771/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3198/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3205/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3301/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2901": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2901/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  }
+}

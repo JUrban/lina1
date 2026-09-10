@@ -1,0 +1,160 @@
+{
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 11.1.\n\nSingulární rozklad matice A bude $\\left(\\begin{array}{c} \\frac{1}{\\sqrt{3}} & \\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} \\\\ \\frac{1}{\\sqrt{3}} & -\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} \\\\ \\frac{1}{\\sqrt{3}} & 0 & -\\frac{2}{\\sqrt{6}} \\end{array}\\right) \\left(\\begin{array}{c} \\sqrt{3} & 0 & 0 & 0 \\\\ 0 & 3 & 0 & 0 \\\\ 0 & 0 & 3 & 0  \\end{array}\\right) \\left(\\begin{array}{c} 1 & 0 & 0 & 0 \\\\ 0 & 0 & \\frac{2}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\\\ 0 & \\frac{1}{\\sqrt{2}} & -\\frac{1}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\\\ 0 & -\\frac{1}{\\sqrt{2}} & \\frac{1}{\\sqrt{6}} & \\frac{1}{\\sqrt{3}} \\end{array}\\right)^{T}$\n\nPokud tento rozbor rozbor zapíšeme jako $A = VDU^T$, lze zapsat ostatní inverze jednodušše:\n\n$A^T = UD^{T}V^T$\n\n$A^{T}A = U$diag$\\{3;9;9;0\\}U^T$\n\n$AA^{T} = V$diag$\\{3;9;9\\}V^T$, obě diagonální matice jsou čtvercové.\n\n### Důkaz\n\nDokázat že rozklad platí lze jednodušše roznásobením. Rozklad lze dostat standartním postupem (postup identický k příkladu 10.33. ve skriptech), ale počítá se lehčeji nejprve pro $A^T$.\n\nVLastní čísla $AA^T$ budou 3, 9 a 9, Tedy čísla v diagonální matici budou $\\sqrt{3};3;3$.\n\nZ výpočtu singulárního rozkladu budeme mít rozklad  $A^T = UD^{T}V^T$ z čeho vychází že $A = \\left(UD^{T}V^T\\right)^T = VDU^T$.\n\nPlatí také že $A^{T}A=UD^{T}V^T VDU^T = UD^{T}DU^T$ a $AA^T = VDU^T UD^{T}V^T = VDD^{T}V^{T}$. Jelikož D je diagonální, matice $DD^{T}$ a $D^{T}D$ lze jednodušše spočítat."
+      }
+    ]
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_1/3198/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_1/3198/attachment_1.jpg"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/2968/attachment_0.pdf"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_1/3072/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_1/3072/attachment_1.jpg"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/2866/attachment_0.pdf"
+      }
+    ]
+  },
+  "3339": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3339/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3331/attachment_0.pdf"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/1989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; Spočítame singulárny rozklad reálnej matice $A^T = B$. Vlstné čísla a priestory vlastných vektorov (spočítané softwareom) sú pre maticu:\n$$B^*B = AA^T = \n\\begin{pmatrix}\n1 & 1 & 1 & -2 \\\\\n1 & 1 & -2 & 1 \\\\\n1 & -2 & 1 & 1\n\\end{pmatrix}\n\\begin{pmatrix}\n1 & 1 & 1 \\\\\n1 & 1 & -2 \\\\\n1 & -2 & 1 \\\\\n-2 & 1 & 1\n\\end{pmatrix}\n=\n\\begin{pmatrix}\n7 & -2 & -2 \\\\\n-2 & 7 & -2 \\\\\n-2 & -2 & 7\n\\end{pmatrix}\n$$\n\n$$\n\\lambda_1 = 9,\n\\qquad\nM_9\n=\n\\operatorname{span}\n\\left\\{\n\\begin{pmatrix}\n-1\\\\\n1\\\\\n0\n\\end{pmatrix},\n\\begin{pmatrix}\n1\\\\\n1\\\\\n-2\n\\end{pmatrix}\n\\right\\}\n$$\n\n$$\n\\lambda_2 = 3,\n\\qquad\nM_3\n=\n\\operatorname{span}\n\\left\\{\n\\begin{pmatrix}\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n\\right\\}\n$$\n\nĎalej určíme maticu $V$ v singulárnom rozklade $A^T = UDV^T$. Na to stačí ortonormalizovať báze $M_9$ a $M_3$ a uložiť ich do matice v tomto poradí (všeobecne doplníme bázu z týchto vektorov na ortonormálnu bázu $\\R^3$, no v tomto prípade to zodpovedá ortonormalizácii), pretože $\\lambda_1 > \\lambda_2$, teda ortonormalizujeme postupne:\n\n$(M_9)$ Overíme kolmosť\n\n$$\n\\begin{pmatrix}\n-1\\\\\n1\\\\\n0\n\\end{pmatrix}\n\\cdot\n\\begin{pmatrix}\n1\\\\\n1\\\\\n-2\n\\end{pmatrix}\n=\n(-1)\\cdot1+1\\cdot1+0\\cdot(-2)\n=\n0\n$$\n\nStačí ich teda normalizovať\n\n\n$$\nv_1 = \n\\left\\|\n\\begin{pmatrix}\n-1\\\\\n1\\\\\n0\n\\end{pmatrix}\n\\right\\|^{-1}\n\\begin{pmatrix}\n-1\\\\\n1\\\\\n0\n\\end{pmatrix}\n=\n\\frac1{\\sqrt2}\n\\begin{pmatrix}\n-1\\\\\n1\\\\\n0\n\\end{pmatrix}\n\n\\qquad\nv_2 = \n\\left\\|\n\\begin{pmatrix}\n1\\\\\n1\\\\\n-2\n\\end{pmatrix}\n\\right\\|^{-1}\n\\begin{pmatrix}\n1\\\\\n1\\\\\n-2\n\\end{pmatrix}\n=\n\\frac1{\\sqrt6}\n\\begin{pmatrix}\n1\\\\\n1\\\\\n-2\n\\end{pmatrix}\n\n$$\n$(M_3)$ Pretože máme iba jeden vektor, znovu stačí normalizovať\n$$\nv_3 = \n\\left\\|\n\\begin{pmatrix}\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n\\right\\|^{-1}\n\\begin{pmatrix}\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n=\n\\frac1{\\sqrt3}\n\\begin{pmatrix}\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n\n$$\nDokopy dostávame\n$$\nV=\n\\begin{pmatrix}\n-\\frac1{\\sqrt2} & \\frac1{\\sqrt6} & \\frac1{\\sqrt3}\\\\\n\\frac1{\\sqrt2} & \\frac1{\\sqrt6} & \\frac1{\\sqrt3}\\\\\n0 & -\\frac2{\\sqrt6} & \\frac1{\\sqrt3}\n\\end{pmatrix}\n$$\nTeraz určíme maticu $U$. Singulárne hodnoty sú odmocniny vlastných čísel matice $AA^T$, teda\n\n$$\n\\sigma_1=\\sigma_2=\\sqrt{9}=3,\n\\qquad\n\\sigma_3=\\sqrt{3}.\n$$\n\nPomocou vzťahu\n\n$$\nu_i=\\sigma_i^{-1}A^Tv_i\n$$\n\ndostaneme pre $i = 1, 2, 3$ prvé $3$ stĺpcové vektory matice $U$ ako\n\n$$\nu_1\n=\n\\frac13\n\\begin{pmatrix}\n1 & 1 & 1 \\\\\n1 & 1 & -2 \\\\\n1 & -2 & 1 \\\\\n-2 & 1 & 1\n\\end{pmatrix}\n\\frac1{\\sqrt2}\n\\begin{pmatrix}\n-1\\\\\n1\\\\\n0\n\\end{pmatrix}\n=\n\\frac1{\\sqrt2}\n\\begin{pmatrix}\n0\\\\\n0\\\\\n-1\\\\\n1\n\\end{pmatrix}\n$$\n\n$$\nu_2\n=\n\\frac13\n\\begin{pmatrix}\n1 & 1 & 1 \\\\\n1 & 1 & -2 \\\\\n1 & -2 & 1 \\\\\n-2 & 1 & 1\n\\end{pmatrix}\n\\frac1{\\sqrt6}\n\\begin{pmatrix}\n1\\\\\n1\\\\\n-2\n\\end{pmatrix}\n=\n\\frac1{\\sqrt6}\n\\begin{pmatrix}\n0\\\\\n2\\\\\n-1\\\\\n-1\n\\end{pmatrix}\n$$\n\n$$\nu_3\n=\n\\frac1{\\sqrt3}\n\\begin{pmatrix}\n1 & 1 & 1 \\\\\n1 & 1 & -2 \\\\\n1 & -2 & 1 \\\\\n-2 & 1 & 1\n\\end{pmatrix}\n\\frac1{\\sqrt3}\n\\begin{pmatrix}\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n=\n\\begin{pmatrix}\n1\\\\\n0\\\\\n0\\\\\n0\n\\end{pmatrix}\n$$\nFinálne doplníme ortonormálnu postupnosť $(u_1, u_2, u_3)$ na ortonormálnu bázu $\\R^4$, teda \n$$\nu_4=\n\\begin{pmatrix}\na\\\\b\\\\c\\\\d\n\\end{pmatrix}\n$$\n\nPretože $u_4$ má byť kolmý na $u_1,u_2,u_3$\n\n$$\nu_4\\cdot u_1=0,\\qquad\nu_4\\cdot u_2=0,\\qquad\nu_4\\cdot u_3=0\n$$\n\nz čoho\n\n$$\nc=d, \\qquad 2b-c-d=0, \\qquad a = 0\n$$\n\nteda\n\n$$\nb=c=d\n$$\n\nMôžeme teda zvoliť napríklad vektor $(0, 1, 1, 1)^T$ a normalizovať\n\n$$\nu_4 = \n\\left\\|\n\\begin{pmatrix}\n0\\\\\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n\\right\\|^{-1}\n\\begin{pmatrix}\n0\\\\\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n=\n\\frac1{\\sqrt3}\n\\begin{pmatrix}\n0\\\\\n1\\\\\n1\\\\\n1\n\\end{pmatrix}\n$$\nDokopy dostávame \n$$\nU=\n\\begin{pmatrix}\n0 & 0 & 1 & 0\\\\\n0 & \\frac{2}{\\sqrt6} & 0 & \\frac1{\\sqrt3}\\\\\n-\\frac1{\\sqrt2} & -\\frac1{\\sqrt6} & 0 & \\frac1{\\sqrt3}\\\\\n\\frac1{\\sqrt2} & -\\frac1{\\sqrt6} & 0 & \\frac1{\\sqrt3}\n\\end{pmatrix}\n$$\nNašli sme teda singulárny rozklad $A^T = UDV^T$, kde $D$ je diagonálna matica typu $4\\times 3$ so singulárnymi hodnotami postupne $\\sigma_1 = 3, \\sigma_2 = 3, \\sigma_3 = \\sqrt{3}$ na diagonále. Potom\n\n $$A = (A^T)^T = (UDV^T)^T = VD^TU^T$$\nčo je rovno singulárny rozklad matice $A$, pretože z ortogonality $U, V$ plynie ortogonalita $U^T, V^T$ a $D^T$ má na diagonále rovnako nezáporné prvky usporiadané zostupne. Podobne, z ortogonality $U$, teda $U^T = U^{-1}$, dostávame\n\n$$\nAA^T\n=\n\\left(VD^TU^T\\right)\\left(UDV^T\\right)\n=\nVD^T\\left(U^TU\\right)DV^T\n=\nVD^TDV^T,\n$$\n\nčo je singulárny rozklad matice $AA^T$, pretože $V$ je ortogonálna matica a $D^TD$ je diagonálna matica, ktorej diagonálne prvky sú $\\sigma_1^2,\\sigma_2^2,\\sigma_3^2$, teda nezáporné prvky usporiadané zostupne.\n\nĎalej z ortogonality $V$, teda $V^T = V^{-1}$, máme\n\n$$\nA^TA\n=\n\\left(UDV^T\\right)\\left(VD^TU^T\\right)\n=\nUD\\left(V^TV\\right)D^TU^T\n=\nUDD^TU^T,\n$$\n\nčo je singulárny rozklad matice $A^TA$, pretože $U$ je ortogonálna matica a $DD^T$ je diagonálna matica, ktorej diagonálne prvky sú znovu $\\sigma_1^2,\\sigma_2^2,\\sigma_3^2$ a jedna nula, teda znovu nezáporné prvky usporiadané zostupne."
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_1/3253/attachment_0.jpg"
+      }
+    ]
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3131/attachment_1.pdf"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_1/3205/attachment_1.pdf"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1051 @@
+{
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3308": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3308/attachment_0.pdf"
+      }
+    ]
+  },
+  "3356": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3356/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3356/attachment_1.jpg"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3314": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3314/attachment_0.jpg"
+      }
+    ]
+  },
+  "3128": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3128/attachment_0.pdf"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2903/attachment_0.pdf"
+      }
+    ]
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2935/attachment_0.pdf"
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du03_1/3281/attachment_0.png"
+      }
+    ]
+  },
+  "3227": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3227/attachment_0.pdf"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2430/attachment_0.jpg"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "Označme si matice $U=\\begin{pmatrix}\\vec{u_1}|...|\\vec{u_n}\\end{pmatrix}$ a $V=\\begin{pmatrix}\\vec{v_1}|...|\\vec{v_n}\\end{pmatrix}$   \nProtože $Im U$ a $Im V$ tvoří celý prostor $\\R^n$, Gramovy matice se rovnají:   \n$G_1 = U^TU$, $G_2 = V^TV$   \n   \nMatice $Q$ je matice přechodu z báze $B_1$ do $B_2$, takže platí $QU=V$   \nProtože matice $U$ a $V$ jsou dané bázovými vektory, jsou regulární a tedy existují inverzní matice $U^{-1}$ a $V^{-1}$\n## $(a)\\implies (b)$   \n$G_2 = V^TV = (QU)^TQU = U^TQ^TQU=...$   \nProtože Q je ortogonální, tak $Q^TQ = I_n$   \n$...=U^TI_nU=U^TU=G_1$   \n$G_2=G_1$   \n   \n## $(b)\\implies (a)$   \nPro 2 báze matice přechodu vždy existuje. Potřebujeme tedy dokázat, že je ortogonální   \n$Q = VU^{-1}$   \nOrtogonalitu dokážeme ověřením $Q^TQ=I_n$   \n$Q^TQ = (VU^{-1})^TVU^{-1}=(U^{-1})^TV^TVU^{-1} = (U^{-1})^TG_2U^{-1}=(U^{-1})^TG_1U^{-1}=$   \n$=(U^{-1})^TU^TUU^{-1}=(UU^{-1})^TUU^{-1} = I_n^TI_n=I_n$"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3166/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3221/attachment_0.pdf"
+      }
+    ]
+  },
+  "3219": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du03_1/3219/attachment_0.png"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 3.1.\n\nImplikace $(a)\\implies(b)$ vychází z vlastností zobrazení určeného maticí. Jelikož zobrazení určené maticí $Q$ zachovává skalární součin, platí že $\\langle \\mathbf{u}_1;\\mathbf{u}_2\\rangle = \\langle Q\\mathbf{u}_1;Q\\mathbf{u}_2\\rangle = \\langle \\mathbf{v}_1;\\mathbf{v}_2\\rangle$ a tedy se Gramovy matice rovnají.\n\nImplikace $(b)\\implies(a)$ vychází z toho, že gramova matice lze zapsat jako součin matice jejíž sloupce jsou členy posloupnosti a její transponované formy. Tedy $G_1=U^{T}U$ kde $U$ je matice vektorů z $B_1$ a $G_2=V^{T}V$ kde $V$ je matice vektorů z $B_2$. Jelikož obě báze jsou báze toho samého prostoru, existuje nějaké lineární zobrazení které zobrazuje vektory jedné báze na druhou. Matice tohoto zobrazení lze zapsat jako $Q = V[id]^{B_1}_{B_2}U^{-1} = VU^{-1}$. Jadna z podmínek ortogonality pro matice je že pro matici platí $Q^TQ=I_n$ kde n je velikost matice. Pro naši matici to bude rovnice $(VU^{-1})^T(VU^{-1})=I_n$. Toto lze přepsat jako $(U^{-1})^T V^T V U^{-1}=I_n$. Jelikož $G_1=G_2$, tento výraz lze vyjádřit jako $(U^{-1})^T U^T U U^{-1}=I_n I_n = I_n$. Matice $Q$ je tedy ortogonální, a implikace platí."
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2956/attachment_0.pdf"
+      }
+    ]
+  },
+  "3204": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3204/attachment_0.pdf"
+      }
+    ]
+  },
+  "2857": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2857/attachment_0.pdf"
+      }
+    ]
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2826/attachment_0.pdf"
+      }
+    ]
+  },
+  "2868": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2868/attachment_0.pdf"
+      }
+    ]
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3111/attachment_0.pdf"
+      }
+    ]
+  },
+  "3285": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3285/attachment_0.pdf"
+      }
+    ]
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3261/attachment_0.pdf"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3233/attachment_0.pdf"
+      }
+    ]
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3198/attachment_0.jpg"
+      }
+    ]
+  },
+  "3139": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3139/attachment_0.pdf"
+      }
+    ]
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3194/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/1500/attachment_0.pdf"
+      }
+    ]
+  },
+  "2847": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2847/attachment_0.pdf"
+      }
+    ]
+  },
+  "3329": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3329/attachment_0.pdf"
+      }
+    ]
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2492/attachment_0.pdf"
+      }
+    ]
+  },
+  "2860": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2860/attachment_1.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2860/attachment_2.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3115/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3102": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3102/attachment_0.jpg"
+      }
+    ]
+  },
+  "3062": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3062/attachment_0.pdf"
+      }
+    ]
+  },
+  "3269": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3269/attachment_0.pdf"
+      }
+    ]
+  },
+  "2918": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2918/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2918/attachment_1.jpg"
+      }
+    ]
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2968/attachment_1.pdf"
+      }
+    ]
+  },
+  "3284": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3284/attachment_0.pdf"
+      }
+    ]
+  },
+  "2876": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2876/attachment_0.pdf"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "3136": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du03_1/3136/attachment_0.png"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3266": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3266/attachment_0.pdf"
+      }
+    ]
+  },
+  "3355": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3355/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\bf#1{\\mathbf{#1}}$\n$\\gdef\\u{\\bf{u}}$\n$\\gdef\\v{\\bf{v}}$\n$\\gdef\\a{\\bf{a}}$\n$\\gdef\\b{\\bf{b}}$\n$\\gdef\\scal#1#2{\\langle #1, #2 \\rangle}$\n$\\gdef\\sscal#1{\\scal{#1}{#1}}$\nUkažme nejprve implikaci $(a) \\Rightarrow (b)$. Pokud si napíšeme matici $G_2$ po složkách, dostáváme\n$$ G_{2ij} = \\v_i \\cdot \\v_j = (Q \\u_i) \\cdot (Q \\u_j) = \\u_i \\cdot \\u_j = G_{1ij} $$\nTo platí, jelikož násobení ortogonální maticí zachovává skalární součin. Matice jsou tedy shodné.\nNyní ukažme $(b) \\Rightarrow (a)$. Existuje matice přechodu $Q = [id]_{B_2}^{B_1}$. Stačí tedy ukázat, že je ortogonální. Aplikujme jí na skalární součin dvou libovolných vektorů $\\a$ a $\\b$. Tyto vektory lze v bázi $B_1$ vyjádřit jako\n$$ \\a = \\sum_{i=1}^n a_i \\u_i, ~\\b = \\sum_{i=1}^n b_i \\u_i $$\nJejich skalární součin je tedy z distributivity\n$$ (Q\\a) \\cdot (Q\\b) = \\sum_{i=1}^n \\sum_{j=1}^n a_i b_j (Q\\u_i) (Q\\u_j) = \\sum_{i=1}^n \\sum_{j=1}^n a_i b_j \\v_i \\v_j = $$\n$$ = \\sum_{i=1}^n \\sum_{j=1}^n a_i b_j G_{ij} = \\sum_{i=1}^n \\sum_{j=1}^n a_i b_j \\u_i \\u_j = \\a \\cdot \\b $$\nMatice $Q$ tedy zachovává skalární součin, a je tedy ortogonální. $\\hearts$"
+      }
+    ]
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3238/attachment_0.pdf"
+      }
+    ]
+  },
+  "3213": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3213/attachment_0.pdf"
+      }
+    ]
+  },
+  "2125": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du03_1/2125/attachment_0.png"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "(a) $\\implies$ (b):\n\nKeďže $Q$ je ortogonálna, tak zachováva skalárny súčin, teda:\n$$\n\\langle\\bold{u_i}, \\bold{u_j} \\rangle = \\langle Q\\bold{u_i}, Q\\bold{u_j} \\rangle = \\langle\\bold{v_i}, \\bold{v_j} \\rangle  \n$$\nČo znamená, že Gramove matice musia byť rovné, keďže sa zhodujú v každom prvku.\n\n(b) $\\implies$ (a):\n\nZrejme platí:\n$$\n\\begin{align*}\nA = [id]_{B_1}^K &= (\\bold{u_1} | \\bold{u_2} | \\dots | \\bold{u_n}) \\\\\n[id]_{K}^{B_1} &= \\left([id]_{B_1}^K\\right)^{-1} \\\\\nB = [id]_{B_2}^K &= (\\bold{v_1} | \\bold{v_2} | \\dots | \\bold{v_n})\n\\end{align*}\n$$\nĽahko je vidno, že ak zvolíme $Q = [id]_{B_2}^K[id]_{K}^{B_1} = BA^{-1}$, tak potom platí $Q\\bold{u_i} = \\bold{v_i}$, teda stačí ukázať, že $Q$ je ortogonálna.\n\nPlatí:\n$$\nA^TA = G_1 = G_2 = B^TB\n$$\n\nTeda máme:\n$$\nQ^TQ = (BA^{-1})^T(BA^{-1}) = (A^{-1})^TB^TBA^{-1} =(A^{-1})^TA^TAA^{-1} = I_n\n$$\n\nTeda máme, že $Q$ je ortogonálna."
+      }
+    ]
+  },
+  "3071": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du03_1/3071/attachment_0.png"
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2932": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2932/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3265/attachment_1.jpg"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3331/attachment_0.pdf"
+      }
+    ]
+  },
+  "3350": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3350/attachment_0.pdf"
+      }
+    ]
+  },
+  "3037": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3037/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "3075": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3075/attachment_0.pdf"
+      }
+    ]
+  },
+  "3340": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3340/attachment_0.pdf"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2892/attachment_0.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "2743": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2743/attachment_0.pdf"
+      }
+    ]
+  },
+  "3056": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3056/attachment_0.jpg"
+      }
+    ]
+  },
+  "2771": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2771/attachment_0.pdf"
+      }
+    ]
+  },
+  "3007": {
+    "solution": [
+      {
+        "msg": "$$a \\Rightarrow b: \\\\\n\\text{existuje ortogonální } Q: Qu_i=v_i:\\forall i \\in \\{1, ..., n\\}\\\\\n(G_2)_ij=v_iv_j=(Qu_i)^T(Qu_j)=u_i^TQ^TQu_j=u_i^TIu_j=(G_1)_{ij} \\\\\n\\text{Tvrzení 8.82: jelikož Q je ortogonální a jsme nad } \\mathbb{R} \\text{ tak }Q^TQ=I\\\\\nb \\Rightarrow a: \\\\\n\\text{Tvrzení 6.4: existuje právě jedno lin. zob. splňující }f(u_i)=v_i:\\forall i \\in \\{1, ..., n\\}\\\\\n\\text{pojmenujeme si Q matici tohoto zobratení takže }Qu_i=v_i\\\\\n\\text{chceme ověřit že je matice ortogonální, vybereme si ekvivalentní tvrzení podle Tvrzení 8.82:}\\\\\n\\text{\"zobrazení } f_Q \\text{ zachovává standardní skalární součin\"}\\\\\n\\left\\langle Qu_i, Qu_j \\right\\rangle =\n\\left\\langle v_i, v_j \\right\\rangle =\n(G_2)_{ij}=(G_1)_{ij}=\\left\\langle u_i, u_j \\right\\rangle \\\\\n\\text{z čehož vyplývá že zachovává. (protože zobrazení je lineární stačilo ověřit že }\\\\ \n\\text{zachovává pro bázové vektory. zbytek jde odvodit pomoci linearity)}\\\\\n\n(a \\Rightarrow b) \\vee (b \\Rightarrow a) \\iff (a \\iff b)$$"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "$(a) \\implies (b)$:\n\nKeďže $Q$ je ortogonálna, tak zachováva skalárny súčin, a teda platí\n$$  \\mathbf{v_i} \\cdot \\mathbf{v_j} = Q\\mathbf{u_i} \\cdot Q\\mathbf{u_j} = \\mathbf{u_i} \\cdot \\mathbf{u_j}.   $$\nPreto platí aj\n$$  G_1 = (\\mathbf{u_i} \\cdot \\mathbf{u_j})_{i,j} = (\\mathbf{v_i} \\cdot \\mathbf{v_j})_{i,j} = G_2.  $$\n\n$(b) \\implies (a)$:\n\nKeďže $G_1=G_2$, tak $\\mathbf{v_i} \\cdot \\mathbf{v_j} = \\mathbf{u_i} \\cdot \\mathbf{u_j}$ pre všetky $i,j$.\n\nNech \n$$V=(\\mathbf{v_1} \\ | \\ \\mathbf{v_2} \\ | \\dots \\ | \\ \\mathbf{v_n})$$\na analogicky\n$$U=(\\mathbf{u_1} \\ | \\ \\mathbf{u_2} \\ | \\dots \\ | \\ \\mathbf{u_n}).$$\nPotom dostávame\n$$ V^T\\mathbf{v_i} = \\begin{pmatrix} \\mathbf{v_1}^T \\\\ \\mathbf{v_2}^T \\\\ \\dots \\\\ \\mathbf{v_n}^T \\end{pmatrix} \\mathbf{v_i} = \\begin{pmatrix} \\mathbf{v_1}^T\\mathbf{v_i} \\\\ \\mathbf{v_2}^T\\mathbf{v_i} \\\\ \\dots \\\\ \\mathbf{v_n}^T\\mathbf{v_i} \\end{pmatrix} = \\begin{pmatrix} \\mathbf{v_1}\\cdot\\mathbf{v_i} \\\\ \\mathbf{v_2}\\cdot\\mathbf{v_i} \\\\ \\dots \\\\ \\mathbf{v_n}\\cdot\\mathbf{v_i} \\end{pmatrix} = \\begin{pmatrix} \\mathbf{u_1}\\cdot\\mathbf{u_i} \\\\ \\mathbf{u_2}\\cdot\\mathbf{u_i} \\\\ \\dots \\\\ \\mathbf{u_n}\\cdot\\mathbf{u_i} \\end{pmatrix} = \\dots = U^T\\mathbf{u_i}. $$\nZ tohto plynie okrem iného aj\n$$ V^TV = V^T(\\mathbf{v_1} \\ | \\ \\mathbf{v_2} \\ | \\dots \\ | \\ \\mathbf{v_n}) = (V^T\\mathbf{v_1} \\ | \\ V^T\\mathbf{v_2} \\ | \\dots \\ | \\ V^T\\mathbf{v_n}) = (U^T\\mathbf{u_1} \\ | \\ U^T\\mathbf{u_2} \\ | \\dots \\ | \\ U^T\\mathbf{u_n}) = U^TU  $$\n\nKeďže stĺpce matíc $U,V$ tvoria báze $\\mathbb{R}^n$, tak $U,V$ sú regulárne, a teda aj $U^T,V^T$ sú regulárne. Preto platí\n$$ (UV^{-1})^T\\mathbf{u_i}=(V^{-1})^TU^T\\mathbf{u_i} = \\mathbf{v_i}.  $$\nOstáva tak ukázať, že matica $(UV^{-1})^T$ je ortogonálna, čo je ekvivalentné tomu., že matica $UV^{-1}$ je ortogonálna. Vskutku,\n$$ (UV^{-1})(UV^{-1})^T = UV^{-1}(V^{-1})^TU^T = UV^{-1}(V^T)^{-1}U^T = U(V^TV)^{-1}U^T = $$\n$$ = U(U^TU)^{-1}U^T = UU^{-1} (U^T)^{-1}U^T = I_nI_n=I_n.  $$"
+      }
+    ]
+  },
+  "3316": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3316/attachment_0.pdf"
+      }
+    ]
+  },
+  "2864": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2864/attachment_0.pdf"
+      }
+    ]
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2562/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2562/attachment_1.jpg"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "2878": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2878/attachment_0.pdf"
+      }
+    ]
+  },
+  "2978": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2978/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; Dokážeme postupne obe implikácie:\n\n$(a) \\implies (b)$\n\n&nbsp; Dokážeme rovnosť prvku na všeobecnej pozícii $(i,j), 1 \\leq i \\leq n, 1 \\leq j \\leq n$ v maticiach $G_1, G_2$:\n\n$$G_{2(i,j)} = v_i \\cdot v_j = Qu_i \\cdot Qu_j = u_i \\cdot u_j = G_{1(i,j)}$$\n\nPrvá rovnosť plynie z definície Gramovej matice postupnosti $B_2$, druhá z predpokladu, tretia taktiež plynie z predpokladu, keďže $Q$ je ortogonálna, teda zobrazenie určené touto maticou zachováva skalárny súčin a štvrtá rovnosť plynie znovu z definície Gramovej matice postupnosti $B_1$. Tým je rovnosť matíc $G_1=G_2$ dokázaná, keďže sú z definície obe typu $n \\times n$.\n\n$(b) \\implies (a)$\n\n&nbsp; Postupnosti $B_1, B_2$ sú báze rovnakého vektorového priestoru $\\R^n$, teda existuje práve jedno lineárne zobrazenie $f$ spĺňajúce $f(u_i) = v_i, \\forall i\\in \\{1, \\dots ,n\\}$, pretože lineárne zobrazenie je jednoznačne určené hodnotami na báze. $f$ zobrazuje bázu $\\R^n$ na bázu toho istého priestoru, teda $f$ je bijekcia, teda invertibilné zobrazenie, takže každá matica zobrazenia $f$ vzhľadom k ľubovoľným bázam $\\R^n$ je regulárna (to že identita je tiež bijekcia platí triviálne, čo využijeme neskôr). Uvažujme maticu zobrazenia $f$ a označme ju $[f]^K_K = Q$, pričom z definície zobrazenia rovno dostávame druhú podmienku pre maticu $Q$, teda že $Qu_i = v_i, \\forall i\\in \\{1, \\dots ,n\\}$. Zostáva teda dokázať ortogonalitu. Počítajme\n\n$$[f]^K_K = [\\text{id}]^{B_2}_K[f]^K_{B_2} = [\\text{id}]^{B_2}_K\\left( [f^{-1}]^{B_2}_K \\right)^{-1}$$\n\nDruhá rovnosť plynie z regularity matice $[f]^K_{B_2}$. Z definície zobrazenia $f^{-1}(v_i) = u_i, \\forall i\\in \\{1, \\dots ,n\\}$. Potom z definície matice zobrazenia platí\n$$[\\text{id}]^{B_2}_K = (v_1| \\dots | v_n) \\\\[1ex]\n\\left( [f^{-1}]^{B_2}_K \\right)^{-1} = \\left([f^{-1}(v_1)]_K|\\dots |[f^{-1}(v_n)]_K\\right)^{-1}= (u_1| \\dots |u_n)^{-1}$$\n\nDokopy teda po dosadení $Q = (v_1| \\dots | v_n)(u_1| \\dots |u_n)^{-1}$. Dokážeme ortogonalitu $Q$ pomocou ekvivalentného tvrdenia $Q^*Q = Q^TQ=I_n$, kde komplexné združenie netreba uvažovať, keďže je $Q$ nad $\\R$. Máme teda z asociativity násobenia matíc, definície Gramovej matice vzhľadom ku štandardnému skalárnemu súčinu a predpokladu $G_1 = G_2$\n\n$$Q^TQ = \\left((v_1| \\dots | v_n)(u_1| \\dots |u_n)^{-1}\\right)^{T}(v_1| \\dots | v_n)(u_1| \\dots |u_n)^{-1} =\\\\[1ex]\n= \\left((u_1| \\dots |u_n)^{-1}\\right)^{T}(v_1| \\dots | v_n)^{T}(v_1| \\dots | v_n)(u_1| \\dots |u_n)^{-1} =\\\\[1ex]\n= \\left((u_1| \\dots |u_n)^{-1}\\right)^{T}G_2(u_1| \\dots |u_n)^{-1} =\\\\[1ex]\n \\left((u_1| \\dots |u_n)^{-1}\\right)^{T}G_1(u_1| \\dots |u_n)^{-1} =\\\\[1ex]\n= \\left((u_1| \\dots |u_n)^{-1}\\right)^{T}(u_1| \\dots | u_n)^{T}(u_1| \\dots | u_n)(u_1| \\dots |u_n)^{-1} =\\\\[1ex]\n= \\left((u_1| \\dots |u_n)^{-1}\\right)^{T}(u_1| \\dots | u_n)^{T} =\\\\[1ex]\n= \\left((u_1| \\dots | u_n)(u_1| \\dots |u_n)^{-1}\\right)^{T} = I_n^{T} = I_n$$\n\nČím je ekvivalencia dokázaná."
+      }
+    ]
+  },
+  "3326": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3326/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3326/attachment_1.jpg"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "2922": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2922/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "3108": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3108/attachment_0.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2815/attachment_0.jpg"
+      }
+    ]
+  },
+  "3008": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3008/attachment_0.pdf"
+      }
+    ]
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2464/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3131/attachment_0.pdf"
+      }
+    ]
+  },
+  "3142": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3142/attachment_0.jpg"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3310/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3310/attachment_1.jpg"
+      }
+    ]
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2858/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3135/attachment_1.pdf"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3317/attachment_1.pdf"
+      }
+    ]
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2865/attachment_0.pdf"
+      }
+    ]
+  },
+  "3121": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3121/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "2764": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2764/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2764/attachment_1.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/2937/attachment_0.jpg"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3045/attachment_0.pdf"
+      }
+    ]
+  },
+  "2901": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2901/attachment_0.pdf"
+      }
+    ]
+  },
+  "3272": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3272/attachment_4.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3272/attachment_5.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3272/attachment_6.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_1/3272/attachment_7.jpg"
+      }
+    ]
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/3168/attachment_0.pdf"
+      }
+    ]
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/2398/attachment_0.pdf"
+      }
+    ]
+  },
+  "1927": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_1/1927/attachment_0.pdf"
+      }
+    ]
+  }
+}

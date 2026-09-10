@@ -1,0 +1,1034 @@
+{
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3128": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3128/attachment_0.pdf"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2903/attachment_0.pdf"
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3281/attachment_0.pdf"
+      }
+    ]
+  },
+  "3227": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3227/attachment_1.pdf"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2430/attachment_1.jpg"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "## a)\n$B = (\\vec{b_1}, \\vec{b_2}, \\vec{b_3})$   \n$\\vec{b_1} = \\frac{1}{||1||}$   \n$||1|| = \\sqrt{\\int_1^51*1 dx}=\\sqrt{4}=2$   \n$\\vec{b_1} = \\frac{1}{2}$   \n   \n$\\vec{b_2} =\\frac{x-\\lang\\frac{1}{2},x\\rang\\frac{1}{2}}{||x-\\lang\\frac{1}{2},x\\rang\\frac{1}{2}||}$    \n$x-\\lang\\frac{1}{2},x\\rang\\frac{1}{2} = x-\\frac{1}{2}\\int_1^5\\frac{x}{2}dx=x-\\frac{1}{2}6=x-\\frac{6}{2}=x-3$   \n$||x-3||=\\sqrt{\\int_1^5(x-3)^2dx} =\\sqrt{\\frac{16}{3}}=\\frac{4}{\\sqrt{3}}$   \n$\\vec{b_2}=\\frac{x-3}{\\frac{4}{\\sqrt{3}}}=\\frac{\\sqrt{3}(x-3)}{4}$   \n   \n$\\vec{b_3} = \\frac{x^2-\\lang\\frac{1}{2},x^2\\rang\\frac{1}{2}-\\lang\\frac{\\sqrt{3}(x-3)}{4}, x^2\\rang\\frac{\\sqrt{3}(x-3)}{4}}{||x^2-\\lang\\frac{1}{2},x^2\\rang\\frac{1}{2}-\\lang\\frac{\\sqrt{3}(x-3)}{4}, x^2\\rang\\frac{\\sqrt{3}(x-3)}{4}||}$   \n$x^2-\\lang\\frac{1}{2},x^2\\rang\\frac{1}{2}-\\lang\\frac{\\sqrt{3}(x-3)}{4}, x^2\\rang\\frac{\\sqrt{3}(x-3)}{4} =x^2-\\frac{1}{2}\\int_1^5\\frac{x^2}{2}dx-\\frac{\\sqrt{3}(x-3)}{4}\\int_1^5x^2\\frac{\\sqrt{3}(x-3)}{4}dx=$   \n$=x^2-\\frac{1}{2}\\frac{62}{3}-\\frac{\\sqrt{3}(x-3)}{4}8\\sqrt3=x^2-\\frac{31}{3}-6(x-3)=x^2-6x+\\frac{23}{3}$   \n$||x^2-6x+\\frac{23}{3}|| = \\sqrt{\\int_1^5(x^2-6x+\\frac{23}{3})^2dx}=\\sqrt{\\frac{256}{45}}=\\frac{16}{3\\sqrt5}$   \n$\\vec{b_3}=\\frac{x^2-6x+\\frac{23}{3}}{\\frac{16}{3\\sqrt5}} = \\frac{3\\sqrt{5}}{16}(x^2-6x+\\frac{23}{3})$   \n   \n## b)   \n$\\vec{w}=\\lang\\vec{b_1},\\sin(x)\\rang\\vec{b_1}+\\lang\\vec{b_2},\\sin(x)\\rang\\vec{b_2}+\\lang\\vec{b_3},\\sin(x)\\rang\\vec{b_3}=$   \n$\\frac{1}{2}\\int_1^5\\frac{\\sin(x)}{2} dx + \\frac{\\sqrt{3}(x-3)}{4}\\int_1^5 \\frac{\\sqrt{3}(x-3)}{4}\\sin(x) dx + \\frac{3\\sqrt{5}}{16}(x^2-6x+\\frac{23}{3})\\int_1^5 \\frac{3\\sqrt{5}}{16}(x^2-6x+\\frac{23}{3})\\sin(x) dx=$   \n$=\\frac{1}{2}(\\frac{\\cos(1)-\\cos(5)}{2})\n+\\frac{\\sqrt{3}(x-3)}{4}(-\\frac{\\sqrt3(\\sin(1)-\\sin(5)+2\\cos(1)+2\\cos(5)}{4})+$   \n$+\\frac{3\\sqrt{5}}{16}(x^2-6x+\\frac{23}{3})\\frac{5(6\\sin(1)+6(\\sin(5)+\\cos(1)-\\cos(5))}{8\\sqrt3}=$   \n$=x^2(\\frac{5\\sqrt{15}(6\\sin(1)+6\\sin(5)+\\cos(1)-\\cos(5))}{128})+$   \n$+x(-\\frac{15\\sqrt{15} (6\\sin(1)+6\\sin(5)+\\cos(1)-\\cos(5))}{64}-\\frac{3(\\sin(1)-\\sin(5)+2\\cos(1)+2\\cos(5)}{16})+$   \n$+(\\frac{115\\sqrt{15}(6\\sin(1)+6\\sin(5)+\\cos(1)-\\cos(5))}{384}+\\frac{9(\\sin(1)-\\sin(5)+2\\cos(1)+2\\cos(5))}{16}+\\frac{\\cos(1)-\\cos(5)}{4})$   \nCož se rovná přibližně $-0,053x^2-0,332x+1,601$   \n   \n## c)   \nOdmítám do wolframu přepisovat ten hnus, takže budu počítat s přibližnými hodnotami   \n$||\\sin(x)+0,053x^2+0,332x-1,601|| = \\sqrt{\\int_1^5(\\sin(x)+0,053x^2+0,332x-1,601)^2}=\\sqrt{0.101878}\\approx0.319$"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3221/attachment_0.pdf"
+      }
+    ]
+  },
+  "3349": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3349/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3349/attachment_1.jpg"
+      }
+    ]
+  },
+  "3298": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3298/attachment_0.pdf"
+      }
+    ]
+  },
+  "2947": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2947/attachment_0.pdf"
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2881": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2881/attachment_0.pdf"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3209/attachment_0.pdf"
+      }
+    ]
+  },
+  "3204": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3204/attachment_0.pdf"
+      }
+    ]
+  },
+  "2857": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2857/attachment_0.pdf"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2871/attachment_0.pdf"
+      }
+    ]
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2826/attachment_0.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3174/attachment_0.pdf"
+      }
+    ]
+  },
+  "2859": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2859/attachment_0.pdf"
+      }
+    ]
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3041/attachment_0.pdf"
+      }
+    ]
+  },
+  "3285": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3285/attachment_0.pdf"
+      }
+    ]
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3261/attachment_0.pdf"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3233/attachment_0.pdf"
+      }
+    ]
+  },
+  "3038": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3038/attachment_0.pdf"
+      }
+    ]
+  },
+  "3245": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3245/attachment_0.pdf"
+      }
+    ]
+  },
+  "2847": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2847/attachment_0.pdf"
+      }
+    ]
+  },
+  "2889": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2889/attachment_0.pdf"
+      }
+    ]
+  },
+  "3329": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3329/attachment_0.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3115/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3102": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3102/attachment_0.pdf"
+      }
+    ]
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3276/attachment_0.pdf"
+      }
+    ]
+  },
+  "3269": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3269/attachment_0.pdf"
+      }
+    ]
+  },
+  "3090": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3090/attachment_0.pdf"
+      }
+    ]
+  },
+  "3256": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3256/attachment_0.pdf"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3355": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3355/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\scal#1{\\int_1^5#1dx}$\n## (a)\nProveďme Gram-Schmidtovu ortogonalizaci. První člen je\n$$ b_1 = \\frac{1}{\\sqrt{\\scal{1^2}}} = \\frac{1}{2} $$\nDruhý člen je před normalizací\n$$ x-\\frac{1}{2}\\scal{\\frac{1}{2}x} = x-3 $$\nPo normalizaci\n$$ b_2 = \\frac{x-3}{\\sqrt{\\scal{(x^2-6x+9)}}} = \\frac{\\sqrt{3}}{4}(x-3) $$\nTřetí člen před je\n$$ x^2 - \\frac{\\sqrt{3}}{4}(x-3) \\scal{\\frac{\\sqrt{3}}{4}(x^3-3x^2)} - \\frac{1}{2}\\scal{\\frac{1}{2}x^2} = x^2 - 6x +\\frac{23}{3} $$\nA po\n$$ b_3 = \\frac{x^2 - 6x +\\frac{23}{3}}{\\sqrt{\\scal{(x^2 - 6x +\\frac{23}{3})^2}}} = \\frac{3 \\sqrt{5}}{16}\\left(x^2 - 6x +\\frac{23}{3}\\right) $$\nCelkem je tedy ortonormální báze z Gram-Schmidtovy ortogonalizace\n$$ \\left( \\frac{1}{2}, \\frac{\\sqrt{3}}{4}(x-3), \\frac{3 \\sqrt{5}}{16}\\left(x^2 - 6x +\\frac{23}{3}\\right)\\right) $$\n## (b)\nOrtogonální projekci spočítáme s použitím získané báze jako\n$$ \\frac{1}{2}\\scal{\\frac{1}{2}\\sin x} + \\frac{\\sqrt{3}}{4}(x-3)\\scal{\\frac{\\sqrt{3}}{4}(x-3) \\sin x} +$$\n$$+ \\frac{3 \\sqrt{5}}{16}\\left(x^2 - 6x +\\frac{23}{3}\\right) \\scal{\\frac{3 \\sqrt{5}}{16}\\left(x^2 - 6x +\\frac{23}{3}\\right) \\sin x} = $$\n$$ \\approx -0.0525 x^2 - 0.3315 x + 1.6013 $$\n## \\(c)\nNormu rozdílu spočítáme jako odmocninu integrálu\n$$ \\sqrt{\\int_1^5 (\\sin x - (-0.0525 x^2 - 0.3315 x + 1.6013))^2 dx} \\approx 0.3188 $$\nVšechny integrály jsem počítal pomocí WolframAlpha (umí to Tex syntax) $\\hearts$"
+      }
+    ]
+  },
+  "3345": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3345/attachment_0.pdf"
+      }
+    ]
+  },
+  "3277": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3277/attachment_1.pdf"
+      }
+    ]
+  },
+  "3213": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3213/attachment_0.pdf"
+      }
+    ]
+  },
+  "2125": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du03_2/2125/attachment_0.png"
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3305/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3305/attachment_1.jpg"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3072/attachment_0.jpg"
+      }
+    ]
+  },
+  "2763": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2763/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2763/attachment_1.jpg"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2932": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2932/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3265/attachment_1.jpg"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2866/attachment_1.pdf"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3104": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3104/attachment_0.pdf"
+      }
+    ]
+  },
+  "2542": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2542/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2862/attachment_0.jpg"
+      }
+    ]
+  },
+  "3003": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3003/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3003/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3003/attachment_2.jpg"
+      }
+    ]
+  },
+  "3075": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3075/attachment_0.pdf"
+      }
+    ]
+  },
+  "3340": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3340/attachment_0.pdf"
+      }
+    ]
+  },
+  "3297": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3297/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3297/attachment_1.jpg"
+      }
+    ]
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2924/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2892/attachment_0.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "2886": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2886/attachment_0.pdf"
+      }
+    ]
+  },
+  "3149": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3149/attachment_0.pdf"
+      }
+    ]
+  },
+  "3056": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3056/attachment_0.jpg"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2984/attachment_2.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "( a )\n\nMáme $\\langle 1,1\\rangle = \\int_1^5 1 \\ dx = 4$, a teda $\\|1\\|=2$. Preto $\\mathbf{u_1}=\\frac{1}{2}$. \n\nNech $\\mathbf{w_2}$ je ortogonálna projekcia vektoru $x$ do $\\text{Span}\\{\\mathbf{u_1}\\}$. Keďže $\\{\\mathbf{u_1}\\}$ je ortonormálna, platí $\\mathbf{w_2} = \\langle \\mathbf{u_1}, x \\rangle \\mathbf{u_1} = \\langle 1/2, x \\rangle 1/2$. Počítame \n$$ \\int_1^5 x/2 \\ dx = 6, $$\na teda $\\mathbf{w_2}=3$. Dostávame tak \n$$ \\mathbf{u_2}=\\frac{x-\\mathbf{w_2}}{ \\| x-\\mathbf{w_2} \\| }=\\frac{x-3}{ \\| x-3 \\| }. $$\nPočítame \n$$ \\int_1^5 (x-3)^2 \\ dx = 16/3 , $$\nteda $\\| x-3\\|=4/\\sqrt{3}$, a teda $\\mathbf{u_2}=\\frac{x-3}{4/\\sqrt{3}}$.\n\nNech $\\mathbf{w_3}$ je ortogonálna projekcia vektoru $x^2$ do $\\text{Span}\\{\\mathbf{u_1},\\mathbf{u_2}\\}$. Keďže $\\{\\mathbf{u_1},\\mathbf{u_2}\\}$ je ortonormálna, platí \n$$\\mathbf{w_3} = \\langle \\mathbf{u_1}, x^2 \\rangle \\mathbf{u_1} + \\langle \\mathbf{u_2}, x^2 \\rangle \\mathbf{u_2} = \\langle 1/2, x^2 \\rangle 1/2 + \\left\\langle \\frac{x-3}{4/\\sqrt{3}}, x^2 \\right\\rangle \\frac{x-3}{4/\\sqrt{3}} .$$ \nPočítame \n$$ \\int_1^5 x^2/2 \\ dx = 62/3, $$\n$$ \\int_1^5 x^2\\left(\\frac{x-3}{4/\\sqrt{3}}\\right) \\ dx = 8\\sqrt{3} , $$\na teda \n$$\\mathbf{w_3}=\\frac{62}{3}\\cdot \\frac{1}{2} + 8\\sqrt{3}\\cdot\\frac{x-3}{4/\\sqrt{3}} = 6 (x - 3) + 31/3 .$$ \nDostávame tak \n$$ \\mathbf{u_3}=\\frac{x^2-\\mathbf{w_3}}{ \\| x^2-\\mathbf{w_3} \\| }=\\frac{x^2-6 (x - 3) - 31/3}{ \\| x^2-6 (x - 3) - 31/3 \\| }. $$\nPočítame \n$$ \\int_1^5 (x^2-6 (x - 3) - 31/3)^2 \\ dx = 256/45  , $$\nteda $\\| x^2-6 (x - 3) - 31/3\\|=16 \\sqrt{5}/15$, a teda \n$$\\mathbf{u_3}=\\frac{x^2-6 (x - 3) - 31/3}{16 \\sqrt{5}/15}.$$\nDostávame tak ortonormálnu bázu priestoru $\\text{Span}\\{1,x,x^2\\}$:\n$$B=(\\mathbf{u_1},\\mathbf{u_2},\\mathbf{u_3})=\\left( 1/2, \\ \\frac{x-3}{4/\\sqrt{3}}, \\ \\frac{x^2-6 (x - 3) - 31/3}{16 \\sqrt{5}/15} \\right).$$\n\n( b )\n\nNech $\\mathbf{w}$ je ortogonálna projekcia $\\sin(x)$ na priestor $\\text{Span}\\{1,x,x^2\\}$. Keďže $B$ je ortonormálna báza tohto priestoru, tak platí\n$$ \\mathbf{w} = \\langle \\mathbf{u_1}, \\sin(x)  \\rangle \\mathbf{u_1} + \\langle \\mathbf{u_2}, \\sin(x)  \\rangle \\mathbf{u_2} + \\langle \\mathbf{u_3}, \\sin(x)  \\rangle \\mathbf{u_3}. $$\nPočítame\n$$ \\int_1^5 \\sin(x)/2 \\ dx \\approx 0.128,  $$\n$$ \\int_1^5 \\sin(x)\\left( \\frac{x-3}{4/\\sqrt{3}} \\right) \\ dx \\approx -1.493,  $$\n$$ \\int_1^5 \\sin(x)\\left( \\frac{x^2-6 (x - 3) - 31/3}{16 \\sqrt{5}/15} \\right) \\ dx \\approx -0.125.  $$\nPotom \n$$\\mathbf{w}  \\approx  -0.0524078 x^2 - 0.332041 x + 1.60167. $$\n\n( c )\n\n$$\\| \\sin(x) - (-0.0524078 x^2 - 0.332041 x + 1.60167) \\| = $$\n$$=\\sqrt{\\int_1^5 (\\sin(x) +0.0524078 x^2 + 0.332041 x - 1.60167)^2   \\ dx  } = 0.31879.$$"
+      }
+    ]
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3264/attachment_0.pdf"
+      }
+    ]
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2562/attachment_0.jpg"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "2878": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2878/attachment_1.pdf"
+      }
+    ]
+  },
+  "2978": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2978/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; $(a)$ Prevedieme Gram-Schmidtovu ortogonalizáciu na bázu podpriestoru $(v_1,v_2,v_3):=(1, x, x^2)$ a výsledkom bude ortonormálna báza $(u_1,u_2,u_3)$, kde prvý vektor postupnosti jednoducho znormujeme, teda \n$$u_1 = \\frac{1}{||1||}=\\frac{1}{\\sqrt{\\langle1,1\\rangle}}=\\frac{1}{\\sqrt{\\int^5_1{1^2dx}}} = \\frac{1}{\\sqrt{4}} = \\frac{1}{2}$$\nĎalej budeme postupovať ortogonalizáciou $v_2$. Nájdeme teda kolmicu $v_2$ na podpriestor tvorený $u_1$ podľa všeobecného vzorca\n$$v_i - \\langle u_1, v_i \\rangle u_1 - \\langle u_2, v_i \\rangle u_2 - \\cdots - \\langle u_{i-1}, v_i \\rangle u_{i-1}$$\nKde $v_i$ je bázový vektor ktorého kolmicu hľadáme a vzorec dáva kolmicu na podpriestor tvorený ortonormálnymi vektormi $u_1, \\dots , u_{i-1}$. Dosadením máme kolmicu ako\n$$v_2-\\langle u_1,v_2 \\rangle u_1 = x-\\left\\langle \\frac{1}{2},x \\right\\rangle \\frac{1}{2} = x - \\int^5_1{\\frac{1}{2}x}\\;dx \\frac{1}{2} = x - \\left[\\frac{1}{2}\\cdot\\frac{x^2}{2}\\right]_1^5 \\cdot \\frac{1}{2}=\\\\\n = x - \\left[\\frac{x^2}{4}\\right]_1^5 \\cdot \\frac{1}{2} = x - \\left(\\frac{25}{4} - \\frac{1}{4}\\right)\\frac{1}{2} = x - 3$$\nTúto kolmicu teraz znormujeme, čím dostaneme\n$$u_2 = \\frac{x-3}{||x-3||} = \\frac{x - 3}{\\sqrt{\\langle x - 3, x - 3 \\rangle}} = \\frac{x - 3}{\\sqrt{\\int_1^5 (x - 3)^2\\;dx}} = \\frac{x - 3}{\\sqrt{\\left[\\frac{(x-3)^3}{3}\\right]_1^5}} =\\\\\n= \\frac{x - 3}{\\sqrt{\\frac{8}{3} - \\left(-\\frac{8}{3}\\right)}} = \\frac{x - 3}{\\sqrt{\\frac{16}{3}}} = \\frac{\\sqrt{3}}{4}(x - 3)$$\n\nAnalogicky nájdeme $u_3$, teda \n$$v_3-\\langle u_1,v_3 \\rangle u_1 -  \\langle u_2,v_3 \\rangle u_2 = x^2-\\left\\langle\\frac{1}{2},x^2 \\right\\rangle\\frac{1}{2}-\\left\\langle\\frac{\\sqrt{3}}{4}(x-3),x^2 \\right\\rangle\\frac{\\sqrt{3}}{4}(x-3) =\\\\[1ex]\n= x^2 - \\left(\\int_1^5 \\frac{1}{2}x^2\\;dx\\right)\\frac{1}{2} - \\left(\\int_1^5 \\frac{\\sqrt{3}}{4}(x-3)x^2\\;dx\\right)\\frac{\\sqrt{3}}{4}(x-3)=\\\\[1ex]\n = x^2 - \\left[\\frac{x^3}{6}\\right]_1^5\\frac{1}{2} - \\left[\\frac{\\sqrt{3}}{4}\\left(\\frac{x^4}{4} - x^3\\right)\\right]_1^5\\frac{\\sqrt{3}}{4}(x-3) = \\\\[1ex]\n=x^2 - \\left(\\frac{125}{6} - \\frac{1}{6}\\right)\\frac{1}{2} - \\frac{\\sqrt{3}}{4}\\left(\\left(\\frac{625}{4} - 125\\right) - \\left(\\frac{1}{4} - 1\\right)\\right)\\frac{\\sqrt{3}}{4}(x-3) = \\\\[1ex]\n=x^2 - \\frac{62}{3}\\cdot\\frac{1}{2} - \\frac{\\sqrt{3}}{4}\\cdot 32 \\cdot \\frac{\\sqrt{3}}{4}(x-3) = x^2 - \\frac{31}{3} - 6(x-3) = x^2 - 6x + \\frac{23}{3}$$\nZ čoho máme kolmicu, ktorú už stačí len znormovať\n\n$$u_3 = \\frac{x^2-6x+\\frac{23}{3}}{||x^2-6x+\\frac{23}{3}||} = \\frac{x^2 - 6x + \\frac{23}{3}}{\\sqrt{\\left\\langle x^2 - 6x + \\frac{23}{3}, x^2 - 6x + \\frac{23}{3}\\right\\rangle}}\n= \\frac{x^2 - 6x + \\frac{23}{3}}{\\sqrt{\\int_1^5 \\left(x^2 - 6x + \\frac{23}{3}\\right)^2 \\; dx}}=\\\\[1ex]\n= \\frac{x^2 - 6x + \\frac{23}{3}}{\\sqrt{\\int_1^5 \\left(x^4 - 12x^3 + \\frac{154}{3}x^2 - 92x + \\frac{529}{9}\\right) \\; dx}}\n= \\frac{x^2 - 6x + \\frac{23}{3}}{\\sqrt{\\left[\\frac{x^5}{5} - 3x^4 + \\frac{154}{9}x^3 - 46x^2 + \\frac{529}{9}x\\right]_1^5}}=\\\\[1ex]\n= \\frac{x^2 - 6x + \\frac{23}{3}}{\\sqrt{\\left(625 - 1875 + \\frac{19250}{9} - 1150 + \\frac{2645}{9}\\right) - \\left(\\frac{1}{5} - 3 + \\frac{154}{9} - 46 + \\frac{529}{9}\\right)}}\n= \\frac{x^2 - 6x + \\frac{23}{3}}{\\sqrt{\\frac{256}{45}}}=\\\\[1ex]\n= \\frac{3\\sqrt{5}}{16}\\left(x^2 - 6x + \\frac{23}{3}\\right)$$\n\nDokopy dostávame ortonormálnu bázu priestoru $\\text{Span}\\{1, x, x^2\\}$ ako \n$$\\left(\\frac{1}{2}, \\frac{\\sqrt{3}}{4}(x - 3), \\frac{\\sqrt{5}}{16}\\left(3x^2 - 18x + 23\\right)\\right)$$\n\n&nbsp; $(b)$ Teraz spočítame ortogonálnu projekciu funkcie $\\sin{x}$ do tohto podpriestoru pomocou všeobecného vzorca, keďže už poznáme ortonormálnu bázu, teda \n$$w = \\langle u_1, v \\rangle u_1 + \\langle u_2, v \\rangle u_2 + \\cdots + \\langle u_k, v \\rangle u_k$$ \nkde $w$ je výsledná ortogonálna projekcia vektoru $v = \\sin{x}$. Dosadením pre našu trojprvkovú ortonormálnu bázu máme ortogonálnu projekciu ako\n$$w = \\langle u_1, v \\rangle u_1 + \\langle u_2, v \\rangle u_2 + \\langle u_3, v \\rangle u_3 =\\\\[1ex]\n= \\left(\\int_1^5 \\sin(x)\\cdot \\frac{1}{2} \\; dx\\right)\\frac{1}{2} + \\left(\\int_1^5 \\sin(x)\\cdot \\frac{\\sqrt{3}}{4}(x-3) \\; dx\\right)\\frac{\\sqrt{3}}{4}(x-3) +\\\\[1ex]\n + \\left(\\int_1^5 \\sin(x)\\cdot \\frac{3\\sqrt{5}}{16}\\left(x^2-6x+\\frac{23}{3}\\right) \\; dx\\right)\\frac{3\\sqrt{5}}{16}\\left(x^2-6x+\\frac{23}{3}\\right) \\approx \\\\[1ex]\n\\approx 0.41\\cdot \\frac{1}{2} + (-0.76)\\cdot \\frac{\\sqrt{3}}{4}(x-3) + (-0.12)\\cdot \\frac{3\\sqrt{5}}{16}\\left(x^2-6x+\\frac{23}{3}\\right) \\approx -0.05x^2 - 0.33x + 1.6$$\nTieto integrály už som vyčíslil pomocou WolframAlpha a výsledky zaokrúhlil na 2 desatinné miesta.\n\n&nbsp; $({c})$ Normu rozdielu zo zadania už len jednoducho spočítame dosadením zistených hodnôt\n$$||\\sin{x}-(ax^2+bx+c)|| =\\\\[1ex]\n= \\sqrt{\\left\\langle \\sin x - \\left(-0.05x^2 - 0.33x + 1.60\\right), \\sin x - \\left(-0.05x^2 - 0.33x + 1.60\\right)\\right\\rangle} =\\\\[2ex]\n= \\sqrt{\\int_1^5 \\left(\\sin x - \\left(-0.05x^2 - 0.33x + 1.60\\right)\\right)^2 \\; dx} \\approx 0.326$$\nAj posledný integrál som vyčíslil pomocou WolframAlpha a výsledok je zaokrúhlený na 3 desatinné miesta."
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3253/attachment_0.pdf"
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "2922": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2922/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "3108": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3108/attachment_1.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2815/attachment_0.jpg"
+      }
+    ]
+  },
+  "3008": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3008/attachment_0.pdf"
+      }
+    ]
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2464/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3223/attachment_1.pdf"
+      }
+    ]
+  },
+  "3407": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3407/attachment_0.pdf"
+      }
+    ]
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2858/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3135/attachment_0.pdf"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3317/attachment_0.pdf"
+      }
+    ]
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2865/attachment_0.pdf"
+      }
+    ]
+  },
+  "2993": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2993/attachment_0.jpg"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "2981": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2981/attachment_0.pdf"
+      }
+    ]
+  },
+  "3121": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3121/attachment_1.pdf"
+      }
+    ]
+  },
+  "3000": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3000/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "2764": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/2764/attachment_0.jpg"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du03_2/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du03_2/2937/attachment_0.png"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3205/attachment_0.pdf"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3045/attachment_0.pdf"
+      }
+    ]
+  },
+  "3094": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3094/attachment_0.pdf"
+      }
+    ]
+  },
+  "2901": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/2901/attachment_0.pdf"
+      }
+    ]
+  },
+  "3165": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3165/attachment_0.pdf"
+      }
+    ]
+  },
+  "3196": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du03_2/3196/attachment_0.pdf"
+      }
+    ]
+  }
+}

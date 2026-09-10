@@ -1,0 +1,1102 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3271/attachment_2.pdf"
+      }
+    ]
+  },
+  "3244": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3244/attachment_0.pdf"
+      }
+    ]
+  },
+  "3308": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3308/attachment_0.pdf"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3314": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3314/attachment_0.jpg"
+      }
+    ]
+  },
+  "3283": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3283/attachment_0.jpg"
+      }
+    ]
+  },
+  "3332": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3332/attachment_0.jpg"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2903/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2903/attachment_1.pdf"
+      },
+      {
+        "msg": "V pátém řádku chybí po slově \"jeden\" slovo \"není\". Pak už je to snad v pořádku."
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du05_2/3281/attachment_0.png"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2430/attachment_0.jpg"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "Z první podmínky:   \nTento podprostor je $Span((1,1,0)^T, (1,2,1)^T)$, takže $A$ musí splňovat   \n$A(1,1,0)^T=2(1,1,0)^T$   \n$A(1,2,1)^T=2(1,2,1)^T$   \n   \nZ druhé podmínky:   \n$A$ miusí splňovat    \n$A(1,1,1)^T=3(1,1,1)^T$   \n    \nPokud tedy budeme uvažovat bázi $B = \\begin{Bmatrix}\\begin{pmatrix}1\\\\1\\\\0\\end{pmatrix},\\begin{pmatrix}1 \\\\2\\\\1\\end{pmatrix},\\begin{pmatrix}1\\\\1\\\\1\\end{pmatrix}\\end{Bmatrix}$,    \ntak matice operátoru $f_A$ z báze $B$ do kanonické báze bude   \n$\\begin{pmatrix}2&2&3\\\\2&4&3\\\\0&2&3\\end{pmatrix}$   \n   \nVektory kanonické báze vzhledem k $B$ jsou   \n$[e_1]_B=\\begin{pmatrix}1\\\\-1\\\\1\\end{pmatrix}$,\n$[e_2]_B=\\begin{pmatrix}0\\\\1\\\\-1\\end{pmatrix}$,\n$[e_3]_B=\\begin{pmatrix}-1\\\\0\\\\1\\end{pmatrix}$   \n   \nJejich obrazy jsou   \n$f(e_1)=\\begin{pmatrix}3\\\\1\\\\1\\end{pmatrix}$,\n$f(e_2)=\\begin{pmatrix}-1\\\\1\\\\-1\\end{pmatrix}$,\n$f(e_3)=\\begin{pmatrix}1\\\\1\\\\3\\end{pmatrix}$    \n    \nTakže matice $A$ je tedy   \n$A=\\begin{pmatrix}3&-1&1\\\\1&1&1\\\\1&-1&3\\end{pmatrix}$"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "2899": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2899/attachment_0.pdf"
+      }
+    ]
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3248/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3166/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3221/attachment_0.pdf"
+      }
+    ]
+  },
+  "3219": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du05_2/3219/attachment_0.png"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3288/attachment_0.pdf"
+      }
+    ]
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 5.2.\n\nMatice je $\\left(\\begin{array}{ccc} 3 & -1 & 1 \\\\ 1 & 1 & 1 \\\\ 1 & -1 & 3 \\end{array}\\right)$\n\n### Důkaz\n\nPodobné matice mají stejné vlastní čísla. Pokud určíme jako bázi $B = \\left(\\left(\\begin{array}{c} -1 \\\\ 0 \\\\ 1 \\end{array}\\right); \\left(\\begin{array}{c} 1 \\\\ 1 \\\\ 0 \\end{array}\\right);\\left(\\begin{array}{c} 1 \\\\ 1 \\\\ 1 \\end{array}\\right)\\right)$. První členy báze jsou báze všech vlastních vektorů které splňují první podmínku, zatímco třetí je zbívající vlastní vektor. Pro tuto bázi je zobrazení splňující podmínky ze zadání $\\left[f\\right]_B ^B$ je například $\\left(\\begin{array}{ccc} 2 & 0 & 0 \\\\ 0 & 2 & 0 \\\\ 0 & 0 & 3 \\end{array}\\right)$. Pokud tuto matici vyjádříme v kanonické matici, bude $\\left(\\begin{array}{ccc} 3 & -1 & 1 \\\\ 1 & 1 & 1 \\\\ 1 & -1 & 3 \\end{array}\\right)$.\n\nTo, že tato matice splňuje podmínky zadání lze zjistit výpočtem rovnice det$(f-\\lambda I_3)=0$. To potvrzuje že vlastní čísla jsou 2 a 3. Poté stačí zpočítat Ker$(f-\\lambda I_3)$, z čehož vychází vektory z báze B."
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2956/attachment_0.pdf"
+      }
+    ]
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2202/attachment_0.jpg"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3209/attachment_0.pdf"
+      }
+    ]
+  },
+  "3204": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3204/attachment_0.pdf"
+      }
+    ]
+  },
+  "2857": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2857/attachment_0.pdf"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2871/attachment_0.pdf"
+      }
+    ]
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2826/attachment_0.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3174/attachment_0.pdf"
+      }
+    ]
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3111/attachment_0.pdf"
+      }
+    ]
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3198/attachment_0.jpg"
+      }
+    ]
+  },
+  "3038": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3038/attachment_1.pdf"
+      }
+    ]
+  },
+  "3245": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3245/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/1500/attachment_0.pdf"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3329": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3329/attachment_0.pdf"
+      }
+    ]
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2492/attachment_0.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3115/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3102": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3102/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3102/attachment_1.jpg"
+      }
+    ]
+  },
+  "3269": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3269/attachment_0.pdf"
+      }
+    ]
+  },
+  "3090": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3090/attachment_0.pdf"
+      }
+    ]
+  },
+  "2918": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2918/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2918/attachment_1.jpg"
+      }
+    ]
+  },
+  "3284": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3284/attachment_0.pdf"
+      }
+    ]
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/1771/attachment_0.jpg"
+      }
+    ]
+  },
+  "2876": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2876/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3318": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3318/attachment_0.pdf"
+      }
+    ]
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3238/attachment_0.pdf"
+      }
+    ]
+  },
+  "3345": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3345/attachment_0.jpg"
+      }
+    ]
+  },
+  "3277": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3277/attachment_0.pdf"
+      },
+      {
+        "msg": "## Vypracovali\n- Štěpán Kovačič (32242782)\n- Lukáš Novák (11240823)"
+      }
+    ]
+  },
+  "3213": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3213/attachment_0.pdf"
+      }
+    ]
+  },
+  "2125": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2125/attachment_0.jpg"
+      }
+    ]
+  },
+  "3351": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3351/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Ako bázu podpriestoru z 1) si môžeme zvoliť $((-1, 0, 1)^T, (1, 1, 0)^T)$. Nech $B = ((1, 1, 1)^T, (-1, 0, 1)^T, (1, 1, 0)^T)$ je báza $\\mathbb{R}^3$. Potom platí:\n$$\n[f_A]^B_B = \n\\left(\n\\begin{array}{ccc}\n3 & 0 & 0 \\\\\n0 & 2 & 0 \\\\\n0 & 0 & 2\n\\end{array}\n\\right)\n$$\nTeda na to aby som našiel $A$ mi stačí nájsť $[id]^K_B$ a $[id]^B_K$ a potom $A = [id]^B_K[f_A]^B_B[id]^K_B$. Máme:\n$$\n[id]^B_K = ([e_1]_B \\ | \\ [e_2]_B \\ | \\ [e_3]_B) = \n\\left(\\begin{array}{ccc}\n1 & -1 & 1 \\\\\n-1 & 1 & 0 \\\\\n-1 & 2 & -1\n\\end{array}\\right) \\\\\n[id]^B_K = ([b_1]_K \\ | \\ [b_2]_K \\ | \\ [b_3]_K) = \n\\left(\\begin{array}{ccc}\n1 & -1 & 1 \\\\\n1 & 0 & 1 \\\\\n1 & 1 & 0\n\\end{array}\\right)\n$$\nTakže:\n$$\nA = \\left(\\begin{array}{ccc}\n1 & -1 & 1 \\\\\n1 & 0 & 1 \\\\\n1 & 1 & 0\n\\end{array}\\right)\n\\left(\n\\begin{array}{ccc}\n3 & 0 & 0 \\\\\n0 & 2 & 0 \\\\\n0 & 0 & 2\n\\end{array}\n\\right)\n\\left(\\begin{array}{ccc}\n1 & -1 & 1 \\\\\n-1 & 1 & 0 \\\\\n-1 & 2 & -1\n\\end{array}\\right)\n=\n\\left(\\begin{array}{ccc}\n3 & -1 & 1 \\\\\n1 & 1 & 1 \\\\\n1 & -1 & 3\n\\end{array}\\right)\n$$"
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3305/attachment_0.jpg"
+      }
+    ]
+  },
+  "3089": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3089/attachment_0.pdf"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2932": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2932/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3265/attachment_1.jpg"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2866/attachment_0.pdf"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3037": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3037/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "3231": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3231/attachment_0.pdf"
+      }
+    ]
+  },
+  "3003": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3003/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3003/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3003/attachment_2.jpg"
+      }
+    ]
+  },
+  "3340": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3340/attachment_0.pdf"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2892/attachment_1.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "2743": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2743/attachment_0.pdf"
+      }
+    ]
+  },
+  "2886": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2886/attachment_0.pdf"
+      }
+    ]
+  },
+  "3056": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3056/attachment_0.jpg"
+      }
+    ]
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3320/attachment_0.pdf"
+      }
+    ]
+  },
+  "3007": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du05_2/3007/attachment_0.png"
+      }
+    ]
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2984/attachment_0.pdf"
+      }
+    ]
+  },
+  "3260": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3260/attachment_0.pdf"
+      }
+    ]
+  },
+  "3273": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3273/attachment_0.jpg"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "Zo zadania vieme \n$$ M_2 = \\{(x,y,z)^T \\in \\mathbb{R}^3 \\ \\vert \\ x-y+z=0\\} = \\{ (y-z,y,z)^T \\ \\vert \\ y,z\\in \\mathbb{R}  \\} = \\text{Span}\\left\\{\\begin{pmatrix}\n1 \\\\\n1 \\\\\n0 \n\\end{pmatrix},\\begin{pmatrix}\n-1 \\\\\n0 \\\\\n1 \n\\end{pmatrix}\\right\\}$$\na\n$$M_3 \\supseteq \\text{Span}\\left\\{\\begin{pmatrix}\n1 \\\\\n1 \\\\\n1 \n\\end{pmatrix}\\right\\}, $$\npričom inklúzia v druhej rovnici plynie z toho, že vlastné vektory tvoria priestor. Zároveň, vieme, že $M_2$ a $M_3$ sú disjunktné (okrem nulového vektoru), a teda musí platiť $\\dim(M_3)\\leq 1$ (inak by $M_2$ a $M_3$ mali netriviálny prienik). Z toho už dostávame $\\dim(M_3)=1$, a teda platí dokonca \n$$ M_3 = \\text{Span}\\left\\{\\begin{pmatrix}\n1 \\\\\n1 \\\\\n1 \n\\end{pmatrix}\\right\\}. $$\nPostupnosť vektorov $B=\\left((1,1,0)^T, \\ (-1,0,1)^T, \\ (1,1,1)^T\\right)$ je lienárne nezávislá, teda tvorí bázu $\\mathbb{R}^3$. Máme tak bázu $B$ priestoru $\\mathbb{R}^3$, v ktorej kadžý vektor je vlastný. Preto maticu $A$ vieme diagonalizovať, teda zapísať ako\n$$ A = RDR^{-1},   $$\nkde $R$ je matica prechodu od bázy $B$ do $K_3$, teda\n$$ R = [\\text{id}]^{B}_{K_3} = \\begin{pmatrix}\n1 & -1 & 1 \\\\\n1 & 0 & 1 \\\\\n0 & 1 & 1\n\\end{pmatrix},  $$\na matica $D=\\text{diag}(2,2,3)$. Potom $R^{-1}$ spočítame, a dostaneme\n$$ R^{-1} = \\begin{pmatrix}\n-1 & 2 & -1 \\\\\n-1 & 1 & 0 \\\\\n1 & -1 & 1\n\\end{pmatrix}.  $$\nDostávame tak \n$$  A = \\begin{pmatrix}\n1 & -1 & 1 \\\\\n1 & 0 & 1 \\\\\n0 & 1 & 1\n\\end{pmatrix}\\begin{pmatrix}\n2 & 0 & 0 \\\\\n0 & 2 & 0 \\\\\n0 & 0 & 3\n\\end{pmatrix}\\begin{pmatrix}\n-1 & 2 & -1 \\\\\n-1 & 1 & 0 \\\\\n1 & -1 & 1\n\\end{pmatrix} = \\begin{pmatrix}\n3 & -1 & 1 \\\\\n1 & 1 & 1 \\\\\n1 & -1 & 3\n\\end{pmatrix}. $$\nOverme, že daná matica $A$ vyhovuje. Ak by $2$ bolo jej vlastné číslo, tak jadro matice\n$$ \\begin{pmatrix}\n3-2 & -1 & 1 \\\\\n1 & 1-2 & 1 \\\\\n1 & -1 & 3-2\n\\end{pmatrix} \\sim \\begin{pmatrix}\n1 & -1 & 1 \\\\\n0 & 0 & 0 \\\\\n0 & 0 & 0\n\\end{pmatrix} $$\nmusí byť priestor $\\text{Ker}(1 \\ -1 \\ 1)$, teda presne také $(x,y,z)^T$ aby $x-y+z=0$, ako sme chceli. Podobne, ak by $3$ bolo jej vlastné číslo, tak vektor $(1,1,1)^T$ musí patriť do jadra matice\n$$ \\begin{pmatrix}\n3-3 & -1 & 1 \\\\\n1 & 1-3 & 1 \\\\\n1 & -1 & 3-3\n\\end{pmatrix} \\sim \\begin{pmatrix}\n0 & -1 & 1 \\\\\n1 & -1 & 0 \\\\\n0 & 0 & 0\n\\end{pmatrix} $$\nčo vskutku ľahko vidíme, že platí. Preto daná $A$ spĺňa podmienky zadania.\n\n–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––\n\nMuseli sme skúšku robiť?"
+      }
+    ]
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3264/attachment_0.pdf"
+      }
+    ]
+  },
+  "3316": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3316/attachment_1.pdf"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "2878": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2878/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; Zo zadania tvoria vektory príslušné vlastnému číslu $2$ podpriestor \n\n$$\\left\\{ (x, y, z)^T \\in \\R^3 : x-y+z = 0\\right\\} = \\left\\{ (x, y, z)^T \\in \\R^3 : x+z = y\\right\\}=\\\\ = \\left\\{ x(1, 1, 0)^T + z(0, 1, 1)^T : x, z \\in \\R \\right\\} = \\text{Span} \\left\\{(1, 1, 0)^T, (0, 1, 1)^T\\right\\}$$\n\nĎalej je vektor $(1, 1, 1)^T$ príslušný vlastnému číslu $3$, pričom $(1, 1, 1)^T \\notin \\text{Span} \\left\\{(1, 1, 0)^T, (0, 1, 1)^T\\right\\}$, pretože podľa prvej aj tretej zložky sú koeficienty lineárnej kombinácie vektorov podpriestoru $1$, no v druhej zložke tak dostaneme $2$. Postupnosť vlastných vektorov $B = \\left( (1, 1, 0)^T,(0, 1,1)^T,(1, 1, 1)^T \\right)$ je tak lineárne nezávislá postupnosť troch vektorov v $\\R^3$, teda je jeho bázou. Štvorcová matica $A$ rádu $3$ je tak diagonalizovateľná, pretože existuje postupnosť jej vlastných vektorov, ktorá je bázou $\\R^3$. Teda\n$$D = R^{-1}AR \\iff A = RDR^{-1}$$\npre diagonálnu maticu tvorenú vlastnými číslami, teda $D = \\text{diag}(2, 2, 3)$, pretože v bázi $B$ sú dva vlastné vektory príslušné vlastnému číslu $2$ a pre $R = [\\text{id}]^B_K$, teda $R$ sú vektory $B$ napísané do stĺpcov postupne (poradie vlastných čísel v diagonálnej matici zodpovedá poradiu vlastných vektorov v bázi, čo je nutné pre platnosť tvrdenia). Spočítajme $R^{-1}$\n$$\n(R|I_3)=\n\\left(\n\\begin{matrix}\n1 & 0 & 1\\\\\n1 & 1 & 1\\\\\n0 & 1 & 1\n\\end{matrix}\n\\: \\right\\rvert\n\n\\left.\n\\begin{matrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\n\\end{matrix}\n\\right)\n\n\\sim\n\n\\left(\n\\begin{matrix}\n1 & 0 & 1\\\\\n0 & 1 & 0\\\\\n0 & 1 & 1\n\\end{matrix}\n\\: \\right\\rvert\n\n\\left.\n\\begin{matrix}\n1 & 0 & 0\\\\\n-1 & 1 & 0\\\\\n0 & 0 & 1\n\\end{matrix}\n\\right)\n\\sim\n\\left(\n\\begin{matrix}\n1 & 0 & 1\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\n\\end{matrix}\n\\: \\right\\rvert\n\n\\left.\n\\begin{matrix}\n1 & 0 & 0\\\\\n-1 & 1 & 0\\\\\n1 & -1 & 1\n\\end{matrix}\n\\right)\n\\sim\n\\\\[2ex]\n\\sim\n\\left(\n\\begin{matrix}\n1 & 0 & 0\\\\\n0 & 1 & 0\\\\\n0 & 0 & 1\n\\end{matrix}\n\\: \\right\\rvert\n\n\\left.\n\\begin{matrix}\n0 & 1 & -1\\\\\n-1 & 1 & 0\\\\\n1 & -1 & 1\n\\end{matrix}\n\\right)\n\\implies \nR^{-1} = \n\\begin{pmatrix}\n0 & 1 & -1\\\\\n-1 & 1 & 0\\\\\n1 & -1 & 1\n\\end{pmatrix}$$\n\nDosadením dostávame požadovanú maticu $A$ spĺňajúcu podmienky zo zadania:\n\n$$A = RDR^{-1} = \n\\begin{pmatrix}\n1 & 0 & 1\\\\\n1 & 1 & 1\\\\\n0 & 1 & 1\n\\end{pmatrix}\n\\begin{pmatrix}\n2 & 0 & 0\\\\\n0 & 2 & 0\\\\\n0 & 0 & 3\n\\end{pmatrix}\n\\begin{pmatrix}\n0 & 1 & -1\\\\\n-1 & 1 & 0\\\\\n1 & -1 & 1\n\\end{pmatrix}\n= \\\\[2ex]\n=\n\\begin{pmatrix}\n2& 0 & 3\\\\\n2 & 2 & 3\\\\\n0 & 2 & 3\n\\end{pmatrix}\n\\begin{pmatrix}\n0 & 1 & -1\\\\\n-1 & 1 & 0\\\\\n1 & -1 & 1\n\\end{pmatrix}\n=\n\\begin{pmatrix}\n3 & -1 & 1\\\\\n1 & 1 & 1\\\\\n1 & -1 & 3\n\\end{pmatrix}$$\nPre potešenie môžeme overiť, že skutočne platí\n$$A(1, 1, 0)^T = (2, 2, 0)^T, \\; A(0, 1, 1)^T = (0, 2, 2)^T, \\; A(1, 1, 1)^T = (3, 3, 3)^T$$"
+      }
+    ]
+  },
+  "3326": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3326/attachment_0.jpg"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Vyřešením rovnice zjistíme, že zadaný podprostor tvoří lineární obal vektorů $(-1,0,1)^T$, $(1,1,0)^T$. Hledáme, zobrazení které zdvojnásobí právě vektory tohoto podprostoru a zároveň ztrojnásobí vektor $(1,1,1)^T$. Zvolíme-li uvedené lineárně nezávislé vektory jako bázi $B$, pak matice takového zobrazení může vypadat třeba takto (zdvojnásobí první a druhou složku souřadnic vzhledem k $B$ a třetí ztrojnásobí):\n\n$$\\begin{pmatrix}\n   2 & 0 & 0 \\\\\n   0 & 2 & 0 \\\\\n   0 & 0 & 3 \\\\\n\\end{pmatrix}$$\n\n\nDo kanonické báze ji převedu vynásobením maticí přechodu z báze $B$ zleva\n\n$$\\begin{pmatrix}\n   -1 & 1 & 1 \\\\\n   0 & 1 & 1 \\\\\n   1 & 0 & 1 \\\\\n\\end{pmatrix}\n\\begin{pmatrix}\n   2 & 0 & 0 \\\\\n   0 & 2 & 0 \\\\\n   0 & 0 & 3 \\\\\n\\end{pmatrix}\n=\n\\begin{pmatrix}\n   -2 & 2 & 3 \\\\\n   0 & 2 & 3 \\\\\n   2 & 0 & 3 \\\\\n\\end{pmatrix}\n$$\n\na vynásobením maticí přechodu do báze $B$ (inverzní k té předchozí) zprava.\n\n$$\\begin{pmatrix}\n   -2 & 2 & 3 \\\\\n   0 & 2 & 3 \\\\\n   2 & 0 & 3 \\\\\n\\end{pmatrix}\n\\begin{pmatrix}\n   -1 & 1 & 0 \\\\\n   -1 & 2 & -1 \\\\\n   1 & -1 & 1 \\\\\n\\end{pmatrix}\n=\n\\begin{pmatrix}\n   3 & -1 & 1 \\\\\n   1 & 1 & 1 \\\\\n   1 & -1 & 3 \\\\\n\\end{pmatrix}\n$$\n\nVýsledkem je matice stejného zobrazení vzhledem ke kanonické bázi, vlastní čísla a vektory zobrazení tak odpovídají vlastním číslům a vektorům matice."
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "2922": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2922/attachment_0.pdf"
+      }
+    ]
+  },
+  "2867": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2867/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2815/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3131/attachment_0.pdf"
+      }
+    ]
+  },
+  "3142": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3142/attachment_0.jpg"
+      }
+    ]
+  },
+  "3407": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3407/attachment_0.pdf"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2858/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3135/attachment_0.pdf"
+      }
+    ]
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2865/attachment_0.pdf"
+      }
+    ]
+  },
+  "2993": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2993/attachment_0.jpg"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3121": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3121/attachment_1.pdf"
+      }
+    ]
+  },
+  "3000": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3000/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "3300": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3300/attachment_0.jpg"
+      }
+    ]
+  },
+  "2764": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2764/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2764/attachment_1.jpg"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2937/attachment_0.jpg"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3205/attachment_0.pdf"
+      }
+    ]
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2980/attachment_0.jpg"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2517": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2517/attachment_0.pdf"
+      }
+    ]
+  },
+  "3272": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3272/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3272/attachment_1.jpg"
+      }
+    ]
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3168/attachment_0.pdf"
+      }
+    ]
+  },
+  "3165": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3165/attachment_0.pdf"
+      }
+    ]
+  },
+  "3196": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3196/attachment_0.pdf"
+      }
+    ]
+  },
+  "3179": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3179/attachment_0.pdf"
+      }
+    ]
+  }
+}

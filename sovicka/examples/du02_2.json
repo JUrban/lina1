@@ -1,0 +1,192 @@
+{
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3331/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3076/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/2202/attachment_0.jpg"
+      }
+    ],
+    "points": 2.0
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 2.2\n\nBáze B musí dle zadání být ortogonální. Pro tyto vektory stačí vyšetřovat jedině kolmost. Všechny jednotkové vektory  kolmé pro standartní skalární součin budou ve tvaru $\\left(\\begin{array}{c} \\cos(\\alpha) \\\\ \\sin(\\alpha) \\end{array}\\right);\\left(\\begin{array}{c} -\\sin(\\alpha) \\\\ \\cos(\\alpha) \\end{array}\\right)$ (Toto je jedině rotace kanonické báze).\n\nMatice určující skalární součin bude dle pozorování 8.21 hermitovská, a tedy lze zpapsat ve tvaru $\\left(\\begin{array}{c} a & b \\\\ b & c \\end{array}\\right)$. Skalární součin báze dvou kolmých a jednotkových (pro standartní skalární součin) vektorů bude:\n\n$$-a\\sin(\\alpha)\\cos(\\alpha)+b\\cos^2 (\\alpha) -b\\sin^2 (\\alpha) + c\\sin(\\alpha)\\cos(\\alpha)$$\n\nPokud jsou vektory kolmé, tento výraz je roven nule. Pro goniometrické funkce platí že $\\sin(2\\alpha)=2\\sin(\\alpha)\\cos(\\alpha)$ a $\\cos(2\\alpha) = \\cos^2(\\alpha)-\\sin^2(\\alpha)$. Pro součin tedy musí platit:\n\n$$(c-a)\\frac{\\sin(2\\alpha)}{2}+b\\cos(2\\alpha) = 0$$\n\nToto lze převést do podoby:\n\n$$\\frac{\\sin(2\\alpha)}{\\cos(2\\alpha)}=\\frac{-2b}{c-a}$$\n\n$\\alpha$ lze vyjádřit jako $\\alpha=\\frac{\\arctan(\\frac{-2b}{c-a})}{2}$, což je nějaké číslo. Tedy existuje i báze $\\left(\\left(\\begin{array}{c} \\cos(\\alpha) \\\\ \\sin(\\alpha) \\end{array}\\right);\\left(\\begin{array}{c} -\\sin(\\alpha) \\\\ \\cos(\\alpha) \\end{array}\\right)\\right)$."
+      }
+    ],
+    "points": 3.0
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/3009/attachment_0.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3320/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3276/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3324": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3324/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/3310/attachment_0.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/2924/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/2869/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3168/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3193/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/3209/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du02_2/3403/attachment_0.png"
+      }
+    ],
+    "points": 0.0
+  },
+  "3272": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/3272/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/3272/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/3272/attachment_2.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/3272/attachment_3.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du02_2/2980/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/2865/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "Ve standartním skalárním součinu jsou na sebe kolmé všechny dvojice vektorů typu $\\vec{u}=\\binom{x}{y}, \\vec{v}=\\binom{-y}{x}$   \nZ druhé podmínky   \n$\\vec{u}^TA\\vec{v} = \\vec{u}^T(v_1\\vec{a_1}+v_2\\vec{a_2})=u_1v_1a_{11}+u_1v_2a_{12}+u_2v_1a_{21}+u_2v_2a_{22}=$   \n$=-xya_{11}+a_{12}x^2-a_{21}y^2+xya_{22}=0$      \n    \nZ definice pozitvní definitnosti $A$ plyne, že $A$ je hermitovská, tedy v reálném případě $a_{12}=a_{21}$   \n$-xy(a_{11}-a_{22})+a_{12}(x^2-y^2)=0$    \n   \nPokud by $x=0$, pak by $-y^2a_{12}=0$, takže by $y=0$. Nulové vektory ale mít nemůžeme, podělíme tedy rovnici $x^2$   \n$a_{12}-\\frac{y}{x}(a_{11}-a_{22})-\\frac{y^2}{x^2}a_{12}=0$   \n   \nSubstitucí $t=\\frac{y}{x}$ vyřešíme rovnici  \n$t^2a_{12}+t(a_{11}-a_{22})-a_{12}=0$   \n$D=b^2-4ac=(a_{11}-a_{22})^2+4a_{12}^2 \\geq 0$   \nRovnice má tedy vždy řešení, takže vždy existuje $\\frac{y}{x}$ pro které obě podmínky platí"
+      }
+    ],
+    "points": 3.0
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du02_2/2826/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  }
+}

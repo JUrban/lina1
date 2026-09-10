@@ -1,0 +1,181 @@
+{
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/2935/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_2/1771/attachment_0.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 10.2.\n\nVýraz ze zadání lze zapsat jako $\\mathbf{x}^{T}\\left(\\begin{array}{c} 11 & -2 & -3 \\\\ -2 & 10 & -10 \\\\ -3 & -10 & 13 \\end{array}\\right)\\mathbf{x}$ kde $\\mathbf{x}=\\left(\\begin{array}{c} a \\\\ b \\\\ c \\end{array}\\right)$. Pro matici z tohoto výrazu platí, že je hermitovská. Stačí nám tedy dokázat, že je pozitivně definitní (při čemž platí že výsledné číslo by bylo > 0). Na to ale stačí využít tvrzení 10.19 ze skripter. Vlastní čísla této matice totiž budou (zaokrouhleno) $0,2603; 12,0351; 21,7046$, což jsou všechno kladná reálná čísla. Výsledek bude tedy vždy vyšší než nula."
+      }
+    ],
+    "points": 4.0
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3331/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3045/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3076/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3346/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3317/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/2492/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3238/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2981": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_2/2981/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3248/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3271/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/273/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3301/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/2518/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3355": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3355/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3179": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/3179/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_2/2892/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_2/3025/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  }
+}

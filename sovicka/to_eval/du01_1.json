@@ -1,0 +1,1159 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3244": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3244/attachment_0.pdf"
+      }
+    ]
+  },
+  "3308": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3308/attachment_0.pdf"
+      }
+    ]
+  },
+  "3314": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3314/attachment_0.jpg"
+      }
+    ]
+  },
+  "3128": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3128/attachment_0.pdf"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2903/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2903/attachment_1.pdf"
+      }
+    ]
+  },
+  "3227": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3227/attachment_0.pdf"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "### a) $Re(\\lang u,v \\rang)=\\frac{1}{4}(||u+v||^2-||u-v||^2)$\nZ tvrzení 8.32 víme, že   \n$Re(\\lang u,v \\rang)=\\frac{1}{2}(||u+v||^2-||u||^2-||v||^2)$   \n$\\frac{1}{2}(||u+v||^2-||u||^2-||v||^2) = \\frac{1}{4}(2||u+v||^2-2||u||^2-2||v||^2) =$   \n$=\\frac{1}{4}(2||u+v||^2-(2||u||^2+2||v||^2))$   \nTo se díky Tvrzení 8.31 (3) rovná   \n$\\frac{1}{4}(2||u+v||^2-(||u+v||^2+||u-v||^2)) = \\frac{1}{4}(||u+v||^2-||u-v||^2)$   \n   \n### b) $Im(\\lang u,v \\rang)=\\frac{1}{4}(||u-iv||^2-||u+iv||^2)$\nZ tvrzení 8.32    \n$Im(\\lang u,v \\rang)=\\frac{1}{2}(||u-iv||^2-||u||^2-||v||^2)$    \n$\\frac{1}{2}(||u-iv||^2-||u||^2-||v||^2) = \\frac{1}{2}(\\lang u-iv,u-iv\\rang -\\lang u,u\\rang -\\lang v,v\\rang) =$   \n$=\\frac{1}{2}(\\lang u,u\\rang - \\lang u,iv\\rang - \\lang iv,u\\rang + \\lang iv,iv\\rang-\\lang u,u\\rang - \\lang v,v\\rang)=-\\frac{1}{2}(\\lang u,iv\\rang + \\lang iv,u\\rang)=$   \n$=\\frac{1}{4}(-2(\\lang u,iv\\rang + \\lang iv,u\\rang)=\\frac{1}{4}(-\\lang u,iv\\rang -\\lang iv,u\\rang - (\\lang u,iv\\rang + \\lang iv,u\\rang))=$   \n$=\\frac{1}{4}(\\lang u,u \\rang-\\lang u,iv\\rang -\\lang iv,u\\rang + \\lang iv,iv\\rang-(\\lang u,u\\rang+\\lang u,iv\\rang+\\lang iv,u\\rang+\\lang iv,iv\\rang))=$   \n$=\\frac{1}{4}(\\lang u-iv, u-iv\\rang-\\lang u+iv,u+iv\\rang)=\\frac{1}{4}(||u-iv||^2-||u+iv||^2)$"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "2899": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2899/attachment_0.pdf"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3248/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2869/attachment_1.pdf"
+      }
+    ]
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3166/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3221/attachment_0.jpg"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "3349": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3349/attachment_0.jpg"
+      }
+    ]
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3288/attachment_0.pdf"
+      }
+    ]
+  },
+  "2947": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2947/attachment_0.pdf"
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "2511": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2511/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2956/attachment_0.pdf"
+      }
+    ]
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2202/attachment_0.jpg"
+      }
+    ]
+  },
+  "2881": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2881/attachment_0.pdf"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3209/attachment_0.pdf"
+      }
+    ]
+  },
+  "3204": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3204/attachment_0.pdf"
+      }
+    ]
+  },
+  "2857": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2857/attachment_0.pdf"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2871/attachment_0.pdf"
+      }
+    ]
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2826/attachment_0.pdf"
+      }
+    ]
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3041/attachment_0.pdf"
+      }
+    ]
+  },
+  "3285": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3285/attachment_0.pdf"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3233/attachment_0.pdf"
+      }
+    ]
+  },
+  "3245": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3245/attachment_0.pdf"
+      }
+    ]
+  },
+  "3139": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3139/attachment_0.pdf"
+      }
+    ]
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3194/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/1500/attachment_1.pdf"
+      }
+    ]
+  },
+  "2847": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2847/attachment_0.pdf"
+      }
+    ]
+  },
+  "2889": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2889/attachment_0.pdf"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3329": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3329/attachment_0.pdf"
+      }
+    ]
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2492/attachment_0.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "3113": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3113/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3102": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3102/attachment_0.pdf"
+      }
+    ]
+  },
+  "3062": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3062/attachment_0.pdf"
+      }
+    ]
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3009/attachment_0.jpg"
+      }
+    ]
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3250/attachment_0.pdf"
+      }
+    ]
+  },
+  "2918": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2918/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2918/attachment_1.jpg"
+      }
+    ]
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2968/attachment_0.pdf"
+      }
+    ]
+  },
+  "3256": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3256/attachment_0.pdf"
+      }
+    ]
+  },
+  "2876": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2876/attachment_0.pdf"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "3136": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du01_1/3136/attachment_0.png"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\bf#1{\\mathbf{#1}}$\n$\\gdef\\u{\\bf{u}}$\n$\\gdef\\v{\\bf{v}}$\n$\\gdef\\scal#1#2{\\langle #1, #2 \\rangle}$\n$\\gdef\\sscal#1{\\scal{#1}{#1}}$\nUpravme vzorec ze zadání s využitím linearity skalárního součinu a identity $\\overline{\\scal{\\u}{\\v}} = \\scal{\\v}{\\u}$.\n$$ \\frac{1}{4}(\\|\\u+\\v\\|^2 - \\|\\u-\\v \\|^2) = \\frac{1}{4} (\\sscal{\\u+\\v} - \\sscal{\\u-\\v}) = $$\n$$ = \\frac{1}{4}(\\sscal{\\u} + \\scal{\\u}{\\v} + \\scal{\\v}{\\u} + \\sscal{\\v} - \\sscal{\\u}+\\scal{\\u}{\\v}+\\scal{\\v}{\\u}-\\sscal{\\v}) = $$\n$$ = \\frac{1}{2} (\\scal{\\u}{\\v} + \\scal{\\v}{\\u}) = \\frac{1}{2}(\\scal{\\u}{\\v}+\\overline{\\scal{\\u}{\\v}}) = \\frac{1}{2}(2 ~\\text{Re} (\\scal{\\u}{\\v})) = \\text{Re}~(\\scal{\\u}{\\v}) $$\nObdobně pro druhou rovnost.\n$$ \\frac{1}{4}(\\|\\u-i\\v\\|^2-\\|\\u+i\\v\\|^2) = \\frac{1}{4}(\\sscal{\\u-i\\v} - \\sscal{\\u+i\\v}) = $$\n$$ = \\frac{1}{4}(\\sscal{\\u}-\\sscal{\\v}-\\scal{i\\v}{\\u}-\\scal{\\u}{i\\v}-\\sscal{\\u}+\\sscal{\\v}-\\scal{\\u}{i\\v}-\\scal{i\\v}{\\u}) = $$\n$$ = \\frac{1}{2}(-\\scal{\\u}{i\\v}-\\scal{i\\v}{\\u}) = \\frac{1}{2}(-i\\scal{\\u}{\\v}+i\\scal{\\v}{\\u}) = \\frac{1}{2i}(\\scal{\\u}{\\v}-\\overline{\\scal{\\u}{\\v}}) = \\text{Im}~(\\scal{\\u}{\\v}) $$\nTím oba vzorce platí pro libovolný komplexní vektorový prostor s definovaným skalárním součinem (a odvozenou metrikou). $\\hearts$"
+      }
+    ]
+  },
+  "3318": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3318/attachment_0.pdf"
+      }
+    ]
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3238/attachment_0.pdf"
+      }
+    ]
+  },
+  "3345": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3345/attachment_0.pdf"
+      }
+    ]
+  },
+  "3277": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3277/attachment_1.pdf"
+      },
+      {
+        "msg": "Omlouvám se za velikosti stránek, snažil jsem se nastavit, aby byly stejně velké, ale nešlo mi to. Kovačič"
+      }
+    ]
+  },
+  "3213": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3213/attachment_0.pdf"
+      }
+    ]
+  },
+  "2125": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2125/attachment_0.jpg"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "$$\\lVert\\bold{u} + \\bold{v}\\rVert^2 =\\langle \\bold{u}+\\bold{v}, \\bold{u}+\\bold{v} \\rangle = \\langle \\bold{u}, \\bold{u}\\rangle + \\langle \\bold{u}, \\bold{v}\\rangle + \\langle \\bold{v}, \\bold{u}\\rangle + \\langle \\bold{v}, \\bold{v}\\rangle$$\n\n$$\n\\begin{align*}\n\\lVert\\bold{u} - \\bold{v}\\rVert^2 &=\\langle \\bold{u}-\\bold{v}, \\bold{u}-\\bold{v} \\rangle = \\langle \\bold{u}, \\bold{u}\\rangle + \\langle \\bold{u}, -\\bold{v}\\rangle + \\langle -\\bold{v}, \\bold{u}\\rangle + \\langle -\\bold{v}, -\\bold{v}\\rangle \\\\\n&=\\langle \\bold{u}, \\bold{u}\\rangle - \\langle \\bold{u}, \\bold{v}\\rangle - \\langle \\bold{v}, \\bold{u}\\rangle + \\langle \\bold{v}, \\bold{v}\\rangle\n\\end{align*}\n$$\n\nOdčítaním dostávame:\n$$\\lVert\\bold{u} + \\bold{v}\\rVert^2 - \\lVert\\bold{u} - \\bold{v}\\rVert^2 = 2\\left(\\langle \\bold{u}, \\bold{v}\\rangle + \\langle \\bold{v}, \\bold{u}\\rangle\\right) = 2\\left(\\langle \\bold{u}, \\bold{v}\\rangle + \\overline{\\langle \\bold{u}, \\bold{v}\\rangle}\\right)$$\n\nKeďže $2\\text{Re}(x) = x + \\overline{x}$, tak dostávame:\n$$\n\\text{Re}\\left(\\langle \\bold{u}, \\bold{v}\\rangle\\right) = \\frac{1}{4}\\left(\\lVert\\bold{u} + \\bold{v}\\rVert^2 - \\lVert\\bold{u} - \\bold{v}\\rVert^2\\right)\n$$\n\nPodobne dostávame:\n$$\n\\begin{align*}\n\\lVert\\bold{u} - i\\bold{v}\\rVert^2 &=\\langle \\bold{u}-i\\bold{v}, \\bold{u}-i\\bold{v} \\rangle = \\langle \\bold{u}, \\bold{u}\\rangle + \\langle \\bold{u}, -i\\bold{v}\\rangle + \\langle -i\\bold{v}, \\bold{u}\\rangle + \\langle -i\\bold{v}, -i\\bold{v}\\rangle \\\\\n&= \\langle \\bold{u}, \\bold{u}\\rangle -i \\langle \\bold{u}, \\bold{v}\\rangle + i\\langle \\bold{v}, \\bold{u}\\rangle + \\langle \\bold{v}, \\bold{v}\\rangle\n\\end{align*}\n$$\n\n$$\n\\begin{align*}\n\\lVert\\bold{u} + i\\bold{v}\\rVert^2 &=\\langle \\bold{u}+i\\bold{v}, \\bold{u}+i\\bold{v} \\rangle = \\langle \\bold{u}, \\bold{u}\\rangle + \\langle \\bold{u}, i\\bold{v}\\rangle + \\langle i\\bold{v}, \\bold{u}\\rangle + \\langle i\\bold{v}, i\\bold{v}\\rangle \\\\\n&= \\langle \\bold{u}, \\bold{u}\\rangle +i \\langle \\bold{u}, \\bold{v}\\rangle - i\\langle \\bold{v}, \\bold{u}\\rangle + \\langle \\bold{v}, \\bold{v}\\rangle\n\\end{align*}\n$$\n\nOdčítaním dostávame:\n$$\n\\lVert\\bold{u} - i\\bold{v}\\rVert^2-\\lVert\\bold{u} + i\\bold{v}\\rVert^2 = -2i\\langle \\bold{u}, \\bold{v}\\rangle +2i\\langle \\bold{v}, \\bold{u}\\rangle = 4\\cdot \\frac{\\langle \\bold{u}, \\bold{v}\\rangle - \\overline{\\langle \\bold{u}, \\bold{v}\\rangle}}{2i}\n$$\n\nKeďže $\\text{Im}(x) = \\frac{x - \\overline{x}}{2i}$, tak:\n$$\n\\text{Im}\\left(\\langle \\bold{u}, \\bold{v}\\rangle\\right) = \\frac{1}{4}\\left(\\lVert\\bold{u} - i\\bold{v}\\rVert^2-\\lVert\\bold{u} + i\\bold{v}\\rVert^2 \\right)\n$$"
+      }
+    ]
+  },
+  "3071": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du01_1/3071/attachment_0.png"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3072/attachment_0.jpg"
+      }
+    ]
+  },
+  "3089": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3089/attachment_0.pdf"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2932": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2932/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3265/attachment_1.jpg"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2866/attachment_0.pdf"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3287": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3287/attachment_0.pdf"
+      }
+    ]
+  },
+  "2542": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2542/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3254/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3254/attachment_1.pdf"
+      }
+    ]
+  },
+  "3037": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3037/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3403/attachment_0.jpg"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2862/attachment_0.pdf"
+      }
+    ]
+  },
+  "3231": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3231/attachment_0.pdf"
+      }
+    ]
+  },
+  "3340": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3340/attachment_0.pdf"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2924/attachment_0.pdf"
+      }
+    ]
+  },
+  "2941": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2941/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2892/attachment_0.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "2743": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2743/attachment_0.pdf"
+      }
+    ]
+  },
+  "2988": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2988/attachment_0.pdf"
+      }
+    ]
+  },
+  "3149": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3149/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3149/attachment_1.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3149/attachment_2.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3149/attachment_3.pdf"
+      }
+    ]
+  },
+  "3056": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3056/attachment_0.jpg"
+      }
+    ]
+  },
+  "2771": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2771/attachment_0.pdf"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2984/attachment_0.pdf"
+      }
+    ]
+  },
+  "3260": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3260/attachment_0.pdf"
+      }
+    ]
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/1989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3036": {
+    "solution": [
+      {
+        "msg": "Rovnobežníkové pravidlo hovorí, že $\\lVert u+v \\rVert^2+ \\lVert u-v \\rVert^2=2\\lVert u \\rVert^2+2\\lVert v \\rVert^2$. Úpravou dostaneme\n$$ \\lVert u+v \\rVert^2 - 2\\lVert u \\rVert^2  -  2\\lVert v \\rVert^2 =   -\\lVert u-v \\rVert^2,  $$\n$$   2\\lVert u+v \\rVert^2 - 2\\lVert u \\rVert^2  -  2\\lVert v \\rVert^2 =  \\lVert u+v \\rVert^2 -\\lVert u-v \\rVert^2,    $$\n$$   \\frac{1}{2}(\\lVert u+v \\rVert^2 - \\lVert u \\rVert^2  -  \\lVert v \\rVert^2) =\\frac{1}{4} ( \\lVert u+v \\rVert^2 -\\lVert u-v \\rVert^2  ).    $$\nZ polarizačnej identity vidíme, že ľavá strana je rovná $\\text{Re}(\\langle u,v\\rangle)$, a teda aj pravá strana je rovná $\\text{Re}(\\langle u,v\\rangle)$ čím sme ukázali prvú rovnosť.\n\nVšimnime si, že pre $z\\in\\mathbb{C}$ platí $\\text{Im}(z)=\\text{Re}(-iz)$ (vskutku, $-i(a+bi)=b-ai$). Preto \n$$\\text{Im}(\\langle u,v\\rangle)=\\text{Re}(-i\\langle u,v\\rangle)=\\text{Re}(\\langle u,-iv\\rangle)= \\frac{1}{4} ( \\lVert u-iv \\rVert^2 -\\lVert u+iv \\rVert^2  ) , $$\npričom v druhej rovnosti sme využili linearitu skalárneho súčinu v druhej zložke, a v poslednej rovnosti sme využili už dokázanú prvú rovnosť. Vidíme tak, že sme ukázali aj druhú rovnosť."
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "3002": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3002/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3002/attachment_1.jpg"
+      }
+    ]
+  },
+  "2878": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2878/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp;   Dokážeme najskôr prvú rovnosť, teda upravme pravú stranu podľa definície normy vektoru a vlastností všeobecného skalárneho súčinu\n\n$$\\frac{1}{4}\\left( ||u+v||^2-||u-v||^2 \\right) =  \\frac{1}{4} ( \\langle u+v, u+v \\rangle - \\langle u-v, u-v \\rangle ) = \\\\[2ex] \n\n= \\frac{1}{4} [\\langle u, u \\rangle + \\langle u,v \\rangle + \\langle v, u \\rangle + \\langle v,v \\rangle - (\\langle u, u \\rangle - \\langle u,v \\rangle - \\langle v, u \\rangle + \\langle v,v \\rangle)] = \\\\[2ex] \n\n= \\frac{1}{4} [\\langle u, u \\rangle + \\langle u,v \\rangle + \\overline{\\langle u, v \\rangle} + \\langle v,v \\rangle - (\\langle u, u \\rangle - \\langle u,v \\rangle - \\overline{\\langle u, v \\rangle} + \\langle v,v \\rangle)] = \\\\[2ex] \n= \\frac{1}{4} (2 \\langle u, v \\rangle + 2 \\overline{\\langle u, v \\rangle}) = \\frac{1}{2} (\\langle u, v \\rangle + \\overline{\\langle u, v \\rangle})$$\n\nPlatí $\\forall x \\in \\mathbb{C} : x + \\overline{x} = 2\\text{Re(x)}$, keďže reálne časti sa sčítajú a imaginárne sú si navzájom opačné, teda sa sčítajú na 0. Použitím tohto tvrdenia môžeme pokračovať s úpravami\n\n$$\\frac{1}{2} (\\langle u, v \\rangle + \\overline{\\langle u, v \\rangle}) = \\frac{1}{2}[2\\text{Re}(\\langle u, v \\rangle)] = \\text{Re}(\\langle u, v \\rangle)$$\n\nČo sme chceli dokázať.\n\n&nbsp; Teraz dokážeme druhú nerovnosť, teda znovu uvažujme pravú stranu, pričom platí\n\n$$\\frac{1}{4}\\left( ||u-iv||^2-||u+iv||^2 \\right) =  -\\frac{1}{4}\\left( ||u+iv||^2-||u-iv||^2 \\right)$$\n\nteda dosadením $iv$ za $v$ do úprav pravej strany predchádzajúcej nervnosti, keďže úpravy boli ekvivalentné pre všetky $v \\in V$, teda aj $iv$ (platí $iv \\in V$, lebo $V$ je vektorový priestor, teda je uzavretý vzhľadom na násobenie skalárom), dostaneme \n\n$$\\frac{1}{4}\\left( ||u-iv||^2-||u+iv||^2 \\right) = -\\frac{1}{2} (\\langle u, iv \\rangle + \\overline{\\langle u, iv \\rangle}) = -\\frac{1}{2} (i\\langle u, v \\rangle + \\overline{i\\langle u, v \\rangle}) = \\\\[2ex]\n= -\\frac{1}{2} (i\\langle u, v \\rangle + \\overline{i} \\; \\overline{\\langle u, v \\rangle}) = -\\frac{1}{2} (i\\langle u, v \\rangle -i \\: \\overline{\\langle u, v \\rangle}) = -\\frac{1}{2} i(\\langle u, v \\rangle -\\overline{\\langle u, v \\rangle})$$\n\nPlatí $\\forall x \\in \\mathbb{C} : x - \\overline{x} = 2i\\: \\text{Im(x)}$, keďže reálne časti sú si navzájom opačné a imginárne časti sa sčítajú, pričom $\\text{Im(x)}$ vyjadruje imaginárnu časť bez komplexnej jednotky. Použitím tohto tvrdenia pokračujeme s úpravami\n\n$$-\\frac{1}{2} i(\\langle u, v \\rangle -\\overline{\\langle u, v \\rangle}) = -\\frac{1}{2} i[2i \\: \\text{Im}(\\langle u, v \\rangle)] = \\text{Im}(\\langle u, v \\rangle)$$\n\nČo sme chceli dokázať."
+      }
+    ]
+  },
+  "3326": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3326/attachment_0.jpg"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3275/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3275/attachment_2.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3344/attachment_0.pdf"
+      }
+    ]
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3253/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3253/attachment_1.pdf"
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2815/attachment_0.jpg"
+      }
+    ]
+  },
+  "3008": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3008/attachment_1.pdf"
+      }
+    ]
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2464/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3142": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3142/attachment_0.jpg"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2858/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3135/attachment_0.jpg"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3317/attachment_0.pdf"
+      }
+    ]
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2865/attachment_0.pdf"
+      }
+    ]
+  },
+  "3150": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3150/attachment_0.pdf"
+      }
+    ]
+  },
+  "2993": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2993/attachment_0.jpg"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "544": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/544/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "2764": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2764/attachment_0.jpg"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du01_1/2937/attachment_0.png"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3045/attachment_0.pdf"
+      }
+    ]
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Rozpíšeme si pravú stranu dokazovanej rovnice cez skalárne súčiny. Teda:\n$$\\dfrac{1}{4}(||u+v||^2-||u-v||^2)=\\dfrac{1}{4}(\\lang u+v, u+v \\rang -\\lang u-v, u-v \\rang)$$\nVďaka lineárnosti skalárneho súčinu teraz dostávame, že sa to rovná\n$$\\dfrac{1}{4}(\\lang u, u \\rang +\\lang u, v \\rang +\\lang v, u \\rang +\\lang v, v \\rang -(\\lang u, u \\rang - \\lang u, v \\rang -\\lang v, u \\rang +\\lang v, v \\rang)=\\dfrac{1}{4}(2\\lang u, v \\rang + 2\\lang v, u \\rang)$$\nZ vlastností skalárneho súčinu vieme, že $\\lang u,v \\rang = \\overline{\\lang v,u \\rang}$, teda súčet $\\lang u, v \\rang + \\lang v, u \\rang$ je rovný $2Re(\\lang u,v \\rang)$. Dosadením do nášho výrazu dostaneme, že výraz na pravej strane je rovný $Re(\\lang u,v \\rang)$, čo sme chceli ukázať.\n\nDruhú časť úlohy dokážeme analogicky. Pravú stranu si rozpíšeme pomocou skalárneho súčinu a jeho linearity na \n$$\\dfrac{1}{4}(-i\\lang u, v \\rang +i\\lang v, u \\rang-(i\\lang u,v \\rang -i\\lang v,u \\rang))=\\dfrac{1}{2}i(-\\lang u,v \\rang + \\lang v,u \\rang)=\\dfrac{1}{2}i(-\\lang u,v \\rang + \\overline{\\lang u,v \\rang})$$\n\n$-\\lang u,v \\rang + \\overline{\\lang u,v \\rang}$ vieme, že je $-2Im(\\lang u,v \\rang )i$, teda dosadením dostaneme, že pravá strana je rovná $-i^2Im(\\lang u,v \\rang)=Im(\\lang u,v \\rang)$, čo sme chceli ukázať."
+      }
+    ]
+  },
+  "3094": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3094/attachment_0.pdf"
+      }
+    ]
+  },
+  "2901": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2901/attachment_0.pdf"
+      }
+    ]
+  },
+  "3165": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3165/attachment_0.pdf"
+      }
+    ]
+  }
+}

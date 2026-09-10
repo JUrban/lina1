@@ -1,0 +1,785 @@
+{
+  "3001": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3001/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3314": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3314/attachment_0.jpg"
+      }
+    ]
+  },
+  "3332": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du07_1/3332/attachment_0.png"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2903/attachment_0.pdf"
+      }
+    ]
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2935/attachment_0.pdf"
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du07_1/3281/attachment_0.png"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/2430/attachment_1.jpg"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "$f^0 = id$   \n$Ker(f^0) = Span\\{\\vec{o}\\}$   \n$Im(f^0) = Span\\{B\\}$   \n$f_A = \\begin{pmatrix}\n0&1&0&0&0&0&0&0&0&0\\\\\n0&0&1&0&0&0&0&0&0&0\\\\\n0&0&0&1&0&0&0&0&0&0\\\\\n0&0&0&0&1&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&1&0&0&0\\\\\n0&0&0&0&0&0&0&1&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&1\\\\\n0&0&0&0&0&0&0&0&0&0\n\\end{pmatrix}$,    \n$Ker(f^1) = Span\\{\\vec{b_1},\\vec{b_6}, \\vec{b_9}\\}$    \n$Im(f^1) = Span\\{\\vec{b_1},\\vec{b_2},\\vec{b_3},\\vec{b_4},\\vec{b_6},\\vec{b_7},\\vec{b_9}\\}$   \n$f^2_A = \\begin{pmatrix}\n0&0&1&0&0&0&0&0&0&0\\\\\n0&0&0&1&0&0&0&0&0&0\\\\\n0&0&0&0&1&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&1&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\n\\end{pmatrix}$   \n$Ker(f^2) = Span\\{\\vec{b_1}, \\vec{b_2}, \\vec{b_6}, \\vec{b_7}, \\vec{b_9}, \\vec{b_{10}}\\}$    \n$Im(f^2) = Span\\{\\vec{b_1},\\vec{b_2},\\vec{b_3},\\vec{b_6}\\}$  \n$f^3_A = \\begin{pmatrix}\n0&0&0&1&0&0&0&0&0&0\\\\\n0&0&0&0&1&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\n\\end{pmatrix}$    \n$Ker(f^3) = Span\\{\\vec{b_1}, \\vec{b_2}, \\vec{b_3}, \\vec{b_6}, \\vec{b_7}, \\vec{b_8}, \\vec{b_9}, \\vec{b_{10}}\\}$    \n$Im(f^3) = Span\\{\\vec{b_1},\\vec{b_2}\\}$  \n$f^4_A = \\begin{pmatrix}\n0&0&0&0&1&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\n\\end{pmatrix}$   \n$Ker(f^4) = Span\\{\\vec{b_1}, \\vec{b_2}, \\vec{b_3}, \\vec{b_4}, \\vec{b_6}, \\vec{b_7}, \\vec{b_8}, \\vec{b_9}, \\vec{b_{10}}\\}$    \n$Im(f^4) = Span\\{\\vec{b_1}\\}$    \n$f^5_A$ a vyší mocniny už jsou nulové matice    \n$Ker(f^5) = Span\\{B\\}$   \n$Im(f^5) = Span\\{\\vec{o}\\}$    \n   \n### Výsledné báze   \nZ posloupnosti $\\{b_1,...,b_5\\}$ vezmeme prvních $\\min(i; \\max(0; 5-j))$ vektorů   \nZ posloupnosti $\\{b_6,b_7,b_8\\}$ vezmeme prvních $\\min(i; \\max(0; 3-j))$ vektorů   \nZ posloupnosti $\\{b_9,b_{10}\\}$ vezmeme prvních $\\min(i; \\max(0; 2-j))$ vektorů    \nDimenze prostorů jsou rovny počtu bázových vektorů"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3248/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3288/attachment_0.pdf"
+      }
+    ]
+  },
+  "2947": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2947/attachment_0.pdf"
+      }
+    ]
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 7.1.\n\nDimenze bude $\\max(0;\\min(i;5-j))+\\max(0;\\min(i;3-j))+\\max(0;\\min(i;2-j))$.\n\nBáze pro každé dva i a j bude tvořena vektory $\\left( \\mathbf{b}_1; \\dots ;\\mathbf{b}_{\\min(i;5-j)}; \\mathbf{b}_6; \\dots ; \\mathbf{b}_{\\min(i;3-j)}; \\mathbf{b}_9; \\dots ; \\mathbf{b}_{\\min(i;2-j)} \\right)$, kde pro každou dvojci platí že pokud je index druhého vektoru nižší než ten první tak se žádný vektor z dané skupiny nebere.\n\n### Důkaz\n\nToto rovnou vychází z tvrzení 9.96. Jordanovy řetízky budou mít délku stejnou jake velikost Jordanových buňek. Zobrazení $f-\\lambda id$ bude $f$. Dle bodů 3 a 4 se pro jádro bere prvních i vektorů z řetízků, zatímco pro obraz to bude $n-j$. Jejich průnik tedy bude pro každý řetízek dlouhý jako menší ze dvou podprostorů, a pokud výpočet jakéhokoliv z nich bude záporný tak průnik bude nulový. To lze zapsat jednodušše funkcemi maximum a minimum."
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/2202/attachment_0.jpg"
+      }
+    ]
+  },
+  "2881": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2881/attachment_0.pdf"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3209/attachment_3.pdf"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2871/attachment_1.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3174/attachment_0.pdf"
+      }
+    ]
+  },
+  "2859": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2859/attachment_0.pdf"
+      }
+    ]
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3261/attachment_0.pdf"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3233/attachment_0.pdf"
+      }
+    ]
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3198/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3198/attachment_1.jpg"
+      }
+    ]
+  },
+  "3038": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3038/attachment_0.pdf"
+      }
+    ]
+  },
+  "3139": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3139/attachment_0.pdf"
+      },
+      {
+        "msg": "Mám tam napsáno vzorec je pro m<j, ale nemám napsáno co se stane když m>=j, prunik by byl prazdna množina."
+      }
+    ]
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3194/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/1500/attachment_0.pdf"
+      }
+    ]
+  },
+  "2889": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2889/attachment_0.pdf"
+      }
+    ]
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3301/attachment_0.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3009/attachment_0.jpg"
+      }
+    ]
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3250/attachment_0.pdf"
+      }
+    ]
+  },
+  "2918": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/2918/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/2918/attachment_1.jpg"
+      }
+    ]
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/1771/attachment_0.jpg"
+      }
+    ]
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3039/attachment_0.pdf"
+      }
+    ]
+  },
+  "2900": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/2900/attachment_0.jpg"
+      }
+    ]
+  },
+  "3136": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3136/attachment_0.pdf"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3266": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3266/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\jchain{\\xmapsto{f}}$\n$\\gdef\\b{\\mathbf{b}}$\n$\\gdef\\o{\\mathbf{o}}$\nPředpokládám, že buňky se v matici nachází od horního levého rohu v pořadí jako jsou jmenovány v zadání (na dimenzi zmiňovaného prostoru to nemá vliv, ale na bázi ano). Napišme si příslušné Jordanovy řetízky. Jelikož všechny buňky odpovídají vlastnímu číslu 0, $f = g$. Dostáváme\n$$ \\b_5 \\jchain \\b_4 \\jchain \\b_3 \\jchain \\b_2 \\jchain \\b_1 \\jchain \\o $$\n$$ \\b_8 \\jchain \\b_7 \\jchain \\b_6 \\jchain \\o $$\n$$ \\b_{10} \\jchain \\b_9 \\jchain \\o $$\nVidíme, že v každém řetízku lineární obal posledních $i$ členů (nepočítaje $\\o$) je $\\text{Ker } f^i$. Také víme, že $\\text{Im } f^j$ je v každém řetízku lineární obal všech členů vyjma prvních $j$. Z toho vidíme, že řetízku dlouhému $k$ odpovídá\n$$ \\dim ((\\text{Ker } h^i) \\cap (\\text{Im } h^j)) = \\max(0, \\min(i, k-j)) $$\nDefinujme $R(x) = \\max(x, 0)$. Celkem tedy je dimenze\n$$ \\dim ((\\text{Ker } f^i) \\cap (\\text{Im } f^j)) = R(\\min(i, 5-j)) + R(\\min(i, 3-j)) + R(\\min(i, 2-j)) $$\nBázi potom nalezneme jako posledních $R(\\min(i, 5-j))$ vektorů prvního řetízku atd. Tedy řádně zapsáno\n$$ B_{ij} = (\\b_1, \\dots, \\b_{R(\\min(i, 5-j))},\\b_6, \\dots, \\b_{5+R(\\min(i, 3-j))}, b_9, \\dots, \\b_{8+R(\\min(i, 2-j))}) $$\n$$ \\hearts $$"
+      }
+    ]
+  },
+  "3318": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3318/attachment_0.pdf"
+      }
+    ]
+  },
+  "3345": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3345/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3345/attachment_1.pdf"
+      },
+      {
+        "msg": "první je originál řešení, druhý je přepis z důvodu lepší čitelnosti tabulky"
+      }
+    ]
+  },
+  "3277": {
+    "solution": [
+      {
+        "msg": "**Vypracovali**\n- Štěpán Kovačič (32242782)\n- Lukáš Novák (11240823)"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3277/attachment_2.pdf"
+      }
+    ]
+  },
+  "3351": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3351/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Preznačíme si vektory báze na $\\bold{b_1} = \\bold{v_1^1}, \\bold{b_2} = \\bold{v_2^1}, \\bold{b_3}= \\bold{v_1^3}, \\bold{b_4} = \\bold{v_4^1}, \\bold{b_5} = \\bold{v_5^1}$, potom $\\bold{b_6} = \\bold{v_1^2}, \\bold{b_7} = \\bold{v_2^2}, \\bold{b_8} = \\bold{v_3^2}$ a $\\bold{b_9} = \\bold{v_1^3}, \\bold{b_{10}} = \\bold{v_2^3}$. Potom vektory $\\bold{v_i^j}$ pre fixné $j$ tvoria Jordanov retiazok príslušný $j$-tej Jordanovej bunke. \n\n$\\text{Ker} f^i = \\text{Ker} (f-0\\cdot \\text{id}_{\\mathbb{R}^{10}})^i$ je rovný lineárnemu obalu prvých $i$ vektorov každého z retiazku, teda jeho báza je $(\\bold{v_a^b}|a \\in \\{1, 2, 3\\}, b \\in \\mathbb{N}, b \\leq i)$, pričom nedefinované vektory poacžujeme za to, že tam nie sú. \n\n$\\text{Im} f^j = \\text{Im} (f-0\\cdot \\text{id}_{\\mathbb{R}^{10}})^j$ je rovný lineárnemu obalu všetkých prvkov rietiazkov, okrem posledných $j$ prvkov retiazkov, teda jeho báza je $(\\bold{v_a^b}|a \\in \\{1, 2, 3\\}, b \\in \\mathbb{N}, b \\leq x_a - j)$, kde $x_a$ je veľkosť Jordanového retiazka príslušnému ku $\\bold{v_k^a}$ pre fixné $a$. Teda $x_1 = 5, x_2 = 3, x_3 = 2$.\n\nTo znamená, že báza $(\\text{Im} f^i) \\cap (\\text{Ker}f^j)$ je tvorená všetkými vektormi $\\bold{v_k^a}$, kde $k \\leq \\max(0, \\min(i, x_a - j))$, lebo akonáhle $k$ je väčšie, tak je porušená aspoň jedna z nerovností popísaných pri $\\text{Im}$ alebo $\\text{Ker}$, teda daný vektor nepatrí do aspoň jedného z podpriestorov."
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3265/attachment_1.jpg"
+      },
+      {
+        "msg": "V případě jakýchkoli potíží rád přepíšu co je napsáno."
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2866/attachment_1.pdf"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3350": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3350/attachment_0.pdf"
+      }
+    ]
+  },
+  "3338": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3338/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2862/attachment_0.pdf"
+      }
+    ]
+  },
+  "3297": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3297/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3297/attachment_1.jpg"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2924/attachment_0.pdf"
+      }
+    ]
+  },
+  "2941": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2941/attachment_0.pdf"
+      }
+    ]
+  },
+  "2771": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2771/attachment_0.pdf"
+      }
+    ]
+  },
+  "2984": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2984/attachment_1.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "1654": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/1654/attachment_0.jpg"
+      }
+    ]
+  },
+  "3316": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3316/attachment_0.pdf"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; Poznáme zo zadania maticu operátoru $f$ vzhľadom k $B$:\n$$[f]_B^B =\n\\begin{pmatrix}\n0&1&0&0&0&0&0&0&0&0\\\\\n0&0&1&0&0&0&0&0&0&0\\\\\n0&0&0&1&0&0&0&0&0&0\\\\\n0&0&0&0&1&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&1&0&0&0\\\\\n0&0&0&0&0&0&0&1&0&0\\\\\n0&0&0&0&0&0&0&0&0&0\\\\\n0&0&0&0&0&0&0&0&0&1\\\\\n0&0&0&0&0&0&0&0&0&0\n\\end{pmatrix}\n$$\npretože je v jordanovom tvare, vlastné číslo je $0$, teda má matica nuly na diagonále a poznáme postupne veľkosti jednotlivých blokov, t.j. veľkosti blokov $5, 3, 2$. Pretože zobrazenie v Jordanových retiazkach je zobrazenie pre naše jediné vlastné číslo $\\lambda = 0$, platí\n$$g_0 = g_{\\lambda} = f - \\lambda \\text{id} = f - 0\\text{id} = f$$\nJordanove retiazky sú teda všetky určené zobrazením $g_0 = f$, teda z nich rovno vyčítame $\\text{Ker}\\: g_0^i = \\text{Ker} f^i$ aj $\\text{Im}\\: g_0^j =\\text{Im} f^j$. Bázové vektory príslušné prvej Jordanovej bunke sú $b_1, \\dots, b_5$, pretože poznáme $f$ vzhľadom k tejto bázi a prvá bunka je veľkosti $5$. $b_1$ sa z toho zobrazí na nulu, teda celá retiazka bude $b_5, b_4, b_3, b_2, b_1, 0$. Analogicky sú retiazky príslušné druhej resp. tretej Jordanovej bunke $b_8, b_7, b_6, 0$ resp. $b_{10}, b_9, 0$. Keďže máme iba jedno vlastné číslo pre všetky retiazky, platia vzťahy\n$$\\text{Ker} f^i = \\text{Ker}\\: g_0^i  = \\text{Span}\\{\\text{prvých i vektorov z jednotlivých retiazok}\\}$$\n$$\\text{Im} f^j = \\text{Im}\\: g_0^j = \\text{Span}\\{\\text{prvých r-j  vektorov z jednotlivých retiazok}\\}$$\nkde $r$ je dĺžka jednotlivých retiazok (nulu nepočítame). Stačí teda vyjadriť explicitne, o ktoré vektory ide v oboch prípadoch. Definujeme pomocnú funkciu $(x)_+ = \\text{max}\\{x, 0\\}$. Potom\n$$\\text{Ker} f^i = \\text{Span}\\{b_1, \\dots, b_{\\text{min}\\{i, 5\\}}, b_6, \\dots, b_{5 + \\text{min}\\{i, 3\\}}, b_9, \\dots, b_{8+\\text{min}\\{i, 2\\}}\\}$$\n$$\\text{Im} f^j = \\text{Span}\\{b_1, \\dots, b_{(5-j)_+}, b_6, \\dots, b_{5+(3-j)_+}, b_9, \\dots, b_{8+(2-j)_+}\\}$$\nKde úsek tvaru $b_1, \\dots, b_0$ považujeme vždy za prázdny. Z toho už môžeme vyjadriť prienik týchto množín explicitne, teda v lineárnom obale máme práve požadovanú bázu, ako\n$$(\\text{Ker}f^i) \\cap (\\text{Im} f^j) = \\text{Span} \\{\\,b_1,\\dots,b_{\\min\\{i,(5-j)_+\\}},\\ b_6,\\dots,b_{5+\\min\\{i,(3-j)_+\\}},\\ b_9,\\dots,b_{8+\\min\\{i,(2-j)_+\\}}\\,\\}$$\nJednoduchým spočítaním prvkov báze prieniku dostávame rovno jeho dimenziu, teda\n$$\\text{dim} \\left( (\\text{Ker}f^i) \\cap (\\text{Im} f^j) \\right) = \\min\\{i,(5-j)_+\\}+\\min\\{i,(3-j)_+\\}+\\min\\{i,(2-j)_+\\}$$"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3275/attachment_0.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/2464/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3142": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3142/attachment_0.jpg"
+      }
+    ]
+  },
+  "3407": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3407/attachment_0.pdf"
+      }
+    ]
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3310/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3135/attachment_0.pdf"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3317/attachment_0.pdf"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du07_1/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du07_1/2937/attachment_0.png"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2517": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/2517/attachment_0.pdf"
+      }
+    ]
+  },
+  "3196": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3196/attachment_0.pdf"
+      }
+    ]
+  },
+  "3179": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du07_1/3179/attachment_0.pdf"
+      }
+    ]
+  }
+}

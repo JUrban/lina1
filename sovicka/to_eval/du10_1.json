@@ -1,0 +1,244 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/2430/attachment_1.jpg"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3248/attachment_0.pdf"
+      }
+    ]
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 10.1.\n\nOperátory budou matice rotace kolem osy procházející středem o $\\frac{2\\pi}{5}+k*\\frac{2\\pi}{5}$ kde $k \\in \\mathbb{N}$. (včetně identického operátoru)\n\n### Zdůvodnění\n\nJelikož patá mocnina operátoru je identický operátor, znamená to že determinant páté mocniny operátoru se bude rovnat 1. Z vlastností determinantu vyplívá že determinant operátoru samotného musí také být jedna, jelikož $\\det(\\phi)^5 = \\det(\\phi)\\det(\\phi)\\det(\\phi)\\det(\\phi)\\det(\\phi) = 1$. Dle tvrzení 10.26 ze skripter toto pro ortogonální operátory splňuje ale jedině rotace kolem osy procházející středem. Rotace se musí po pěti otočeních dostat na původní místo, z čehož lze nalézt její ůhel."
+      }
+    ]
+  },
+  "2511": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2511/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3209/attachment_0.pdf"
+      }
+    ]
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3111/attachment_0.pdf"
+      }
+    ]
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3346/attachment_0.pdf"
+      }
+    ]
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3250/attachment_0.pdf"
+      }
+    ]
+  },
+  "3355": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3355/attachment_0.pdf"
+      }
+    ]
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3305/attachment_0.jpg"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "3339": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3339/attachment_0.pdf"
+      }
+    ]
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3331/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "$\\varphi$ je ortogonální operátor, proto podle _Tvrzení 10.26_ musí být buď rotace kolem nějaké osy, reflexe vzhledem k nějaké rovině a nebo složení rotace s reflexí.\n\nPokud by bylo zobrazení reflexí nebo rotací s reflexí, pak by v nějaké bázi musel být $\\det [\\varphi]^B_B = -1$, zatímco $\\det [\\varphi^5]^B_B = (-1)^5 = -1$, což je spor s předpokladem úlohy, a proto $\\varphi$ musí být rotace kolem nějaké osy.\n\nAby pětinásobné složení rotace bylo identitou, musí se jednat o celočíselný násobek rotace o $2\\pi/5$.\n\n$\\varphi$ je tedy rotace podle libovolné osy o $2k\\pi/5, k \\in \\Z.$"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3320/attachment_0.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "3002": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3002/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3002/attachment_1.jpg"
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3275/attachment_0.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du10_1/2937/attachment_0.jpg"
+      }
+    ]
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2940/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2940/attachment_1.pdf"
+      }
+    ]
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3168/attachment_0.pdf"
+      }
+    ]
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/2398/attachment_0.pdf"
+      }
+    ]
+  },
+  "3179": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du10_1/3179/attachment_0.pdf"
+      }
+    ]
+  }
+}

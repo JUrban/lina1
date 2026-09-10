@@ -1,0 +1,185 @@
+{
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 6.1.\n\nTvrzení (a) platí. Jelikož matice $A = A*A$, každý člen matice A je násobkem členů z řádku i sloupce ve kterém se daný člen nachází. Aby toto platilo, matice musí mít v každém řádku/sloupci právě jeden nenulový člen. To ale znamená že takováto matice může mít členy jedině 0 nebo 1 (pro jiná čísla bude na daném místě v druhé mocnině matice druhá mocnina čísla, což je jedině pro 1 a 0 to samé číslo). Matice tedy zobrazuje vektoru buď na vektor z 'zpřeházenou' formu toho samého vektoru, na ten samý vektor ($\\lambda = 1$) nebo na nulový vektor ($\\lambda = 0$)\n\nTvrzení (b) neplatí. Matice $\\left(\\begin{array}{c} 1 & 0 \\\\ 0 & 1 \\end{array}\\right)$ je druhou mocninou sebe sama a nezobrazuje žádný vektor na svůj nulanásobek, jelikož $\\left(\\begin{array}{c} 1 & 0 \\\\ 0 & 1 \\end{array}\\right)* \\left(\\begin{array}{c} x \\\\ y \\end{array}\\right) = \\left(\\begin{array}{c} x \\\\ y \\end{array}\\right)$ pro každé x a y.\n\nTvrzení (c) platí. Pro valstní vektor $\\mathbf{v}$ platí že $A\\mathbf{v}=\\lambda\\mathbf{v}$. Díky vlastnostem násobení matic a vekotrů bude $(A\\mathbf{v})^n = \\lambda^n A \\mathbf{v}$. Jelikož $A^n$ je rovno nule, a vektor $\\mathbf{v}$ i matice $A$ nejsou nulové, $\\lambda^n = 0$ a tedy $\\lambda = 0$\n\nTvrzení (d) platí. Jelikož determinant násobku matic je násobek determinantů matic, platí že det$(A^n)$ je $det(A)^n$. To znamená že i násobek n charakteristických polynomů matice $A$ bude roven charakteristickému polynomu nulové matice, a tedy budou mít stejné řešení, což je 0."
+      }
+    ],
+    "points": 1.0
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3250/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/2562/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2401/attachment_0.pdf"
+      }
+    ],
+    "points": 3.75
+  },
+  "3272": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3272/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3272/attachment_1.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3299/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3305/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2871/attachment_0.pdf"
+      }
+    ],
+    "points": 3.75
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3238/attachment_1.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2398/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_1/3009/attachment_0.jpg"
+      }
+    ],
+    "points": 3.75
+  },
+  "3324": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3324/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2901": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2901/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2857": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2857/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3193/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "1927": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/1927/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3248/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3316": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3316/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/3276/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_1/2917/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  }
+}

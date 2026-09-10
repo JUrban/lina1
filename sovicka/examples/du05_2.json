@@ -1,0 +1,181 @@
+{
+  "2981": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/2981/attachment_0.jpg"
+      }
+    ],
+    "points": 0.0
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\bf#1{\\mathbf{#1}}$\n$\\gdef\\u{\\bf{u}}$\n$\\gdef\\v{\\bf{v}}$\n$\\gdef\\scal#1#2{\\langle #1, #2 \\rangle}$\n$\\gdef\\sscal#1{\\scal{#1}{#1}}$\n$\\gdef\\vect#1{\\begin{pmatrix}#1\\end{pmatrix}}$\n$\\gdef\\matr#1#2{\\left ( \\begin{array}{#1} #2\\end{array} \\right )}$\nZ druhé podmínky platí, že každý řádek $A$ má součet 3. Z první podmínky máme dva vlastní vektory příslušící vlastnímu číslu 2\n$$ (1,1,0)^T, ~(0,1,1)^T $$\nTím pádem postupně doplníme prvky matice řešením soustav 3 rovnic pro jednotlivé řádky matice\n$$ A = \\vect{3&-1&1\\\\1&1&1\\\\1&-1&3} $$\nLze zkontrolovat, že tato matice splňuje všechna kritéria."
+      }
+    ],
+    "points": 1.5
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/273/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3317/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3261/attachment_1.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3045/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2881": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2881/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3150": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3150/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2862/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2917/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_2/3025/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2398/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3274": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3274/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3075": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3075/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3039/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3041/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2935/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3194/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/3233/attachment_1.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2736": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_2/2736/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  }
+}

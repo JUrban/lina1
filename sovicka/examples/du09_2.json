@@ -1,0 +1,185 @@
+{
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/1989/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3039": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3039/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3271/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/2398/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_2/3221/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_2/3009/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3250/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3115/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3264/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/2858/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/2917/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3298": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3298/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3205/attachment_0.pdf"
+      }
+    ],
+    "points": 1.5
+  },
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/2924/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3403/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_2/3305/attachment_0.jpg"
+      }
+    ],
+    "points": 2.0
+  },
+  "3168": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/3168/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 9.2.\n\nČástice se může vzdalovat do nekonečna pro hodnoty $a>2,5$\n\n### Důkaz\n\nSystém lze popsat maticově jako $\\left(\\begin{array}{c} a-2 & -1 \\\\ 1 & -2 \\end{array}\\right) \\left(\\begin{array}{c} x(t) \\\\ y(t) \\end{array}\\right) = \\left(\\begin{array}{c} x'(t) \\\\ y'(t) \\end{array}\\right)$. Vlastní čísla matice z této soustavy jsou $\\frac{a-4-\\sqrt{a^2-4}}{2}$ a $\\frac{a-4+\\sqrt{a^2-4}}{2}$. Jelikož matice je typu 2X2 a má dva vlastní čísla, bude diagonalizovatelná pro nějakou bázi B. \n\nVektor z systému v bázi B lze vyjádřit, označíme ho $\\left(\\begin{array}{c} x_1(t) \\\\ y_1(t) \\end{array}\\right)$  Nyní můžeme použít řešení ze strany 344 ze skripter. Platí tedy že řešení soustavy v bázi B (Pro jednoduchost rozepsáno po členech vektorů) je $x_1(t) = e^{t}\\frac{a-4-\\sqrt{a^2-4}}{2}x_1(0)$ a $y_1(t) = e^{t}\\frac{a-4+\\sqrt{a^2-4}}{2}y_1(0)$. (Pořadí reálných čísel vzhledem k hodnotám x_1(t) a y_1(t) nemění výsledek). \n\nMůžeme si všimnout, že pokud se soustava vyjádřená v bázi B vzdaluje od bodu $\\mathbf{0}$, soustava v kanonické bázi se také vzdaluje od bodu $\\mathbf{0}$ (Bod $\\mathbf{0}$ je ve všech bázích stejný, a pokud se systém vzdaluje od bodu v jedné bázi, vzdaluje se od toho bodu i v jiné bázi). Hledáme tedy možnost kdy je $e^{\\lambda t}$ vyšší než 1 aby se kousek prachu vzdaloval od vysavače (Pro $e^{\\lambda t}=1$ by držel stálou vzdálenost od vysavače, pro $e^{\\lambda t}>1$ by se přibližoval). Víme že t je jedině nějaká hodnota času a tedy není záporné, a tak nám musí platit že $\\lambda>0$ aby $e^{\\lambda t}>1$. Z naší hodnoty $\\lambda$ lze vydět že $a-4-\\sqrt{a^2-4}>0$. Vyřešením této rovnice dostaneme že $a>2,5$ což je naše podmínka. Pro druhé vlastní číslo nerovnice $a-4₊\\sqrt{a^2-4}>0$ platí vždy."
+      }
+    ],
+    "points": 2.0
+  },
+  "2889": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_2/2889/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_2/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_2/2430/attachment_1.jpg"
+      }
+    ],
+    "points": 2.0
+  }
+}

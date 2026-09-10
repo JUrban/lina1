@@ -1,0 +1,1112 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2888/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3308": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3308/attachment_0.pdf"
+      }
+    ]
+  },
+  "3356": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3356/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3356/attachment_1.jpg"
+      }
+    ]
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2377/attachment_0.pdf"
+      }
+    ]
+  },
+  "3128": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3128/attachment_0.pdf"
+      }
+    ]
+  },
+  "2903": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2903/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2903/attachment_1.pdf"
+      }
+    ]
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2935/attachment_0.pdf"
+      }
+    ]
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3281/attachment_0.pdf"
+      }
+    ]
+  },
+  "3227": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3227/attachment_0.pdf"
+      }
+    ]
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3188/attachment_0.pdf"
+      }
+    ]
+  },
+  "2948": {
+    "solution": [
+      {
+        "msg": "### Linearita\nPro jakékoliv vektory $\\vec{u},\\vec{v},\\vec{w}\\in \\R^2$ a skalár $t\\in\\R$ musí platit:\n1) $\\lang \\vec{u},\\vec{v}+\\vec{w}\\rang = \\lang \\vec{u},\\vec{v}\\rang + \\lang \\vec{u},\\vec{w}\\rang$   \nDíky distributivitě násobení matic   \n$\\lang \\vec{u},\\vec{v}+\\vec{w}\\rang = \\vec{u}^TA(\\vec{v}+\\vec{w}) = \\vec{u}^TA\\vec{v}+\\vec{u}^TA\\vec{w} = \\lang \\vec{u},\\vec{v}\\rang + \\lang \\vec{u},\\vec{w}\\rang$   \n   \n2) $\\lang\\vec{u},t\\vec{v}\\rang = t\\lang\\vec{u},\\vec{v}\\rang$   \nDíky komutativitě násobení matic skalárem   \n$\\lang\\vec{u},t\\vec{v}\\rang = \\vec{u}^TAt\\vec{v} = t\\vec{u}^TA\\vec{v}=t\\lang\\vec{u},\\vec{v}\\rang$\n\n### Skorosymetrie\nPro vektory $\\vec{u},\\vec{v} \\in\\R^2$ musí platit:   \n$\\lang \\vec{u},\\vec{v}\\rang = \\lang \\vec{v},\\vec{u}\\rang$   \n$\\lang \\vec{u},\\vec{v}\\rang = \\vec{u}^TA\\vec{v} = \\vec{u}^T(v_1\\vec{a_1}+v_2\\vec{a_2}) =u_1(v_1a_{11}+v_2a_{12})+u_2(v_1a_{21}+v_2a_{22})=$   \n$=u_1v_1a_{11}+u_1v_2a_{12}+u_2v_1a_{21}+u_2v_2a_{22} =$  \nProtože $A$ je symetrická   \n$=u_1v_1a_{11}+u_1v_2a_{21}+u_2v_1a_{12}+u_2v_2a_{22} = v_1(u_1a_{11}+u_2a_{12})+v_2(u_1a_{21}+u_2a_{22})=$   \n$=\\vec{v}(u_1\\vec{a_1}+u_1\\vec{a_2})=\\vec{v}^TA\\vec{u} = \\lang \\vec{v},\\vec{a}\\rang$   \n\n### Pozitivní definitivnost\n#### $a_{11}>0$ a $\\det(A)>0$ $\\implies$ $\\lang,\\rang$ je skalární součin\nPro vektor $\\vec{u}\\in\\R^2$ musí platit:\n$\\lang \\vec{u},\\vec{u}\\rang$ je nezáporné reálné číslo, nulové právě, když $\\vec{u}=\\vec{o}$   \n$\\det(A) = a_{11}a_{22}-a_{21}a_{12}=a_{11}a_{22}-a_{21}^2$   \nAby platilo, že $\\det(A)>0$, $a_{11}a_{22}$ musí být kladné číslo. Protože $a_{11}>0$, $a_{22}$ musí být také   \nTaké musí platit $a_{11}a_{22}>a_{21}^2$, takže $|a_{21}|<\\sqrt{a_{11}a_{22}}$\n   \n$\\lang \\vec{u},\\vec{u}\\rang = \\vec{u}^TA\\vec{u} =u_1u_1a_{11}+u_1u_2a_{12}+u_2u_1a_{21}+u_2u_2a_{22} = u_1^2a_{11}+2a_{21}u_1u_2+u_2^2a_{22}$   \n   \n$u_1^2a_{11}+2a_{21}u_1u_2+u_2^2a_{22}>0$   \n   \na) $a_{21}>0$   \n$u_1^2a_{11}+2\\sqrt{a_{11}a_{22}}u_1u_2+u_2^2a_{22}>0$   \n$(u_1\\sqrt{a_{11}}+u_2\\sqrt{a_{22}})^2>0$... rovno nule právě když $\\vec{u}=\\vec{o}$   \n   \nb) $a_{21}<0$   \n$u_1^2a_{11}+2(-\\sqrt{a_{11}a_{22}})u_1u_2+u_2^2a_{22}>0$   \n$(u_1\\sqrt{a_{11}}-u_2\\sqrt{a_{22}})^2>0$... rovno nule právě když $\\vec{u}=\\vec{o}$   \n#### $\\lang,\\rang$ je skalární součin $\\implies$ $a_{11}>0$ a $\\det(A)>0$   \nVezměme vektor $e_1=\\binom{1}{0}$   \n   \n$\\lang e_1,e_1\\rang = (1,0)^TA\\binom{1}{0} =(1,0)^T(1\\vec{a_1}+0\\vec{a_2})=1a_{11}$   \nZ pozitivní definitivnosti vyplývá, že $a_{11}>0$"
+      }
+    ]
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3225/attachment_0.jpg"
+      }
+    ]
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2917/attachment_0.pdf"
+      }
+    ]
+  },
+  "3248": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3248/attachment_0.pdf"
+      }
+    ]
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2869/attachment_0.pdf"
+      }
+    ]
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3166/attachment_0.pdf"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3221/attachment_0.jpg"
+      }
+    ]
+  },
+  "3219": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3219/attachment_0.jpg"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "3288": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3288/attachment_0.pdf"
+      }
+    ]
+  },
+  "3298": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3298/attachment_0.pdf"
+      }
+    ]
+  },
+  "2401": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2401/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2956/attachment_0.pdf"
+      }
+    ]
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2202/attachment_0.jpg"
+      }
+    ]
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3209/attachment_1.pdf"
+      }
+    ]
+  },
+  "3204": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3204/attachment_0.pdf"
+      }
+    ]
+  },
+  "2857": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2857/attachment_0.pdf"
+      }
+    ]
+  },
+  "2826": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2826/attachment_0.pdf"
+      }
+    ]
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Dobrý den!\nŘešení se nachází v úloze č. 1 domácího úkolu. \nBylo odevzdáno včas.\n Omlouvám se za komplikace."
+      }
+    ]
+  },
+  "2859": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2859/attachment_0.pdf"
+      }
+    ]
+  },
+  "2868": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2868/attachment_0.pdf"
+      }
+    ]
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3041/attachment_0.pdf"
+      }
+    ]
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3111/attachment_0.pdf"
+      }
+    ]
+  },
+  "3285": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3285/attachment_0.pdf"
+      }
+    ]
+  },
+  "3233": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3233/attachment_0.pdf"
+      }
+    ]
+  },
+  "3038": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3038/attachment_0.pdf"
+      }
+    ]
+  },
+  "3245": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3245/attachment_0.pdf"
+      }
+    ]
+  },
+  "3139": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3139/attachment_0.pdf"
+      }
+    ]
+  },
+  "3194": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3194/attachment_0.pdf"
+      }
+    ]
+  },
+  "1500": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/1500/attachment_0.pdf"
+      }
+    ]
+  },
+  "2847": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2847/attachment_0.pdf"
+      }
+    ]
+  },
+  "3329": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3329/attachment_0.pdf"
+      }
+    ]
+  },
+  "2492": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2492/attachment_0.pdf"
+      }
+    ]
+  },
+  "2860": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2860/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2860/attachment_1.pdf"
+      }
+    ]
+  },
+  "3347": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3347/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3268/attachment_1.pdf"
+      }
+    ]
+  },
+  "3113": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3113/attachment_0.pdf"
+      }
+    ]
+  },
+  "3309": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3309/attachment_0.pdf"
+      }
+    ]
+  },
+  "3102": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3102/attachment_0.pdf"
+      }
+    ]
+  },
+  "3276": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3276/attachment_0.pdf"
+      }
+    ]
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3250/attachment_0.pdf"
+      }
+    ]
+  },
+  "3090": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3090/attachment_0.pdf"
+      }
+    ]
+  },
+  "2918": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2918/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2918/attachment_1.jpg"
+      }
+    ]
+  },
+  "3284": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3284/attachment_0.pdf"
+      }
+    ]
+  },
+  "3256": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3256/attachment_0.pdf"
+      }
+    ]
+  },
+  "2876": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2876/attachment_0.pdf"
+      }
+    ]
+  },
+  "2989": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2989/attachment_0.jpg"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3193": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3193/attachment_0.pdf"
+      }
+    ]
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\bf#1{\\mathbf{#1}}$\n$\\gdef\\u{\\bf{u}}$\n$\\gdef\\v{\\bf{v}}$\n$\\gdef\\scal#1#2{\\langle #1, #2 \\rangle}$\n$\\gdef\\sscal#1{\\scal{#1}{#1}}$\n$\\gdef\\vect#1{\\begin{pmatrix}#1\\end{pmatrix}}$\n$\\gdef\\matr#1#2{\\left ( \\begin{array}{#1} #2\\end{array} \\right )}$\nJelikož je garantováno, že matice $A$ je symetrická čtvercová matice vhodného řádu a pracujeme v reálném oboru, pak $\\scal{}{}$ triviálně splňuje podmínky (SSS), (SL1) a (SL2) definice skalárního součtu. Stačí tedy určit, za jakých podmínek splňuje (SP). Zapišme si $A$ jako obecnou symetrickou matici.\n$$ A = \\vect{a&b\\\\b&c} $$\nPotom můžeme podmínku (SP) psát jako\n$$ 0 \\le \\vect{x&y} \\vect{a&b\\\\b&c} \\vect{x\\\\y} = ax^2+2bxy +cy^2$$\nUvažme případ, že $a_{11} = a = 0$. Potom pro vektor $\\u=(1,0)^T$ je $\\sscal{\\u} = 0$, což je v rozporu s (SP), jelikož $\\u$ není nulový vektor. Pokud tedy $a \\not = 0$, můžeme doplnit na čtverec\n$$ 0 \\le a\\left(x+\\frac{b}{a}y\\right)^2+\\left(c-\\frac{b^2}{a}\\right)y^2 $$\nTato podmínka je splňena pro všechny $x, y \\in \\R$ právě tehdy, když jsou koeficienty před oběma čtverci nezáporné. Máme tedy\n$$ a \\ge 0 \\wedge a \\not = 0 $$\n$$ a > 0 $$\n$$ c - \\frac{b^2}{a} \\ge 0 $$\n$$ ca -b^2 \\ge 0 $$\n$$ \\det(A) \\ge 0 $$\nNyní nakonec zvažme možnost, že $\\det(A) = 0$. Potom s volbou $x = b, y = -a$, což z již dokázaných podmínek neodpovídá nulovému vektoru, je $\\sscal{(x, y)^T} = 0$, což je ve sporu s podmínkou (SP). Platí tedy, že $\\sscal{}$ je skalární součin, a tedy matice $A$ je pozitivně definitní, právě pokud\n$$ a_{11} = a > 0 \\wedge \\det(A) > 0 $$\n$\\hearts$"
+      }
+    ]
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3238/attachment_1.pdf"
+      }
+    ]
+  },
+  "3277": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3277/attachment_0.pdf"
+      }
+    ]
+  },
+  "3213": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3213/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Keďže $A$ je symetrická, tak:\n$$\nA=\n\\left(\n\\begin{array}{cc}\na & b \\\\\nb & c\n\\end{array}\n\\right)\n$$\nPotom pre ľubovoľné $\\bold{u} = (x_1, y_1)^T, \\bold{v} = (x_2, y_2)^T \\in \\mathbb{R}^2$ máme:\n$$\n\\langle \\bold{u}, \\bold{v}\\rangle = ax_1x_2 + 2b(x_1y_2 + x_2y_1) + cy_1y_2\n$$\nZ toho je ľahko vidno, že $\\langle\\cdot, \\cdot \\rangle$ je symetrické (keďže sme nad $\\mathbb{R}$), čo je prvá vlastnosť. Druhá a tretia vlastnosť je zrejmá z toho, že sa jedná o násobenie maticou a to je distributívne a skalár môžeme vyňať pred zátvorku. Tieto vlastnosti platia bez ohľadu na to, či predpokladáme, že sa jedná o skalárny súčin, alebo či predpokladáme $a > 0$ a $\\text{det}(A) > 0$. Teda jediné, čo treba overiť je $4.$ vlastnosť.\n\nPredpokladajme, že $\\langle\\cdot, \\cdot \\rangle$ je skalárny súčin, ukážem, že $a > 0$ a $\\text{det}(A) > 0$. Na to mi stačí ukázať, že ak $a \\leq 0$ alebo $\\text{det}(A) \\leq 0$, tak $\\langle\\cdot, \\cdot \\rangle$ nemôže byť skalárny súčin. \n\nPre spor predpokladajme, že $a \\leq 0$, tak dosadíme $\\bold{u}= (1, 0)^T$, musíme dostať, že $\\langle\\bold{u}, \\bold{u} \\rangle$ je kladné reálne číslo (keďže $\\bold{u}$ nie je nulový), avšak dostaneme $\\langle\\bold{u}, \\bold{u} \\rangle = a \\leq 0$, spor so $4.$ vlastnosťou. Rovnako vieme pomocou  $\\bold{u} =(0, 1)^T$ získať, že $c > 0$.\n\nPre spor predpokladajme, že:\n$$\n\\begin{align*}\n0 \\geq \\text{det}(A) &= ac - b^2  \\\\\nb^2 &\\geq ac \\\\\n|b| &\\geq \\sqrt{ac}\n\\end{align*}\n$$\nAbsolútnu hodnotu pri odmocňovaní $ac$ nepotrebujeme, keďže musí platiť, že $a, c$ sú kladné, inak by sme dostali spor. \n\nAk $b$ je záporné, potom zvážme $\\bold{u} = (\\sqrt{c}, \\sqrt{a})^T$, teda dostávame:\n$$\n\\langle\\bold{u}, \\bold{u}\\rangle = 2(ac + b\\sqrt{ac}) = 2(ac - |b|\\sqrt{ac}) \\leq 2(ac - \\sqrt{ac}\\sqrt{ac}) = 0\n$$\nČo je spor so $4.$ vlastnosťou, keďže $\\bold{u}$ je nenulový.\n\nAk $b$ je kladné, potom zvážme $\\bold{u} = (\\sqrt{c}, -\\sqrt{a})^T$, teda dostávame:\n$$\n\\langle\\bold{u}, \\bold{u}\\rangle = 2(ac - b\\sqrt{ac}) = 2(ac - |b|\\sqrt{ac}) \\leq 2(ac - \\sqrt{ac}\\sqrt{ac}) = 0\n$$\nČo je spor so $4.$ vlastnosťou, keďže $\\bold{u}$ je nenulový.\n\nTakže, ak nie je determinant $A$ kladný, tak sa nemôže jednať o skalárny súčin.\n\n\nTeraz ukážeme, že ak $a > 0$ a $\\text{det}(A) > 0$, potom $\\langle\\cdot, \\cdot \\rangle$ je skalárny súčin. Stačí overiť $4.$ podmienku. Z determinantu máme:\n$$\nac > b^2 \\geq 0\n$$\na keďže $a>0$, potom $c \\geq 0$. Takže pre $\\bold{u} = (x, y)^T$ dostávame:\n$$\n\\langle \\bold{u}, \\bold{u}\\rangle = ax^2 + 2bxy + cy^2 \\geq ax^2 - 2|b|xy + cy^2 \\geq ax^2 - 2 \\sqrt{ac}xy + cy^2=(\\sqrt{a}x - \\sqrt{c}y)^2 \\geq 0\n$$\nPričom prípad rovnosti nastáva len ak $\\bold{u}$ je nulový, lebo pre nenulové vektory je druhá nerovnosť ostrá. Teda sme hotový."
+      }
+    ]
+  },
+  "2766": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2766/attachment_0.pdf"
+      }
+    ]
+  },
+  "3072": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3072/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3072/attachment_1.jpg"
+      }
+    ]
+  },
+  "2763": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2763/attachment_0.jpg"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "2932": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2932/attachment_0.pdf"
+      }
+    ]
+  },
+  "3265": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3265/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3265/attachment_1.jpg"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2866/attachment_0.pdf"
+      }
+    ]
+  },
+  "2877": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2877/attachment_0.pdf"
+      }
+    ]
+  },
+  "3287": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3287/attachment_0.pdf"
+      }
+    ]
+  },
+  "2542": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2542/attachment_0.pdf"
+      }
+    ]
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3254/attachment_0.pdf"
+      }
+    ]
+  },
+  "3037": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3037/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2862/attachment_0.pdf"
+      }
+    ]
+  },
+  "3231": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3231/attachment_0.pdf"
+      }
+    ]
+  },
+  "3075": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3075/attachment_0.pdf"
+      }
+    ]
+  },
+  "3297": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3297/attachment_1.jpg"
+      }
+    ]
+  },
+  "2182": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2182/attachment_0.pdf"
+      }
+    ]
+  },
+  "2892": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2892/attachment_1.pdf"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3077/attachment_0.jpg"
+      }
+    ]
+  },
+  "2988": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2988/attachment_0.pdf"
+      }
+    ]
+  },
+  "3056": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3056/attachment_0.jpg"
+      }
+    ]
+  },
+  "3007": {
+    "solution": [
+      {
+        "msg": "# $a_{11}\\gt0 \\wedge det(A)>0 \\Rightarrow \\text{skalární součin}$\n- podmínka symetrie ($\\mathbb{R}$) a linearity v 2. prvku platí pro všechny symetrické matice (skripta)\n- zbývá pozitivní definitnost\n- $a_{1 1}u_{1}^{2}+2a_{12}u_{1}u_{2}+a_{22}u_{2}^{2}>0\\text{ pro každý nenulový vektor u}$\n\n- determinant A > 0:\n- $a_{1 1}a_{2 2} > a_{12}^{2}$ \n- $a_{1 1} > \\frac{a_{12}^{2}}{a_{2 2}}$ \n- $a_{2 2}$ je kladné, jelikož v nerovnosti $a_{1 1}a_{2 2} > a_{12}^{2}$ je $a_{1 1}$ kladné, a $a_{12}^{2}$ taky. tj $a_{2 2}$ musí být kladné\n\n- $a_{1 1}u_{1}^{2}+2a_{12}u_{1}u_{2}+a_{22}u_{2}^{2}>\\frac{a_{12}^{2}}{a_{2 2}}u_{1}^{2}+2a_{12}u_{1}u_{2}+a_{22}u_{2}^{2}$\n\n- $a_{1 1}u_{1}^{2}+2a_{12}u_{1}u_{2}+a_{22}u_{2}^{2}>\\frac{a_{12}^{2}}{a_{2 2}}u_{1}^{2}+2a_{12}u_{1}u_{2}+a_{22}u_{2}^{2}=(\\frac{a_{12}}{\\sqrt{a_{22}}}u_{1}+\\sqrt{a_{22}}u_{2})^{2}>0$\n- čtvereček\n\n\n\n# $\\text{skalární součin} \\Rightarrow a_{11}\\gt0 \\wedge det(A)>0$\n\n- důkaz sporem\n- předpokládejme že neplatí $a_{11}\\gt0$ (to je $a_{11}\\le 0$)\n- dosadíme vektor $\\begin{pmatrix}1 \\\\0\\end{pmatrix}$ do $\\left\\langle u, u \\right\\rangle$\n- $\\begin{pmatrix}1 & 0\\end{pmatrix}\\begin{pmatrix}a_{11} &a_{12}  \\\\a_{12} &a_{22} \\end{pmatrix}\\begin{pmatrix}1 \\\\0\\end{pmatrix}= a_{11}$\n- spor, musí být > 0\n\n- takže $a_{11}$ je $>0$\n- předpokládejme že $Det(a)\\le0$\n- jestli $Det(a)$=0 matice je singulární => podle skript nemůže být pozitivně definitní, takže nesplňuje podmínku (SP)\n\n- předpokládejme Det(a)<0:\n\n\n\n- $a_{1 1}(u_{1}+\\frac{a_{12}}{a_{1 1}}u_{2})^{2}- (\\frac{a_{12}}{a_{1 1}}u_{2})^{2}+            a_{22}u_{2}^{2} =\na_{1 1}(u_{1}^{2}+\\frac{a_{12}}{a_{1 1}}u_{1}u_{2})+a_{22}u_{2}^{2} =a_{1 1}(u_{1}+\\frac{a_{12}}{a_{11}}u_{2})^{2}-\\frac{a_{12}^{2}}{a_{11}}u_{2}^{2}+a_{22}u_{2}^{2}=\na_{1 1}(u_{1}+\\frac{a_{12}}{a_{11}}u_{2})^{2}+u_{2}^{2}(\\frac{a_{11}a_{22}-a_{12}^{2}}{a_{11}})=a_{1 1}(u_{1}+\\frac{a_{12}}{a_{11}}u_{2})^{2}+u_{2}^{2}(\\frac{Det(A)}{a_{11}})$\n\n\n\n- podle toho si zvolíme vektor $\\begin{pmatrix}-\\frac{a_{12}}{a_{11}} \\\\1\\end{pmatrix}$ který dosadíme do skalárního součinu sám se sebou\nvznikne\n\n\n- $a_{1 1}(-\\frac{a_{12}}{a_{11}}+\\frac{a_{12}}{a_{11}})^{2}+(\\frac{Det(A)}{a_{11}})=(\\frac{Det(A)}{a_{11}})$\n\njelikož $a_{11}$ je kladné tak $(\\frac{Det(A)}{a_{11}})$ je záporné. spor"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "3260": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3260/attachment_0.pdf"
+      }
+    ]
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/1989/attachment_0.pdf"
+      }
+    ]
+  },
+  "3164": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3164/attachment_0.jpg"
+      }
+    ]
+  },
+  "2864": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2864/attachment_0.pdf"
+      }
+    ]
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2562/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2562/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2562/attachment_2.jpg"
+      }
+    ]
+  },
+  "3116": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3116/attachment_0.pdf"
+      }
+    ]
+  },
+  "2887": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2887/attachment_0.pdf"
+      }
+    ]
+  },
+  "3002": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3002/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3002/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3002/attachment_2.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3002/attachment_3.jpg"
+      }
+    ]
+  },
+  "2878": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2878/attachment_0.pdf"
+      }
+    ]
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; Pretože $A$ je reálna, symetrická štvorcová matica typu $2\\times 2$, označme $a = a_{11}, c = a_{22}, b = a_{12} = a_{21}$. Chceme dokázať\n$$\\langle , \\rangle \\; \\text{je skalárny súčin na} \\;  \\R^{2} \\iff  a = a_{11} > 0 \\land \\text{det} (A) > 0$$\nteda dokážeme postupne obidve implikácie:\n\n&nbsp; $\\implies$ Pre spor predpokladajme $a \\leq 0 \\vee \\text{det}(A) \\leq 0$. \n\n&nbsp; Uvažujme najskôr prvú možnosť, teda $a \\leq 0$. Zvoľme $\\overrightarrow{v} = (1, 0)^T$. Podľa predpokladu je $\\langle , \\rangle$ skalárny súčin na $\\R^{2}$ teda keďže $\\overrightarrow{v} \\neq \\overrightarrow{0}$, platí $\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle > 0$. Platí teda z definície zobrazenia\n$$\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle = (1, 0) \\: A \\: (1, 0)^T = a \\leq 0$$\nČo je spor.\n\n\n&nbsp; Uvažujme druhú možnosť, teda $\\text{det}(A) = ac - b^2 \\leq 0$. \n\n&nbsp; Najskôr predpokladajme $c \\leq 0$. Zvolíme $\\overrightarrow{v} = (0, 1)^T$. Znovu máme $\\overrightarrow{v} \\neq \\overrightarrow{0}$, teda podľa predpokladu $\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle > 0$. Z definície zobrazenia \n\n$$\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle = (0, 1) \\: A \\: (0, 1)^T = c \\leq 0$$\nZ čoho plynie spor. \n\n&nbsp; Stačí teda uvažovať $c > 0$. Teraz zvolíme $\\overrightarrow{v} = \\left( \\sqrt{c}, -\\frac{b}{\\sqrt{c}} \\right)^T$. Keďže $c > 0$, máme $\\overrightarrow{v} \\in \\R^2$ a $\\overrightarrow{v} \\neq \\overrightarrow{0}$, takže podľa predpokladu $\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle > 0$. Z definície zobrazenia dostávame\n\n$$\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle = \\overrightarrow{v}^T \\: A \\: \\overrightarrow{v} = a(\\sqrt{c})^2 + 2b\\sqrt{c} \\left( -\\frac{b}{\\sqrt{c}}\\right) +  c\\left( -\\frac{b}{\\sqrt{c}}\\right)^2 = ac -2b^2 + b^2 = ac - b^2 \\leq 0$$\n\nZ čoho opäť plynie spor, čím je prvá implikácia dokázaná.\n\n&nbsp; Pre dôkaz spätnej implikácie stačí dokázať pozitívnu definitnosť skalárneho súčinu, keďže vlastnosti o linearite plynú priamo z linearity maticového násobenia a vlastnosť skorosymetrie plynie zo symetrie matice $A$. Označme $\\overrightarrow{v} = (x, y)^T$. Potom znovu z definície zobrazenia\n\n$$\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle = (x, y) \\: A \\: (x, y)^T = ax^2 + 2bxy + cy^2$$\n\nPodľa predpokladu $a > 0 \\:$ a $\\: 0 < \\text{det}(A) = ac - b^2 \\iff \\frac{b^2}{a} < c$, kde ekvivalencia plynie z $a > 0$. Teraz uvažujme nerovnosť $0 \\leq \\left( \\sqrt{a}x + \\frac{b}{\\sqrt{a}} y \\right)^2$, ktorá zjavne platí a kde sú členy dobre definované, keďže $a > 0$. Upravujme nerovnosť \n\n$$0 \\leq \\left( \\sqrt{a}x + \\frac{b}{\\sqrt{a}} y \\right)^2 = (\\sqrt{a}x)^2 + 2\\sqrt{a}x \\frac{b}{\\sqrt{a}}y + \\left( \\frac{b}{\\sqrt{a}} y \\right) ^2 = \\\\[2ex]\n= ax^2 + 2bxy + \\frac{b^2}{a}y^2 \\leq ax^2 + 2bxy + cy^2 = \\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle$$\n\nPosledná nerovnosť je neostrá aj napriek tomu, že $\\frac{b^2}{a} < c$, keďže jedine v prípade $y = 0$ nastáva rovnosť, no v takom prípade dostaneme $0 \\leq ax^2$, kde kedže $a > 0$ nastne rovnosť iba ak $x = 0$. Ak teda $\\overrightarrow{v} \\neq \\overrightarrow{0}$, posledná alebo prvá nerovnosť je ostrá, takže $\\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle > 0$. Zároveň sme ukázali, že $x = y = 0 \\implies \\langle \\overrightarrow{v}, \\overrightarrow{v} \\rangle = 0$. Tým je tvrdenie dokázané."
+      }
+    ]
+  },
+  "3275": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3275/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3275/attachment_1.jpg"
+      }
+    ]
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3299/attachment_0.pdf"
+      }
+    ]
+  },
+  "3242": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3242/attachment_0.pdf"
+      }
+    ]
+  },
+  "2815": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2815/attachment_0.jpg"
+      }
+    ]
+  },
+  "3008": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3008/attachment_1.pdf"
+      }
+    ]
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2464/attachment_0.jpg"
+      }
+    ]
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3223/attachment_0.pdf"
+      }
+    ]
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3131/attachment_0.pdf"
+      }
+    ]
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2858/attachment_0.jpg"
+      }
+    ]
+  },
+  "3135": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3135/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3135/attachment_1.jpg"
+      }
+    ]
+  },
+  "3317": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3317/attachment_0.pdf"
+      }
+    ]
+  },
+  "2993": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2993/attachment_0.pdf"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3121": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3121/attachment_0.pdf"
+      }
+    ]
+  },
+  "3000": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3000/attachment_0.pdf"
+      }
+    ]
+  },
+  "534": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/534/attachment_0.pdf"
+      }
+    ]
+  },
+  "2764": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2764/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2764/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2764/attachment_2.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2764/attachment_3.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2764/attachment_4.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2764/attachment_5.jpg"
+      }
+    ]
+  },
+  "3294": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3294/attachment_0.jpg"
+      }
+    ]
+  },
+  "2937": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du01_2/2937/attachment_0.png"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3045/attachment_0.pdf"
+      }
+    ]
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/2980/attachment_0.jpg"
+      }
+    ]
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3295/attachment_0.pdf"
+      }
+    ]
+  },
+  "2901": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2901/attachment_0.pdf"
+      }
+    ]
+  },
+  "3272": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3272/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3272/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3272/attachment_2.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_2/3272/attachment_3.jpg"
+      }
+    ]
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/2940/attachment_0.pdf"
+      }
+    ]
+  },
+  "3196": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/3196/attachment_0.pdf"
+      }
+    ]
+  },
+  "1927": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_2/1927/attachment_0.pdf"
+      }
+    ]
+  }
+}

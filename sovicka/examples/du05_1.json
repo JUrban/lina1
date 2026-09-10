@@ -1,0 +1,188 @@
+{
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3045/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "2763": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_1/2763/attachment_0.jpg"
+      }
+    ],
+    "points": 1.0
+  },
+  "2867": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/2867/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3071": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_1/3071/attachment_0.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3403/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3179": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3179/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3167": {
+    "solution": [
+      {
+        "msg": "$\\gdef\\x{\\mathbf{x}}$\nPodívejme se na vzorec\n$$ (A-Ia)\\x = 0\\x $$\nTen platí, jelikož všechny sloupce $A-Ia$ mají součet 0, a tedy všechny řádky $(A-Ia)^T$ mají tedy součet nula. Tedy matice $(A-Ia)^T$ obsahuje v jádře vektor ze samých 1. Není tedy regulární, a tedy ani $A-Ia$. Tím pádem je 0 vlastním číslem $A-Ia$ (9.13), a tedy uvedený vzorec platí. Potom úpravou dostáváme\n$$ A\\x = a\\x $$\na tedy $a$ je vlastním číslem $A$."
+      }
+    ],
+    "points": 3.5
+  },
+  "3102": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_1/3102/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_1/3102/attachment_1.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3320/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/1989/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3213": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3213/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3150": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3150/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2941": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/2941/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3310": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_1/3310/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "3209": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3209/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3350": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3350/attachment_2.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3332": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_1/3332/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "2980": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du05_1/2980/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/2874/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3094": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du05_1/3094/attachment_0.pdf"
+      },
+      {
+        "msg": "Teď jsem si všiml, že jsem se do příkladů zbytečně zamotal a nejspíš se to dalo udělat jednodušeji už z pozorování, že A^T x = ax"
+      }
+    ],
+    "points": 3.0
+  }
+}

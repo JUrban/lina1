@@ -1,0 +1,776 @@
+{
+  "2518": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3001": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2888": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3271": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3244": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2377": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3281": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2430": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2948": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3225": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The numerical Gram matrix, auxiliary vector, and final polynomial are correct, but the matrix is labeled A^T A although the displayed 2-by-2 product is AA^T.",
+    "feedback": "Výpočet pomocného vektoru i výsledný polynom jsou správné. Použitou matici ale označujete jako A^T A, ačkoli z rozměrů i čísel je zřejmé, že jde o AA^T; zápis klíčové rovnice je proto věcně chybný."
+  },
+  "2917": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3248": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The minimum-norm argument and final polynomial are correct, but the response explicitly lists the third interpolation condition as p(1)=-3 rather than p(2)=-3, contradicting the problem and the later matrix setup.",
+    "feedback": "Metoda minimální normy i výsledný polynom jsou správné. V úvodním přepisu podmínek však uvádíte podruhé p(1), tentokrát s hodnotou −3, místo třetí podmínky v bodě 2; text je tím v této části rozporný."
+  },
+  "2869": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3166": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3221": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3219": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2986": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3288": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2923": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3239": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2401": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3025": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The numerical Gram matrix, solution, and final polynomial are correct, but the matrix is explicitly labeled A^T A even though the displayed multiplication and dimensions are those of AA^T.",
+    "feedback": "Výpočet i výsledný polynom jsou správné. V zápisu však označujete použitou Gramovu matici jako A^T A, ačkoli z rozměrů i zobrazeného násobení jde o AA^T. Jde o věcnou chybu v označení klíčové matice."
+  },
+  "2956": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2881": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3209": {
+    "points": 3,
+    "correct": false,
+    "justification": "The minimum-norm setup and the first four coefficients are correct, but the final multiplication gives a0=1/10 instead of 1. Consequently the stated polynomial fails the condition p(0)=1.",
+    "feedback": "Postup hledání řešení s nejmenší normou je správný a první čtyři koeficienty vycházejí správně. Při posledním násobení však chybně získáváte a0=1/10 místo hodnoty odpovídající podmínce p(0)=1; uvedený polynom proto zadání nesplňuje."
+  },
+  "3204": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2857": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2826": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3174": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3232": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2859": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3041": {
+    "points": 0,
+    "correct": false,
+    "justification": "The submission addresses a different problem about eigenvectors/eigenbases and contains no relevant construction or analysis of the requested minimum-coefficient-norm interpolating polynomial.",
+    "feedback": "Odevzdaný text řeší jinou úlohu o vlastních vektorech či vlastní bázi. Chybí sestavení podmínek pro hledaný polynom, minimalizace normy jeho koeficientů i požadovaný výsledek."
+  },
+  "3111": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3261": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3233": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3245": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The final polynomial is correct, but the claimed justification of minimality is invalid. The response uses the singular normal equations A^T A a=A^T b, which characterize feasibility here but do not single out the minimum-norm solution, and no valid selection argument is supplied.",
+    "feedback": "Výsledný polynom je sice správný, ale jeho minimalita není platně odůvodněna. Použitá soustava normálních rovnic s maticí A^T A je singulární a sama neurčuje právě řešení s nejmenší normou; přechod od této soustavy ke konkrétnímu vektoru proto zůstává nezdůvodněný."
+  },
+  "3139": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3194": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2847": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3347": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3115": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3113": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3309": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3062": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3250": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3090": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2918": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "1771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3256": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3039": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The minimum-norm computation and final polynomial are correct, but the response explicitly claims that 0^0 is undefined in this polynomial evaluation, whereas the constant basis monomial x^0 has value 1 at x=0.",
+    "feedback": "Hlavní výpočet řešení s nejmenší normou i výsledný polynom jsou správné. Není však správné tvrzení, že při dosazení x=0 je člen 0^0 nedefinovaný: konstantní monom x^0 zde představuje funkci 1 a v nule má hodnotu 1."
+  },
+  "2900": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3241": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3193": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The later system, computation, and final polynomial are correct, but the response first states that the auxiliary equation is AA^T z=0. Its right-hand side must be the interpolation-value vector, as the subsequent work in fact uses.",
+    "feedback": "Následný výpočet i výsledný polynom jsou správné. V popisu postupu ale nejprve uvádíte pomocnou rovnici AA^T z=0, což je v rozporu s později skutečně řešenou nehomogenní soustavou s pravou stranou danou hodnotami polynomu."
+  },
+  "3238": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3345": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3277": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3213": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The minimum-norm coefficients and polynomial are correct, but the stated minimum sum of coefficient squares is arithmetically wrong: the listed coefficients have squared norm 12/5, not 13/5.",
+    "feedback": "Koeficienty i výsledný polynom určujete správně a minimalitu odůvodňujete vhodnou metodou. Chybně však sčítáte jejich čtverce: uvedená hodnota 2 3/5 neodpovídá zapsaným koeficientům."
+  },
+  "2125": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3351": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3057": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3305": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3072": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2763": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The minimum-norm formula and constraint matrix are appropriate, but the inverse/matrix arithmetic is wrong. The submitted polynomial does not satisfy p(1)=2 or p(2)=-3.",
+    "feedback": "Soustavu i vztah pro řešení s nejmenší normou sestavujete správně. Ve výpočtu inverzní matice a následném násobení však vznikla chyba; uvedený polynom nesplňuje ani p(1)=2, ani p(2)=−3. Výsledek proto není přípustným polynomem ze zadání."
+  },
+  "3089": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2932": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3240": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3339": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2542": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3254": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3403": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2862": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3340": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3297": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2941": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2892": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2874": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3077": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2743": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2988": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3149": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3056": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "273": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2984": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3260": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "1989": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3036": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3316": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2864": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3076": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3116": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2887": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3275": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2922": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3108": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2815": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3008": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2464": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3223": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3131": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3142": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The displayed Gram matrix and final polynomial are correct, but the auxiliary system is explicitly written as A^T A n=b; the calculation actually uses AA^T, and the stated equation is dimensionally invalid.",
+    "feedback": "Číselný výpočet i výsledný polynom jsou správné. Pomocnou soustavu však zapisujete jako A^T A n=b, přestože skutečně počítáte s maticí AA^T; uvedená rovnice navíc rozměrově neodpovídá."
+  },
+  "3407": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The projection/minimum-norm computation and coefficient vector are correct, but the response identifies ||x|| with the sum of coefficient squares. That sum is ||x||^2, not the norm itself.",
+    "feedback": "Výpočet projekce a výsledný vektor koeficientů jsou správné. V závěru však ztotožňujete normu vektoru se součtem čtverců jeho složek; tento součet je druhou mocninou normy, nikoli samotnou normou."
+  },
+  "3135": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3317": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2865": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3150": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The response sets up the correct interpolation matrix and cites the correct minimum-norm formula, but the matrix arithmetic is substantially wrong and the resulting polynomial does not satisfy the constraints.",
+    "feedback": "Interpolační matici i obecný vztah pro řešení s nejmenší normou uvádíte správně. Následný výpočet koeficientů je však chybný a zapsaný výsledný polynom nesplňuje předepsané hodnoty, takže závěr není řešením úlohy."
+  },
+  "2934": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3259": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3121": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3000": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3294": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3045": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2980": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "After fixing a0=1, the response fails to adjust the right-hand side of the two remaining constraints. The subsequent minimum-norm calculation therefore solves the wrong system and produces a polynomial that violates the prescribed values.",
+    "feedback": "Po určení a0=1 neupravujete pravé strany zbývajících rovnic o konstantní člen. Další výpočet nejmenší normy se proto týká jiné soustavy a výsledný polynom nesplňuje zadané hodnoty p(1) a p(2)."
+  },
+  "3094": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The minimum-norm method and main coefficient vector are correct, but the separately listed coefficient a2 is written as 69/112, contradicting the correct denominator 115 used in the vector.",
+    "feedback": "Postup i hlavní výsledný vektor koeficientů jsou správné. V závěrečném samostatném výpisu ale uvádíte a2=69/112, což odporuje správné hodnotě 69/115 uvedené ve vektoru; závěr je tedy vnitřně rozporný."
+  },
+  "3295": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2901": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3168": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "2398": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "3196": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  },
+  "1927": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the interpolation constraints as a consistent linear system, applies the minimum-norm solution characterization, and obtains the coefficient vector (-3/5,1/5,3/5,4/5,1).",
+    "feedback": "Podmínky pro hodnoty polynomu správně převádíte na lineární soustavu, korektně určujete její řešení s nejmenší eukleidovskou normou a získáváte polynom p(x)=−3/5 x^4+1/5 x^3+3/5 x^2+4/5 x+1. Řešení je úplné."
+  }
+}

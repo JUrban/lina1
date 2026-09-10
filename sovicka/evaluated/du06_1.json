@@ -1,0 +1,800 @@
+{
+  "273": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but part (d) relies on an argument that only addresses odd matrix order; the problem allows arbitrary k, so existence of the zero eigenvalue is not proved in general.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) však argument pracuje jen s lichým řádem matice, zatímco zadání připouští libovolné k. Pro sudé k proto chybí platný důkaz, že 0 je vlastním číslem."
+  },
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "1654": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "1771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "1989": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2202": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but the discussion of the characteristic polynomial in (d) is circular and never establishes that a nilpotent real matrix has an eigenvalue.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) se ale úvaha o charakteristickém polynomu opírá o existenci vlastního čísla, kterou máte teprve dokázat; existence vlastního čísla 0 tedy není prokázána."
+  },
+  "2377": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but part (d) simply asserts that A^n=0 yields a nonzero vector v with Av=0; this is precisely the missing claim and is not justified.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) pouze tvrdíte, že z A^n=0 musí existovat nenulový vektor v s Av=0, ale tento klíčový krok nijak nezdůvodňujete. Důkaz existence vlastního vektoru pro vlastní číslo 0 tak chybí."
+  },
+  "2430": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2464": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2518": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but part (d) invokes (c), which is only conditional on an eigenvalue already existing, and therefore does not prove that 0 is an eigenvalue.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) nelze samotnou část (c) použít k důkazu existence vlastního čísla: (c) pouze říká, jaké musí být vlastní číslo, pokud už existuje. Chybí tedy důkaz existence vlastního čísla 0."
+  },
+  "2542": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2736": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2743": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2763": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2764": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2815": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The conclusions are correct, but in (c) the response assumes without justification that A^(n-1)u is nonzero. This need not hold for an arbitrary eigenvector, so the written argument has a genuine logical gap.",
+    "feedback": "Výsledná rozhodnutí jsou správná. V (c) však bez zdůvodnění předpokládáte, že A^(n−1)u je nenulový vektor; pro libovolný vlastní vektor to platit nemusí. Tuto mezeru je třeba odstranit, aby byl důkaz úplný."
+  },
+  "2826": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2847": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2860": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2862": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2865": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but the regularity argument in (d) never derives a contradiction: multiplying the equality A^n=0 only reproduces zero, so singularity of A is merely asserted.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) úvaha o regularitě nedospěje ke sporu; násobení rovnosti A^n=0 pouze znovu dává nulovou matici. Singularita A, a tím ani existence vlastního čísla 0, není dokázána."
+  },
+  "2866": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2868": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2869": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2874": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but part (d) only repeats the conditional computation for an assumed eigenvalue and never proves that any eigenvalue, specifically zero, exists.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) znovu provádíte výpočet pro předem předpokládané vlastní číslo; tím ale neprokazujete, že nějaké vlastní číslo vůbec existuje. Chybí důkaz existence vlastního čísla 0."
+  },
+  "2876": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2877": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a), (b), and (d) are correct, but (c) assumes that an arbitrary matrix has a basis of eigenvectors and can be diagonalized. That claim is false, so the proof of (c) is invalid.",
+    "feedback": "Části (a), (b) a (d) jsou správně. V (c) však předpokládáte, že libovolná matice má bázi z vlastních vektorů a je diagonalizovatelná, což obecně neplatí. Důkaz (c) je proto neplatný."
+  },
+  "2887": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2888": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2892": {
+    "points": 3.75,
+    "correct": false,
+    "justification": "The solution is essentially correct, but in (c) it writes λ^n I=0 instead of the needed vector equality λ^n v=0. The intended eigenvector argument is evident but the displayed statement is not correct as written.",
+    "feedback": "Řešení je věcně téměř úplné. V (c) však píšete λ^n I=0 místo potřebné rovnosti λ^n v=0 pro nenulový vlastní vektor v. Zamýšlený argument je zřejmý, ale uvedená rovnost není vepsaná správně."
+  },
+  "2899": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2900": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2918": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2922": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2924": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2932": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2934": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2935": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2940": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2941": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2948": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct. In (d), minimality gives A^(n-1)≠0 as a matrix, but the response chooses an arbitrary nonzero v and does not justify that u=A^(n-1)v is nonzero; without that, u need not be an eigenvector.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) z minimality plyne nenulovost matice A^(n−1), nikoli nenulovost A^(n−1)v pro libovolně zvolený nenulový vektor v. Je nutné zdůvodnit, že vzniklý vektor u je nenulový; jinak nemusí být vlastním vektorem."
+  },
+  "2956": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2984": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2986": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "2989": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3000": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3001": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3025": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3036": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3038": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3039": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3041": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but part (d) incorrectly claims that every real square matrix has a real eigenvalue by the fundamental theorem of algebra. This is false in even dimension, and the nilpotent-specific existence claim is not proved.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) nesprávně tvrdíte, že každá reálná čtvercová matice má reálné vlastní číslo; v sudé dimenzi to obecně neplatí. Pro nilpotentní A proto stále chybí platný důkaz existence vlastního čísla 0."
+  },
+  "3045": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3056": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3057": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3060": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3072": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but (d) only shows that an assumed nonzero eigenvalue is impossible. It does not establish that zero is actually an eigenvalue.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) pouze vylučujete možnost nenulového vlastního čísla, ale neprokazujete, že 0 je skutečně vlastním číslem. Chybí existenční krok."
+  },
+  "3075": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3076": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but saying that (d) follows from (c) confuses uniqueness with existence: (c) restricts any existing eigenvalue to zero but does not guarantee one exists.",
+    "feedback": "Části (a)–(c) jsou správně. Tvrzení, že (d) přímo plyne z (c), zaměňuje jednoznačnost s existencí: (c) omezuje případné vlastní číslo na 0, ale nezaručuje, že vlastní číslo existuje."
+  },
+  "3077": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3085": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3104": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3108": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3111": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3115": {
+    "points": 3.75,
+    "correct": false,
+    "justification": "The intended solution is correct, but part (c) initially writes A^n x=λx rather than A^n x=λ^n x and then uses the latter conclusion. This is a minor but real inconsistency in the proof.",
+    "feedback": "Zamýšlené řešení je správné, ale v (c) nejprve píšete A^n x=λx místo A^n x=λ^n x a následně používáte druhou z těchto rovností. Jde o drobnou, avšak skutečnou nekonzistenci zápisu důkazu."
+  },
+  "3116": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3121": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3135": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3136": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3139": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a), (b), and (d) are correct, but the proof of (c) uses an invalid determinant manipulation involving a sum and only addresses λ=1, so it does not prove that every eigenvalue must be zero.",
+    "feedback": "Části (a), (b) a (d) jsou správně. Důkaz (c) používá neplatnou úpravu determinantu součtu a zabývá se jen možností λ=1; nevylučuje tedy všechna nenulová vlastní čísla."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3166": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3167": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3168": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3174": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3188": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3194": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3196": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3204": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3205": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3209": {
+    "points": 3.75,
+    "correct": false,
+    "justification": "The argument is essentially correct, but in (c) multiplying by A^(n-1) is followed by λ^(n-1) instead of λ^n. This exponent slip also leaves the n=1 case unsupported as written.",
+    "feedback": "Argument je téměř správný, ale v (c) po násobení A^(n−1) uvádíte λ^(n−1) místo λ^n. Tato chyba v exponentu navíc v zapsané podobě nepokrývá případ n=1."
+  },
+  "3218": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3221": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3223": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3227": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3233": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3240": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but (d) relies on (c) together with the false general claim that every real square matrix has an eigenvalue. It therefore fails to prove existence of the zero eigenvalue.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) se opíráte o (c) a o nepravdivé obecné tvrzení, že každá reálná čtvercová matice má vlastní číslo. Existence vlastního čísla 0 proto není dokázána."
+  },
+  "3241": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3242": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3253": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3254": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3256": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but the determinant/eigenvalue chain in (d) is not valid and does not establish that A is singular, so existence of the zero eigenvalue remains unproved.",
+    "feedback": "Části (a)–(c) jsou správně. Řetězec úvah s determinantem a vlastními čísly v (d) není platný a neprokazuje singularitu A. Existence vlastního čísla 0 tak zůstává bez důkazu."
+  },
+  "3259": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3260": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3261": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3264": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but (d) merely says it follows from (c) and never proves singularity or otherwise establishes existence of an eigenvalue.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) pouze odkazujete na (c), která ale existenci vlastního čísla nezaručuje. Chybí důkaz singularity A nebo jiné platné zdůvodnění existence vlastního čísla 0."
+  },
+  "3265": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3269": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3275": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3277": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3281": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3283": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but (d) incorrectly treats A^n=0 as if it implied that A itself is zero or immediately has dependent rows. The required singularity argument is absent.",
+    "feedback": "Části (a)–(c) jsou správně. V (d) zacházíte s podmínkou A^n=0, jako by přímo znamenala A=0 nebo lineární závislost řádků A. Takový závěr bez dalšího neplyne a důkaz singularity chybí."
+  },
+  "3284": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3288": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3294": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3295": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3297": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3301": {
+    "points": 3.75,
+    "correct": false,
+    "justification": "The solution is essentially correct, but (d) writes det(A)=det(0) directly from A^n=0 instead of first taking det(A^n)=det(0). The surrounding determinant-power argument makes the intent clear.",
+    "feedback": "Řešení je téměř úplné. V (d) z A^n=0 zapisujete přímo det(A)=det(0), místo aby se nejprve vzal determinant rovnosti det(A^n)=det(0). Následující práce s mocninou determinantu záměr objasňuje, ale první rovnost je chybná."
+  },
+  "3310": {
+    "points": 3,
+    "correct": false,
+    "justification": "Parts (a)–(c) are correct, but part (d) is only marked true and contains no proof, despite the explicit requirement to prove true statements.",
+    "feedback": "Části (a)–(c) jsou správně. U (d) pouze uvádíte, že tvrzení platí, ale nepřikládáte žádný důkaz, ačkoli zadání důkaz platných tvrzení výslovně požaduje."
+  },
+  "3318": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3320": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3332": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3339": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3340": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3344": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3346": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3347": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3350": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3351": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3356": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3403": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  },
+  "3407": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response classifies all four statements correctly and supplies valid eigenvector arguments, the identity counterexample, and a sound proof that a nilpotent matrix is singular.",
+    "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
+  }
+}

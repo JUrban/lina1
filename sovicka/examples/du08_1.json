@@ -1,0 +1,185 @@
+{
+  "2398": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2398/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3198/attachment_0.jpg"
+      }
+    ],
+    "points": 0.5
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 8.1.\n\nRoviny jsou linearní obaly vektorů $\\left\\{ \\left(\\begin{array}{c} -2 \\\\ 3 \\\\ 5 \\end{array}\\right);\\left(\\begin{array}{c} -1 \\\\ 0 \\\\ 1 \\end{array}\\right) \\right\\}$ resp. $\\left\\{ \\left(\\begin{array}{c} -2 \\\\ 3 \\\\ 5 \\end{array}\\right);\\left(\\begin{array}{c} 0 \\\\ 1 \\\\ -2 \\end{array}\\right) \\right\\}$  a pro první případ tvoří báze rovnou pro zůžené zobrazení Jordanovu matici. Pro Druhý je báze ve kterém je zužené zobrazení tvořena vektory $\\left\\{ \\left(\\begin{array}{c} 0 \\\\ 2 \\\\ -4 \\end{array}\\right);\\left(\\begin{array}{c} -4 \\\\ 7 \\\\ 8 \\end{array}\\right) \\right\\}$ \n\n### Důkaz\n\nDle tvrzení 9.110 ze skripter nám stačí nalézt Jordanův řetízek splňující podmínku ze zadání. Matice má dvě vlastní čísla (-1 a 2) o algebraických násobnostech 1 a 2. Řetízky budou jeden pro číslo 2 $\\left(\\begin{array}{c} 0 \\\\ 1 \\\\ -2 \\end{array}\\right) \\to \\left(\\begin{array}{c} -2 \\\\ 3 \\\\ 5 \\end{array}\\right) \\to 0$ a pro číslo -1 $\\left(\\begin{array}{c} -1 \\\\ 0 \\\\ 1 \\end{array}\\right) \\to 0$\n\nJelikož těchto vektorů není mnoho, stačí ověřit jestli linearní obal jejich zobrazení spadá do toho samého prostoru jako lineární obal vektorů samotných. To platí pro dva víše uvedené páry. Poté stačí jedině vyjádřit vektory zobrazení v bázi vektorů z řetízků. V případě, že matice vzniklá z těchto vektorů nebude v Jordanově tvaru stačí nalézt bázi pro kterou bude nejprve pomocí nalezení báze pro matici v původní bázi a poté upravením původní báze."
+      }
+    ],
+    "points": 1.0
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3238/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3225": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3225/attachment_0.jpg"
+      }
+    ],
+    "points": 2.5
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2888/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2935/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3188/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3264/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3045/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/2464/attachment_1.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3403/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3320/attachment_1.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3038": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3038/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/2430/attachment_1.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2968/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/2874/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2202": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/2202/attachment_0.jpg"
+      }
+    ],
+    "points": 2.5
+  },
+  "3111": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_1/3111/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_1/3305/attachment_0.jpg"
+      }
+    ],
+    "points": 2.5
+  }
+}

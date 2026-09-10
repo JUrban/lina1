@@ -1,0 +1,181 @@
+{
+  "2924": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2924/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3009": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_2/3009/attachment_0.jpg"
+      }
+    ],
+    "points": 1.5
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2888/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/3268/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "2736": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2736/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2956": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2956/attachment_2.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3299": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/3299/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2377/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3345": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_2/3345/attachment_1.jpg"
+      }
+    ],
+    "points": 2.5
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2866/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3283": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du06_2/3283/attachment_0.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du06_2/3281/attachment_0.png"
+      }
+    ],
+    "points": 4.0
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/3205/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3244": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/3244/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/3238/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2968/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3223": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/3223/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Zavedieme súradnice na $\\bold{V}$, s bázou $K = ((1, 0)^T, (0, 1)^T)$ pričom $(1, 0)^T = [(2, 1, 0, 1)]_K$ a $(0, 1)^T = [(1, 0, 1, 2)^T]_K$. Potom matica:\n$$\n[f]_K^K = \\left(\\begin{array}{cc} 1 & 2 \\\\ 2 & -2 \\end{array}\\right)\n$$\n, čo sme dostali z podmienky. \n\nNech $B = ((2, 1)^T, (-1, 2)^T)$. Potom:\n$$\n[f]_B^B = \\left(\\begin{array}{cc} 2 & 0 \\\\ 0 & -3 \\end{array}\\right) \\\\\n[f^n]_B^B = \\left(\\begin{array}{cc} 2^n & 0 \\\\ 0 & -3^n \\end{array}\\right)\n$$ \nĎalej:\n$$\n[id]_B^K = \\frac{1}{5}\\left(\\begin{array}{cc} 2 & 1 \\\\ -1 & 2 \\end{array}\\right) \\\\\n[id]^K_B = \\left(\\begin{array}{cc} 2 & -1 \\\\ 1 & 2 \\end{array}\\right)\n$$\nTo znamená, že:\n$$\n[f^n]_K^K = \\left(\\begin{array}{cc} 2 & -1 \\\\ 1 & 2 \\end{array}\\right)\\left(\\begin{array}{cc} 2^n & 0 \\\\ 0 & -3^n \\end{array}\\right)\\frac{1}{5}\\left(\\begin{array}{cc} 2 & 1 \\\\ -1 & 2 \\end{array}\\right) = \n$$\nĎalej [(5, 1, 3, 7)^T]_K = (1, 3)^T. Takže:\n$$\n\\begin{align*}\n[f^n((5, 1, 3, 7)^T)]_K &= \\left(\\begin{array}{cc} 2 & -1 \\\\ 1 & 2 \\end{array}\\right)\\left(\\begin{array}{cc} 2^n & 0 \\\\ 0 & -3^n \\end{array}\\right)\\frac{1}{5}\\left(\\begin{array}{cc} 2 & 1 \\\\ -1 & 2 \\end{array}\\right)(1, 3)^T \\\\\n&=\\left(\\begin{array}{cc} 2 & -1 \\\\ 1 & 2 \\end{array}\\right)\\left(\\begin{array}{cc} 2^n & 0 \\\\ 0 & -3^n \\end{array}\\right)(1, 1)^T \\\\\n&=\\left(\\begin{array}{c} 2^n -3^n \\\\ 2^n + 2\\cdot 3^n \\end{array}\\right)\n\\end{align*}\n$$\nTo znamená, že $f^n((5, 1, 3, 7)^T) = (2^n - 3^n)(4, 1, 2, 5)^T + (2^n + 2 \\cdot 3^n)(1, 0, 1, 2)^T$."
+      }
+    ],
+    "points": 2.0
+  },
+  "2869": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/2869/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3188": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du06_2/3188/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  }
+}

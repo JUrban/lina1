@@ -1,0 +1,180 @@
+{
+  "2968": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/2968/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 11.2.\n\nMatice bude $\\left(\\begin{array}{c} \\frac{1}{3} & \\frac{1}{3} & \\frac{1}{3} \\\\ \\frac{1}{9} & \\frac{1}{9} & -\\frac{2}{9} \\\\ \\frac{1}{9} & -\\frac{2}{9} & \\frac{1}{9} \\\\ -\\frac{2}{9} & \\frac{1}{9} & \\frac{1}{9} \\end{array}\\right)$\n\n### Důkaz\n\nPokud matice bereme jako lineární zobrazení, dle prvního úkolu lze matici A vyjádřit jako $D = [A]^{V}_{U}$, kde je matice D nám známa (V a U jsou v tomto případě prostory určené ortogonálními maticemi z rozkladu ze cvičení A). B lze podobně vyjádřit jako $E = [B]^{U}_{V}$. V této bázi pořád platí že $DED=D$ a $EDE=E$.\n\nZ těchto rovnic vyplývá, že $DE=I$. $D(ED)=E$ tehdy, pokud $ED$ je například čtvercová matice diag$(1;1;1;0)$. Z toho lze jednodušše odvodit že matice E bude $\\left(\\begin{array}{c} \\frac{1}{\\sqrt{3}} & 0 & 0 \\\\ 0 &  \\frac{1}{3} & 0 \\\\ 0 & 0 & \\frac{1}{3} \\\\ 0 & 0 & 0 \\end{array}\\right)$.\n\nMatice B lze jednodušše získat výpočtem $B = UEV^T$."
+      }
+    ],
+    "points": 3.0
+  },
+  "3339": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3339/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3331/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3136": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3136/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3077": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_2/3077/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "2917": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/2917/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2866": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/2866/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/2760/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3253": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_2/3253/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_2/3025/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "3254": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3254/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "2865": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/2865/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3346": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3346/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3301": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3301/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3218": {
+    "solution": [
+      {
+        "msg": "&nbsp; Z úlohy $(11.1)$ poznáme maticu $D = D_1^T$ zo singulárneho rozkladu $A = VD_1^TU^T = VDU^T$, t.j.\n$$\nD=\n\\begin{pmatrix}\n3&0&0&0\\\\\n0&3&0&0\\\\\n0&0&\\sqrt3&0\n\\end{pmatrix}\n$$\nNájdeme maticu $E$, ktorá spĺňa požadované vlastnosti pre maticu $D$, teda\n$$DED = D, \\qquad EDE = E, \\qquad DE, ED \\, \\text{  sú symetrické}$$\nVieme jednoducho zvoliť pravý inverz matice $D$ (existuje, keďže $\\text{rank}(D) = 3$), pretože potom sú splnené prvé tri podmienky triviálne\n$$DED = I_3D = D, \\qquad EDE = EI_3 = E, \\qquad DE = I_3\\, \\text{ je symetrická}$$\nPretože je $D$ diagonálna, inverz dostávame rovno ako\n$$E =\n\\begin{pmatrix}\n\\frac{1}{3}&0&0\\\\\n0&\\frac{1}{3}&0\\\\\n0&0&\\frac{1}{\\sqrt3}\\\\\n0&0&0\n\\end{pmatrix}\n$$\nZostáva overiť poslednú podmienku, teda\n$$ED = \n\\begin{pmatrix}\n\\frac{1}{3}&0&0\\\\\n0&\\frac{1}{3}&0\\\\\n0&0&\\frac{1}{\\sqrt3}\\\\\n0&0&0\n\\end{pmatrix}\n\\begin{pmatrix}\n3&0&0&0\\\\\n0&3&0&0\\\\\n0&0&\\sqrt3&0\n\\end{pmatrix}\n=\n\\begin{pmatrix}\n1&0&0&0\\\\\n0&1&0&0\\\\\n0&0&1&0\\\\\n0&0&0&0\n\\end{pmatrix}$$\nčo je skutočne diagonálna matica.\n&nbsp; Teraz nájdeme požadovanú maticu $B$. Chceme aby spĺňala podmienku\n$$ABA = A \\iff (VDU^T)B(VDU^T) = VDU^T \\iff DU^TBVD = D$$\nkde posledná ekvivalencia platí z toho, že matice $V, U^T$ sú obe invertovateľné z ortogonality. Ak teda zvolíme maticu $B$ spĺňajúcu $U^TBV = E$, táto podmienka bude splnená, pretože\n$$ABA = A \\iff DU^TBVD = D \\iff DED = D$$\nZ ortogonality $U^T, V$ potom \n$$U^TBV = E \\iff B = (U^T)^{-1}EV^{-1} = UEV^T$$\nZostáva overiť, že takto zvolená matica $B$ spĺňa zvyšné tri podmienky:\n$$BAB = B \\iff (UEV^T)(VDU^T)(UEV^T) = UEV^T \\iff UE(V^TV)D(U^TU)EV^T = UEV^T\\\\\n\\iff EDE = E$$\nteda aj táto podmienka je splnená (jednotlivé ekvivalencie platia z asociativity maticového násobenia a z ortogonality $U, V, U^T, V^T$). Tieto vlastnosti budeme ďalej využívať bez zdôvodnenia. Potom\n$$AB = (VDU^T)(UEV^T) = VD(U^TU)EV^T = VDEV^T = VI_3V^T = VV^T = I_3$$\nčo je symetrická matica, teda aj táto podmienka je splnená. Ďalej\n$$BA = (UEV^T)(VDU^T) = UE(V^TV)DU^T = UEDU^T = U\n\\begin{pmatrix}\nI_3&0\\\\\n0&0\n\\end{pmatrix}\nU^T\n$$\nOveríme, že táto matica je symetrická\n$$(BA)^T = (U^T)^T\n\\begin{pmatrix}\nI_3&0\\\\\n0&0\n\\end{pmatrix}^T\nU^T = U\n\\begin{pmatrix}\nI_3&0\\\\\n0&0\n\\end{pmatrix}\nU^T = BA$$\nMatica B je teda hľadanou maticou a finálne ju explicitne vyjadríme ako\n$$\nB\n=\nUEV^T\n=\n\\begin{pmatrix}\n0 & 0 & 1 & 0\\\\\n0 & \\frac{2}{\\sqrt6} & 0 & \\frac1{\\sqrt3}\\\\\n-\\frac1{\\sqrt2} & -\\frac1{\\sqrt6} & 0 & \\frac1{\\sqrt3}\\\\\n\\frac1{\\sqrt2} & -\\frac1{\\sqrt6} & 0 & \\frac1{\\sqrt3}\n\\end{pmatrix}\n\\begin{pmatrix}\n\\frac13&0&0\\\\\n0&\\frac13&0\\\\\n0&0&\\frac1{\\sqrt3}\\\\\n0&0&0\n\\end{pmatrix}\n\\begin{pmatrix}\n-\\frac1{\\sqrt2} & \\frac1{\\sqrt6} & \\frac1{\\sqrt3}\\\\\n\\frac1{\\sqrt2} & \\frac1{\\sqrt6} & \\frac1{\\sqrt3}\\\\\n0 & -\\frac2{\\sqrt6} & \\frac1{\\sqrt3}\n\\end{pmatrix}^{T} = \\\\[2ex]\n=\n\\begin{pmatrix}\n\\frac13&\\frac13&\\frac13\\\\\n\\frac19&\\frac19&-\\frac29\\\\\n\\frac19&-\\frac29&\\frac19\\\\\n-\\frac29&\\frac19&\\frac19\n\\end{pmatrix}\n$$"
+      }
+    ],
+    "points": 4.0
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3205/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du11_2/1771/attachment_0.jpg"
+      }
+    ],
+    "points": 4.0
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/273/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du11_2/3045/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  }
+}

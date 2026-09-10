@@ -1,0 +1,360 @@
+{
+  "2518": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2518/attachment_0.pdf"
+      }
+    ]
+  },
+  "3271": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3271/attachment_0.pdf"
+      }
+    ]
+  },
+  "3283": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3283/attachment_0.jpg"
+      }
+    ]
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2935/attachment_0.pdf"
+      }
+    ]
+  },
+  "2430": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/2430/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/2430/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/2430/attachment_2.jpg"
+      }
+    ]
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3221/attachment_0.jpg"
+      }
+    ]
+  },
+  "3060": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3060/attachment_0.pdf"
+      }
+    ]
+  },
+  "2923": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2923/attachment_0.pdf"
+      }
+    ]
+  },
+  "2511": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2511/attachment_0.pdf"
+      }
+    ]
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3025/attachment_0.jpg"
+      }
+    ]
+  },
+  "2871": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2871/attachment_0.pdf"
+      }
+    ]
+  },
+  "3041": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3041/attachment_0.pdf"
+      }
+    ]
+  },
+  "2889": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2889/attachment_0.pdf"
+      }
+    ]
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3268/attachment_0.pdf"
+      }
+    ]
+  },
+  "1771": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/1771/attachment_0.jpg"
+      }
+    ]
+  },
+  "3256": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3256/attachment_0.pdf"
+      }
+    ]
+  },
+  "3241": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3241/attachment_0.pdf"
+      }
+    ]
+  },
+  "3318": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3318/attachment_0.pdf"
+      }
+    ]
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3238/attachment_0.pdf"
+      }
+    ]
+  },
+  "3277": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3277/attachment_0.pdf"
+      },
+      {
+        "msg": "**Vypracovali**\n- Štěpán Kovačič (32242782)\n- Lukáš Novák (11240823)"
+      }
+    ]
+  },
+  "3351": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3351/attachment_0.pdf"
+      }
+    ]
+  },
+  "3057": {
+    "solution": [
+      {
+        "msg": "Zo zadania dostávame:\n$$\n\\frac{1}{10}\n\\left(\n\\begin{array}{cc}\n13 & -5 \\\\\n1 & 7\n\\end{array}\n\\right)\n\\left(\n\\begin{array}{c}\nk_n \\\\\nz_n\n\\end{array}\n\\right)\n=\n\\left(\n\\begin{array}{c}\nk_{n+1} \\\\\nz_{n+1}\n\\end{array}\n\\right)\n$$\nNájdeme vlastné čísla a im príslušné vektory matice vyššie:\n$$\n\\text{det}\\left(\n\\begin{array}{cc}\n13-\\lambda & -5 \\\\\n1 & 7-\\lambda\n\\end{array}\n\\right) = \n(\\lambda - 8)(\\lambda - 12)\n$$\nDosadíme $\\lambda = 8$ a chceme nájsť $x$, že:\n$$\n\\left(\n\\begin{array}{cc}\n5 & -5 \\\\\n1 & -1\n\\end{array}\n\\right)x = 0\n$$\nVlastný vektor je napríklad $(1, 1)^T$. Dosadíme $\\lambda = 12$:\n$$\n\\left(\n\\begin{array}{cc}\n1 & -5 \\\\\n1 & -5\n\\end{array}\n\\right)\n$$\nVlastný vektor je napríklad $(5, 1)^T$. Takže dostávame rovnosť:\n$$\n\\left(\n\\begin{array}{cc}\n13 & -5 \\\\\n1 & 7\n\\end{array}\n\\right) = \n\\left(\n\\begin{array}{cc}\n1 & 5 \\\\\n1 & 1\n\\end{array}\n\\right)\n\\left(\n\\begin{array}{cc}\n8 & 0 \\\\\n0 & 12\n\\end{array}\n\\right)\n\\left(\n\\begin{array}{cc}\n\\frac{-1}{4} & \\frac{5}{4} \\\\\n\\frac{1}{4} & \\frac{-1}{4}\n\\end{array}\n\\right)\n$$\npričom prvá a posledná matica sú ku sebe inverzné. To znamená, že dostávame:\n$$\n\\frac{1}{10^n}\n\\left(\n\\begin{array}{cc}\n1 & 5 \\\\\n1 & 1\n\\end{array}\n\\right)\n\\left(\n\\begin{array}{cc}\n8^n & 0 \\\\\n0 & 12^n\n\\end{array}\n\\right)\n\\left(\n\\begin{array}{cc}\n\\frac{-1}{4} & \\frac{5}{4} \\\\\n\\frac{1}{4} & \\frac{-1}{4}\n\\end{array}\n\\right)\n\\left(\n\\begin{array}{c}\nk_0 \\\\\nz_0\n\\end{array}\n\\right)\n=\n\\left(\n\\begin{array}{c}\nk_n \\\\\nz_n\n\\end{array}\n\\right)\n$$\nPo úprave:\n$$\n\\frac{1}{10^n}\n\\left(\n\\begin{array}{cc}\n15\\cdot 12^{n-1}-2\\cdot 8^{n-1} & 10\\cdot 8^{n-1} - 15 \\cdot 12^{n-1} \\\\\n3\\cdot 12^{n-1} - 2\\cdot8^{n-1} & 10\\cdot 8^{n-1} - 3\\cdot 12^{n-1}\n\\end{array}\n\\right)\n\\left(\n\\begin{array}{c}\nk_0 \\\\\nz_0\n\\end{array}\n\\right)\n=\n\\left(\n\\begin{array}{c}\nk_n \\\\\nz_n\n\\end{array}\n\\right)\n$$\nKeď chceme skúmať správanie pre $n \\to \\infty$, stačí sa pozerať v každej zložke len na exponenciály s najväčšou bázov. \n\nAk $k_0 < z_0$, tak je vidno, že po prenásobení vektorom $(k_0, z_0)$ bude pre veľké $n$ prvá zložka $(k_0, z_0)$ záporná, teda ekosystém zlyhá.\n\nAk $k_0 = z_0$, po prenásobení dostávame, že $(k_n, z_n)^T = \\frac{1}{10^n}(8^n, 8^n)^T$, teda obe zložky idú do $0$.\n\nAk $k_0 > z_0$, potom existuje kladné $c$, že $\\frac{k_0}{z_0} - 1 = c$. Pre veľké $n$ sa bude prvá zložka správať ako $\\frac{1}{10^n}(z_0c15\\cdot 12^{n-1})$ a druhá zložka ako $\\frac{1}{10^n}(z_0c3\\cdot 12^{n-1})$. Teda pomer $\\frac{k_n}{z_n}$ limití do $5$ a obe premenné rastú do nekonečna.\n\nZhrnutím týchto troch prípadov dostávame, že (a) potrebujeme aby $z_0 < k_0$ a potom $\\frac{k_n}{z_n}$ limití do $5$. A (b) dostávame, ak $k_0 \\leq z_0$."
+      }
+    ]
+  },
+  "3305": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3305/attachment_0.jpg"
+      }
+    ]
+  },
+  "3089": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3089/attachment_0.pdf"
+      }
+    ]
+  },
+  "2760": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2760/attachment_0.pdf"
+      }
+    ]
+  },
+  "3240": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3240/attachment_0.pdf"
+      }
+    ]
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3331/attachment_0.pdf"
+      }
+    ]
+  },
+  "3350": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3350/attachment_0.pdf"
+      }
+    ]
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3403/attachment_0.pdf"
+      }
+    ]
+  },
+  "2862": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/2862/attachment_0.jpg"
+      }
+    ]
+  },
+  "2874": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2874/attachment_0.pdf"
+      }
+    ]
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/273/attachment_0.pdf"
+      }
+    ]
+  },
+  "1654": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/1654/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/1654/attachment_1.jpg"
+      }
+    ]
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3076/attachment_0.pdf"
+      }
+    ]
+  },
+  "3002": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3002/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3002/attachment_1.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3002/attachment_2.jpg"
+      }
+    ]
+  },
+  "3344": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3344/attachment_0.jpg"
+      }
+    ]
+  },
+  "3142": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du09_1/3142/attachment_0.jpg"
+      }
+    ]
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2858/attachment_0.pdf"
+      }
+    ]
+  },
+  "3259": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3259/attachment_0.pdf"
+      }
+    ]
+  },
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3205/attachment_1.pdf"
+      }
+    ]
+  },
+  "3045": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/3045/attachment_1.pdf"
+      }
+    ]
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du09_1/2940/attachment_0.pdf"
+      }
+    ]
+  }
+}

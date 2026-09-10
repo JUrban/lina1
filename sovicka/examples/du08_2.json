@@ -1,0 +1,181 @@
+{
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3076/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3250": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3250/attachment_0.jpg"
+      }
+    ],
+    "points": 1.0
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 8.2.\n\nNejprve upravíme výraz na $A\\left(A-i\\right)^2\\left(A+i\\right)^2 =0$\n\nK důkazu použijeme Cayleyho-Hamiltonovu větu. Pokud by jsme dosadili vlastní čísla do polynomu výše, nebyl by to charakteristický polynom matice, jelikož polynom dané matice může být stupně nejvýše 3. Víme ale že pro charakteristický polynom matice platí že pokud do něho dosadíme matici, bude se rovnat matici nulové. Zpětně můžeme zpozorovat, že polynom matice bude podobný výše napsanému výrazu, a bude stupně 3. Tento polynom bude tedy mít kořeny 0, i nebo -i.\n\nKaždé z těchto čísel bude mít v takto vytovřeném polynomu ale násobnost 1 v případě 0 a specifickém případě  $x\\left(x-i\\right)\\left(x+i\\right)$ nebo 2 v ostatních polynomech pro i a -i. Jelikož vlastní čísla mají vždy algebraickou násobnost dohromady 3, matice bude vždy diagonalizovatlená."
+      }
+    ],
+    "points": 1.5
+  },
+  "3221": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3221/attachment_0.jpg"
+      }
+    ],
+    "points": 2.0
+  },
+  "1989": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/1989/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3261/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3115/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3166": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3166/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "2858": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2858/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "273": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/273/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3403": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3403/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3025": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/3025/attachment_0.jpg"
+      }
+    ],
+    "points": 2.0
+  },
+  "2464": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du08_2/2464/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "2888": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2888/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3174/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "2935": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/2935/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3238": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3238/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3320": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3320/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3331/attachment_0.pdf"
+      }
+    ],
+    "points": 1.0
+  },
+  "3268": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du08_2/3268/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "3205": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3205/attachment_0.pdf"
+      }
+    ],
+    "points": 0.0
+  },
+  "3174": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3174/attachment_1.pdf"
+      },
+      {
+        "msg": "Obsahuje řešení obou příkladů z DÚ."
+      }
+    ],
+    "points": 2.0
+  },
+  "3272": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3272/attachment_0.jpg"
+      },
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3272/attachment_1.jpg"
+      }
+    ],
+    "points": 2.5
+  },
+  "2377": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2377/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3075": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3075/attachment_0.pdf"
+      },
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3075/attachment_1.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3000": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3000/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3264": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3264/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3295": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3295/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3198": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/3198/attachment_0.jpg"
+      }
+    ],
+    "points": 3.0
+  },
+  "3407": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3407/attachment_0.pdf"
+      }
+    ],
+    "points": 3.5
+  },
+  "3331": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3331/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3076": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3076/attachment_0.pdf"
+      }
+    ],
+    "points": 2.0
+  },
+  "3131": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3131/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3115": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3115/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "2562": {
+    "solution": [
+      {
+        "msg": "Attachment (jpg)",
+        "attachment": "sovicka/attachments/du01_1/2562/attachment_0.jpg"
+      }
+    ],
+    "points": 3.5
+  },
+  "2940": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/2940/attachment_0.pdf"
+      }
+    ],
+    "points": 4.0
+  },
+  "3261": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3261/attachment_0.pdf"
+      }
+    ],
+    "points": 2.5
+  },
+  "3121": {
+    "solution": [
+      {
+        "msg": "Attachment (pdf)",
+        "attachment": "sovicka/attachments/du01_1/3121/attachment_0.pdf"
+      }
+    ],
+    "points": 3.0
+  },
+  "3239": {
+    "solution": [
+      {
+        "msg": "## Úkol 1.1\n\nDůkaz $Re(\\langle \\mathbf{u}; \\mathbf{v} \\rangle) = \\frac{1}{4}(\\|\\mathbf{u}+\\mathbf{v}\\|^{2}-\\|\\mathbf{u}-\\mathbf{v} \\|^2 )$ lze provést převedením pravé strany do tvaru podobného levé straně. Pravá strana bude totiž:\n\n$$\\frac{1}{4}(\\|\\mathbf{u}+\\mathbf{v}\\|^{2}-\\|\\mathbf{u}-\\mathbf{v} \\|^2 ) = \\frac{1}{4}(\\langle \\mathbf{u}+\\mathbf{v};\\mathbf{u}+\\mathbf{v} \\rangle - \\langle \\mathbf{u}-\\mathbf{v};\\mathbf{u}-\\mathbf{v} \\rangle) = \\frac{1}{4}(\\langle \\mathbf{u}; \\mathbf{u} \\rangle + \\langle \\mathbf{u}; \\mathbf{v} \\rangle + \\langle \\mathbf{v}; \\mathbf{u} \\rangle + \\langle \\mathbf{v}; \\mathbf{v} \\rangle - \\langle \\mathbf{u}; \\mathbf{u} \\rangle + \\langle \\mathbf{u}; \\mathbf{v} \\rangle + \\langle \\mathbf{u}; \\mathbf{v} \\rangle - \\langle \\mathbf{v}; \\mathbf{v} \\rangle) = \\frac{1}{2}(\\langle \\mathbf{u}; \\mathbf{v} \\rangle + \\langle \\mathbf{v}; \\mathbf{u} \\rangle) = \\frac{1}{2}(\\langle \\mathbf{u}; \\mathbf{v} \\rangle \\overline{\\langle \\mathbf{u}; \\mathbf{v} \\rangle})$$\n\nZ definice komplexního združení plyne že $\\bar{z} + z = 2Re(z)$ a tedy se naše pravá strana rovná $\\frac{2}{2}Re(\\langle \\mathbf{u}; \\mathbf{v} \\rangle)$ což je to samé co levá strana.\n\nDůkaz $Im(\\langle \\mathbf{u}; \\mathbf{v} \\rangle) = \\frac{1}{4}(\\|\\mathbf{u}-i\\mathbf{v}\\|^{2}-\\|\\mathbf{u}+i\\mathbf{v} \\|^2 )$ se provede analogicky:\n\n$$\\frac{1}{4}(\\|\\mathbf{u}-i\\mathbf{v}\\|^{2}-\\|\\mathbf{u}+i\\mathbf{v} \\|^2) = \\frac{1}{4}(\\langle \\mathbf{u}-i\\mathbf{v}; \\mathbf{u}-i\\mathbf{v} \\rangle - \\langle \\\\mathbf{u}+i\\mathbf{v}; \\mathbf{u}+i\\mathbf{v} \\rangle) = \\frac{1}{4}(\\langle \\mathbf{u}; \\mathbf{u} \\rangle + \\langle -i\\mathbf{v}; \\mathbf{u} \\rangle + \\langle \\mathbf{u}; -i\\mathbf{v} \\rangle)+\\langle -i\\mathbf{v}; -i\\mathbf{v} \\rangle - \\langle \\mathbf{u}; \\mathbf{v} \\rangle - \\langle i\\mathbf{v}; \\mathbf{v} \\rangle - \\langle \\mathbf{u}; i\\mathbf{v} \\rangle - \\langle i\\mathbf{v}; i\\mathbf{v} \\rangle)$$\n\nDalší krok není tak jednoduchý jako u prvního tvrzení, jelikož u vektorového součinu platí že $\\langle a\\mathbf{u}; b\\mathbf{v} \\rangle = \\bar{a}b\\langle \\mathbf{u}; \\mathbf{v} \\rangle$. Pravou stranu lze tedy dále rozvinout:\n\n$$\\frac{1}{4}(i\\langle \\mathbf{v}; \\mathbf{u} \\rangle + i\\langle \\mathbf{v}; \\mathbf{u} \\rangle - i\\langle \\mathbf{u}; \\mathbf{v} \\rangle - i\\langle \\mathbf{u}; \\mathbf{v} \\rangle  + \\langle \\mathbf{v}; \\mathbf{v} \\rangle - \\langle \\mathbf{v}; \\mathbf{v} \\rangle = \\frac{1}{2}(i\\langle \\mathbf{v}; \\mathbf{u} \\rangle - i\\langle \\mathbf{u}; \\mathbf{v} \\rangle) = \\frac{1}{2}(i\\overline{\\langle \\mathbf{u}; \\mathbf{v} \\rangle} - i\\langle \\mathbf{u}; \\mathbf{v} \\rangle)$$\n\nJelikož skalární součet bude nějaké číslo v $\\mathbb{C}$, bude ve tvaru $a+ib$ kde a a b jsou prvky $\\mathbb{R}$. Poslední řádek tedy lze zapsat jako $\\frac{1}{2}(i(a-ib)-i(a+ib))=\\frac{1}{2}(ai+b-ai+b) = b$, což je $Im(\\langle \\mathbf{u}; \\mathbf{v} \\rangle)$"
+      }
+    ],
+    "points": 3.5
+  },
+  "3281": {
+    "solution": [
+      {
+        "msg": "Attachment (png)",
+        "attachment": "sovicka/attachments/du01_1/3281/attachment_0.png"
+      }
+    ],
+    "points": 4.0
+  }
+}

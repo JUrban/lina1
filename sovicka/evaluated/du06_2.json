@@ -1,0 +1,758 @@
+{
+  "273": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "1654": {
+    "points": 3,
+    "justification": "The matrix, eigenvalues, and eigendirections are correct, but the -3 eigendirection is raised as 3^n rather than (-3)^n, so the result is wrong for odd n; the follow-up only supplies the omitted vector.",
+    "feedback": "Matice operátoru, vlastní čísla i vlastní směry jsou určeny správně. V závěru však u vlastního čísla -3 používáte 3^n místo (-3)^n, takže pro lichá n vyjde chybné znaménko. Doplňující zpráva určuje chybějící vektor, ale chybu v mocnině neopravuje.",
+    "correct": false
+  },
+  "1771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2125": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2202": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2398": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2401": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2430": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2464": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2517": {
+    "points": 1,
+    "justification": "The proposed basis vectors are not vectors of V, so the diagonalization does not describe the given operator; the final formula already fails at n=0.",
+    "feedback": "Zvolené vektory (4,2,-3,1) a (0,1,2,3) netvoří bázi prostoru V; první z nich do V ani nepatří. Následná diagonalizace proto nepopisuje zadaný operátor a výsledný vzorec nevrátí pro n=0 původní vektor (5,1,3,7).",
+    "correct": false
+  },
+  "2518": {
+    "points": 3,
+    "justification": "The setup and eigendirections are correct, but the contribution of eigenvalue -3 is written using 3^n, losing the alternating sign.",
+    "feedback": "Postup přes matici operátoru a vlastní vektory je správný. Ve výsledku je však příspěvek vlastního čísla -3 umocněn jako 3^n, nikoli (-3)^n; tím se ztratí střídání znaménka a vzorec je chybný pro lichá n.",
+    "correct": false
+  },
+  "2743": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2764": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2815": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2826": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2847": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2857": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2859": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2862": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2864": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2871": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2874": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2876": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2877": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2881": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2886": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2887": {
+    "points": 3,
+    "justification": "The diagonalization framework is correct, but the final expression replaces the power (-3)^n by a non-alternating 3^n contribution.",
+    "feedback": "Matice i diagonalizace jsou v zásadě správně. Závěrečný vzorec ale nezachovává znaménko záporného vlastního čísla: místo (-3)^n pracuje s 3^n, takže liché mocniny vycházejí nesprávně.",
+    "correct": false
+  },
+  "2900": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2901": {
+    "points": 1.5,
+    "justification": "The eigenvectors are placed in one order while the diagonal entries are used in the opposite order, so the change-of-basis computation and final vector are incorrect.",
+    "feedback": "Vlastní čísla a jednotlivé vlastní vektory jsou nalezeny, ale jejich pořadí v matici přechodu neodpovídá pořadí hodnot 2 a -3 na diagonále. Tato záměna se přenáší do celé mocniny a výsledný vektor proto není obrazem zadaného vektoru.",
+    "correct": false
+  },
+  "2903": {
+    "points": 2,
+    "justification": "The initial matrix and spectral data are useful, but the final component formula is not the result of applying A^n to the input coordinates; it already gives a wrong value for n=1.",
+    "feedback": "Úvodní sestavení matice a nalezení vlastních čísel jsou správné. Závěrečný vektor však nevzniká správným použitím A^n na souřadnice (1,3); po dosazení n=1 nedává předepsaný obraz (10,7,-5,-1). Chyba tedy zasahuje výsledný vzorec, ne pouze jeho úpravu.",
+    "correct": false
+  },
+  "2917": {
+    "points": 3,
+    "justification": "The solution is otherwise sound, but the first coefficient in the original basis has the wrong sign on the (-3)^n term.",
+    "feedback": "Postup i druhý koeficient jsou správné. U koeficientu prvního bázového vektoru je však znaménko u (-3)^n opačné: má jít o 2^(n+1)-(-3)^n. Tato chyba mění více složek výsledného vektoru.",
+    "correct": false
+  },
+  "2918": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2922": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2935": {
+    "points": 3,
+    "justification": "The spectral decomposition is nearly correct, but the -3 eigenvector is written with first coordinate 1 instead of 0, making the first component of the final formula wrong.",
+    "feedback": "Vlastní čísla a rozklad jsou téměř správné, ale vlastní vektor pro -3 má v R^4 první složku 0, nikoli 1. Kvůli tomu je první složka výsledného vektoru chybná, i když zbývající struktura výpočtu odpovídá správnému postupu.",
+    "correct": false
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2940": {
+    "points": 3.5,
+    "justification": "The final explicit component vector is correct, but the declared order of the eigenbasis, the diagonal matrix, and the labels used in the reconstruction contradict one another.",
+    "feedback": "Konečný explicitní vektor má správné složky. Zápis před ním je však vnitřně rozporný: pořadí vektorů v bázi C neodpovídá pořadí hodnot 2 a -3 na diagonále a při dosazení jsou označení vektorů opět prohozena. Výsledek je správný, ale odvození v této podobě není konzistentní.",
+    "correct": false
+  },
+  "2947": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2948": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2984": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2986": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "2988": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3001": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3003": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3025": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3036": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3039": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3041": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3045": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3056": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3060": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3071": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3072": {
+    "points": 2.5,
+    "justification": "The operator matrix and eigenpairs are correct, but the powers are assigned to the wrong eigendirections in the computed A^n, producing a final expression that fails even at n=0.",
+    "feedback": "Matice operátoru i vlastní čísla a vektory jsou správně. Při násobení diagonalizace jsou však mocniny přiřazeny k opačným vlastním směrům, takže uvedená matice A^n ani výsledný vektor nejsou správné; kontrola pro n=0 už nevrací původní vektor.",
+    "correct": false
+  },
+  "3075": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3076": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3077": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3089": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3090": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3115": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3116": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3121": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3128": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3135": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3142": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3165": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3166": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3167": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3174": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3193": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3194": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3204": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3209": {
+    "points": 3,
+    "justification": "The method and eigenpairs are correct, but one entry of the inverse change-of-basis matrix is 3 instead of 1, and this arithmetic error propagates to the final vector.",
+    "feedback": "Volba báze, vlastní čísla i vlastní vektory jsou správně. V inverzní matici přechodu je však v levém horním rohu použito 3/5 místo 1/5. Tato jediná početní chyba se přenese do výsledku, který proto nesedí ani po dosazení n=0.",
+    "correct": false
+  },
+  "3213": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3218": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3221": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3227": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3231": {
+    "points": 2,
+    "justification": "The work finds the correct two-dimensional operator matrix and relevant eigenvectors, but then embeds it into an unnecessary four-dimensional construction and explicitly stops before computing the requested value.",
+    "feedback": "Správně určujete matici operátoru na V i vlastní směry pro hodnoty 2 a -3. Poté ale přecházíte k nadbytečné čtyřrozměrné matici a výpočet označujete jako nedopočítaný. Požadovaný vzorec pro f^n(5,1,3,7) v odevzdání chybí.",
+    "correct": false
+  },
+  "3233": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3239": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3241": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3242": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3248": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3250": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3254": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3256": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3259": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3260": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3261": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3264": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3265": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3266": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3269": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3272": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3273": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3275": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3277": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3284": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3287": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3288": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3294": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3295": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3298": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3300": {
+    "points": 3,
+    "justification": "The solution reaches the correct coordinate formula in the original basis B but explicitly stops before converting it to the requested vector in R^4.",
+    "feedback": "Matice, diagonalizace a výsledné souřadnice vzhledem k bázi B jsou správné. Řešení však končí právě před převodem těchto dvou souřadnic na čtyřsložkový vektor v R^4, takže požadovaný výsledek není dopsán v cílovém tvaru.",
+    "correct": false
+  },
+  "3301": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3305": {
+    "points": 3,
+    "justification": "The eigenvalues and eigenvectors are correct, but the expansion of the -3 eigenvalue contribution uses non-alternating signs, so the displayed power matrix is not A^n.",
+    "feedback": "Spektrální údaje jsou správné, ale při roznásobení diagonalizace zacházíte se záporným vlastním číslem jako s -3^n místo s (-3)^n. Uvedená matice mocniny proto neplatí obecně; například pro n=0 nedává jednotkovou matici.",
+    "correct": false
+  },
+  "3310": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3314": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3324": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3326": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3332": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3339": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3340": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3346": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3347": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3350": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3351": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3403": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly represents f by [[1,2],[2,-2]], uses eigenvalues 2 and -3 with the corresponding eigendirections, decomposes the input correctly, and gives the resulting vector in R^4 as a formula depending only on n.",
+    "feedback": "Řešení je úplné a správné. Správně určujete matici operátoru, vlastní čísla 2 a -3 i rozklad zadaného vektoru do vlastních směrů. Výsledný vektor v R^4 má správné čtyři složky a zachovává znaménko mocniny (-3)^n."
+  },
+  "3407": {
+    "points": 3,
+    "justification": "The setup is correct, but the first final basis coefficient is (-3)^(n+1)+2^(n+1) rather than 2^(n+1)-(-3)^n, so the answer fails already at n=0.",
+    "feedback": "Matice operátoru, vlastní čísla i změna báze jsou správné. V závěru se však první koeficient změní na (-3)^(n+1)+2^(n+1); správný koeficient má jiný násobek příspěvku záporného vlastního čísla. Uvedený výsledek proto pro n=0 nevrací původní vektor.",
+    "correct": false
+  }
+}
