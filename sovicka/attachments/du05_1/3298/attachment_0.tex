@@ -1,0 +1,70 @@
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[IL2]{fontenc}
+\usepackage[czech]{babel}
+\usepackage{a4wide}
+\usepackage{amsthm,amsmath,amsfonts,amssymb}
+\usepackage{xcolor}
+\usepackage{soul}
+\usepackage{graphicx}
+\title{DÚ LA 5.1}
+\date{}
+\begin{document}
+\maketitle
+\paragraph{} Podmínku na součet prvků v každém sloupci matice $A$ zapíšeme jako maticové násobení a upravíme:
+\begin{align*}
+A^T\begin{pmatrix}
+1\\1\\\vdots\\1
+\end{pmatrix}=\begin{pmatrix}
+a\\a\\\vdots\\a
+\end{pmatrix}=&\begin{pmatrix}
+  a      & 0      & \dots  & 0      \\
+  0      & a      & \dots  & 0      \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0      & 0      & \dots  & a
+\end{pmatrix}\begin{pmatrix}
+1\\1\\\vdots\\1
+\end{pmatrix}\\
+\left(A^T-\begin{pmatrix}
+  a      & 0      & \dots  & 0      \\
+  0      & a      & \dots  & 0      \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0      & 0      & \dots  & a
+\end{pmatrix}\right)\begin{pmatrix}
+1\\1\\\vdots\\1
+\end{pmatrix}=&\textbf{o}
+\end{align*}
+\paragraph*{} Označme
+\[
+B^T:=A^T-\begin{pmatrix}
+  a      & 0      & \dots  & 0      \\
+  0      & a      & \dots  & 0      \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0      & 0      & \dots  & a
+\end{pmatrix}
+\]
+\paragraph*{} Má tedy platit, že $B^T(1, 1,\dots,1)^T=\textbf{o}$, tj. že 0 je vlastním číslem matice $B^T$, a tedy (dle pozorování 9.14) je $B^T$ singulární. Proto je singulární i $B$,\footnote{Pro libovolnou čtvercovou matici $X$ můžeme rovnost $XX^{-1}=I_n$ upravit transponováním na $(X^{-1})^TX^T=I_n$, a tedy $X$ je regulární, právě když je $X^T$ regulární.} a tedy $B$ má vlastní číslo 0 (opět pozorování 9.14), tj. $\exists\;\textbf{o}\neq\textbf{x}\in\textbf{T}^n:B\textbf{x}=\textbf{o}$. Dle tvrzení 4.16, bodu (2) můžeme $B$ nahradit rozdílem $A-$diag$(a, a, \dots, a)$ a dále upravovat:
+\begin{align*}
+\left(A-\begin{pmatrix}
+  a      & 0      & \dots  & 0      \\
+  0      & a      & \dots  & 0      \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0      & 0      & \dots  & a
+\end{pmatrix}\right)\textbf{x}&=\textbf{o}\\
+A\textbf{x}-\begin{pmatrix}
+  a      & 0      & \dots  & 0      \\
+  0      & a      & \dots  & 0      \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0      & 0      & \dots  & a
+\end{pmatrix}\textbf{x}&=\textbf{o}\end{align*}
+\begin{align*}
+A\textbf{x}&=\begin{pmatrix}
+  a      & 0      & \dots  & 0      \\
+  0      & a      & \dots  & 0      \\
+  \vdots & \vdots & \ddots & \vdots \\
+  0      & 0      & \dots  & a
+\end{pmatrix}\textbf{x}\\
+A\textbf{x}&=a\textbf{x}
+\end{align*}
+\paragraph*{} A protože $\textbf{x}\neq\textbf{o}$, je $a$ vlastní číslo matice $A$, což jsme chtěli dokázat.\qed
+\end{document}
