@@ -22,3 +22,10 @@ after changing any evaluation JSON file with:
 ```bash
 node ../export_evaluations.mjs
 ```
+
+## Comparison with teacher grades
+
+The [teacher–model grading comparison](teacher_comparison_report.md) evaluates
+all 2,064 held-out predictions against the scores in `all_exchange`, including
+baselines, per-homework results, justification analysis, audited disagreements,
+and recommendations for a follow-up adjudication experiment.
