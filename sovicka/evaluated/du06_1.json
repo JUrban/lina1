@@ -210,7 +210,7 @@
     "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
   },
   "2892": {
-    "points": 3.75,
+    "points": 3.5,
     "correct": false,
     "justification": "The solution is essentially correct, but in (c) it writes λ^n I=0 instead of the needed vector equality λ^n v=0. The intended eigenvector argument is evident but the displayed statement is not correct as written.",
     "feedback": "Řešení je věcně téměř úplné. V (c) však píšete λ^n I=0 místo potřebné rovnosti λ^n v=0 pro nenulový vlastní vektor v. Zamýšlený argument je zřejmý, ale uvedená rovnost není vepsaná správně."
@@ -432,7 +432,7 @@
     "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
   },
   "3115": {
-    "points": 3.75,
+    "points": 3.5,
     "correct": false,
     "justification": "The intended solution is correct, but part (c) initially writes A^n x=λx rather than A^n x=λ^n x and then uses the latter conclusion. This is a minor but real inconsistency in the proof.",
     "feedback": "Zamýšlené řešení je správné, ale v (c) nejprve píšete A^n x=λx místo A^n x=λ^n x a následně používáte druhou z těchto rovností. Jde o drobnou, avšak skutečnou nekonzistenci zápisu důkazu."
@@ -528,7 +528,7 @@
     "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
   },
   "3209": {
-    "points": 3.75,
+    "points": 3.5,
     "correct": false,
     "justification": "The argument is essentially correct, but in (c) multiplying by A^(n-1) is followed by λ^(n-1) instead of λ^n. This exponent slip also leaves the n=1 case unsupported as written.",
     "feedback": "Argument je téměř správný, ale v (c) po násobení A^(n−1) uvádíte λ^(n−1) místo λ^n. Tato chyba v exponentu navíc v zapsané podobě nepokrývá případ n=1."
@@ -702,7 +702,7 @@
     "feedback": "Správně rozhodujete všechna čtyři tvrzení. U (a) a (c) korektně pracujete s nenulovým vlastním vektorem a mocninami vlastního čísla, u (b) uvádíte konkrétní protipříklad a u (d) platně zdůvodňujete existenci vlastního čísla 0."
   },
   "3301": {
-    "points": 3.75,
+    "points": 3.5,
     "correct": false,
     "justification": "The solution is essentially correct, but (d) writes det(A)=det(0) directly from A^n=0 instead of first taking det(A^n)=det(0). The surrounding determinant-power argument makes the intent clear.",
     "feedback": "Řešení je téměř úplné. V (d) z A^n=0 zapisujete přímo det(A)=det(0), místo aby se nejprve vzal determinant rovnosti det(A^n)=det(0). Následující práce s mocninou determinantu záměr objasňuje, ale první rovnost je chybná."

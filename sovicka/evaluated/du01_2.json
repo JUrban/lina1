@@ -1,0 +1,776 @@
+{
+  "273": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "534": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only the sufficiency implication is proved; necessity is absent.",
+    "feedback": "Dokazujete pouze směr z podmínek a₁₁ > 0 a det(A) > 0 k pozitivní definitnosti. Pro ekvivalenci chybí opačný směr: ze skalárního součinu odvodit obě požadované nerovnosti."
+  },
+  "1500": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The proof is essentially correct, but necessity jumps from positivity of the completed-square expression to positivity of its second coefficient without testing a vector that makes the first square zero.",
+    "feedback": "Řešení je téměř úplné. V opačné implikaci ale pouze tvrdíte, že koeficient u druhého čtverce musí být kladný; je třeba to zdůvodnit vhodnou volbou nenulového vektoru, pro který první čtverec vymizí."
+  },
+  "1927": {
+    "points": 3,
+    "correct": false,
+    "justification": "The sufficiency argument does not correctly establish strict positivity and the equality case for every nonzero vector.",
+    "feedback": "V dostačujícím směru není korektně dotažena ostrá kladnost ani případ rovnosti. Nestačí ukázat nezápornost jednotlivých částí; je třeba vysvětlit, proč jejich součet může být nulový jen pro nulový vektor."
+  },
+  "1989": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2202": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only necessity is addressed; the converse implication and the remaining inner-product axioms are not proved.",
+    "feedback": "Řešení pokrývá jen nutnost podmínek. Chybí důkaz, že z a₁₁ > 0 a det(A) > 0 skutečně plyne pozitivní definitnost, a tedy skalární součin."
+  },
+  "2377": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only the necessary conditions are derived; sufficiency is missing.",
+    "feedback": "Odvozujete pouze nutné podmínky. Pro tvrzení „právě tehdy“ je ještě nutné ověřit opačnou implikaci, zejména ostrou kladnost kvadratické formy pro každý nenulový vektor."
+  },
+  "2401": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2464": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only sufficiency is proved.",
+    "feedback": "Důkaz ukazuje pouze, že uvedené dvě nerovnosti postačují. Chybí opačný směr, tedy odvození a₁₁ > 0 a det(A) > 0 z pozitivní definitnosti skalárního součinu."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2518": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2542": {
+    "points": 3,
+    "correct": false,
+    "justification": "Both directions are attempted, but the determinant necessity argument contains an algebraic/logical gap.",
+    "feedback": "Oba směry jsou naznačeny, ale odvození nutnosti det(A) > 0 není korektně doloženo. Je třeba přesně zvolit nenulový vektor, který při det(A) ≤ 0 poruší pozitivní definitnost, a správně spočítat jeho hodnotu."
+  },
+  "2562": {
+    "points": 2,
+    "correct": false,
+    "justification": "The core positive-definiteness arguments in both directions contain substantial algebraic and logical errors.",
+    "feedback": "V argumentaci o pozitivní definitnosti jsou podstatné algebraické i logické chyby v obou směrech. Je třeba správně upravit kvadratickou formu a zvlášť prokázat nutnost i dostatečnost obou ostrých nerovností."
+  },
+  "2760": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The result is correct apart from a small justification gap when inferring positivity of a coefficient in the completed-square form.",
+    "feedback": "Výsledek i hlavní úprava jsou správné. Chybí jen přesné zdůvodnění, proč musí být koeficient u druhého čtverce kladný; doplňte volbu vektoru, která vynuluje první čtverec."
+  },
+  "2763": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2764": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2815": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2826": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2847": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2857": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2858": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "A sign/absolute-value issue is left unresolved in the determinant argument.",
+    "feedback": "Důkaz je téměř hotový, ale v práci se znaménkem mimodiagonálního prvku chybí absolutní hodnota nebo rozlišení znamének. Bez toho zvolený vektor nepokrývá všechny možné matice."
+  },
+  "2859": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2860": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2862": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2864": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2866": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The proof is essentially correct, but the necessity part contains a determinant sign typo that makes the written implication inconsistent.",
+    "feedback": "Postup je v zásadě správný, ale v nutné implikaci je chybně napsané znaménko determinantu, takže zapsaný řetězec nedává doslova požadovaný závěr. Opravte znaménko a jasně uveďte spor."
+  },
+  "2868": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2869": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2874": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2876": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The intended argument works, but the special vector is used with inconsistent coordinates/notation.",
+    "feedback": "Myšlenka důkazu je správná, avšak speciálně zvolený vektor je v zápisu použit s nekonzistentními souřadnicemi. Sjednoťte volbu vektoru a následné dosazení do kvadratické formy."
+  },
+  "2877": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The completed-square proof has a minor gap in converting positive definiteness into strict positivity of the second coefficient.",
+    "feedback": "Po doplnění na čtverec chybí krátké, ale důležité zdůvodnění ostré kladnosti druhého koeficientu. Je třeba využít nenulový vektor, který první čtverec vynuluje."
+  },
+  "2878": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only necessity is proved.",
+    "feedback": "Je dokázán pouze směr od skalárního součinu k podmínkám na matici. Chybí důkaz opačné implikace a kontrola případu rovnosti v pozitivní definitnosti."
+  },
+  "2887": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2888": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2892": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2901": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2917": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2918": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2932": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2935": {
+    "points": 3,
+    "correct": false,
+    "justification": "The determinant counterexample omits the sign choice needed to cover both signs of the off-diagonal entry.",
+    "feedback": "Při konstrukci pro det(A) ≤ 0 chybí volba znaménka vektoru podle znaménka a₁₂. Zapsaná volba proto nezaručuje nekladnou hodnotu kvadratické formy ve všech případech."
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2940": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2948": {
+    "points": 1.5,
+    "correct": false,
+    "justification": "The necessity proof stops after a11>0, and the sufficiency estimate replaces the off-diagonal coefficient by square roots without controlling the sign of xy; the claimed square can also vanish for a nonzero vector.",
+    "feedback": "Nutná implikace končí po odvození a₁₁ > 0, takže chybí determinant. V dostačujícím směru navíc nahrazujete a₁₂ odmocninou bez kontroly znaménka součinu u₁u₂ a výsledný čtverec může být nulový i pro nenulový vektor."
+  },
+  "2956": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2980": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "2988": {
+    "points": 3,
+    "correct": false,
+    "justification": "Necessity excludes determinant zero but does not rule out a negative determinant.",
+    "feedback": "V nutné implikaci správně vylučujete det(A) = 0, ale nezabýváte se možností det(A) < 0. Právě pro ni je nutné najít nenulový vektor s nekladnou hodnotou kvadratické formy."
+  },
+  "2989": {
+    "points": 3,
+    "correct": false,
+    "justification": "Both directions are mentioned, but the necessity implication is not established rigorously.",
+    "feedback": "Oba směry jsou zmíněny, avšak nutnost podmínek není skutečně dokázána. Ze samotného tvaru doplnění na čtverec je potřeba přesně odvodit ostré nerovnosti pomocí vhodných vektorů."
+  },
+  "2993": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3000": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only sufficiency is established.",
+    "feedback": "Ověřujete dostačující směr, ale chybí nutnost. Pro úplnou ekvivalenci je třeba ze skalárního součinu odvodit a₁₁ > 0 i det(A) > 0."
+  },
+  "3002": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The solution is almost complete, with a small setup/justification gap in the necessity direction.",
+    "feedback": "Řešení je téměř úplné. V opačném směru je však potřeba přesněji zdůvodnit volbu vektoru a výpočet, z něhož má plynout ostrá kladnost determinantu."
+  },
+  "3007": {
+    "points": 3,
+    "correct": false,
+    "justification": "The overall approach is good, but the strict inequality in sufficiency fails when u1=0, and the comparison square may vanish for a nonzero vector; those cases need a separate argument.",
+    "feedback": "Celkový postup je dobrý, ale v dostačujícím směru není první nerovnost ostrá při u₁ = 0 a porovnávací čtverec může být nulový i pro nenulový vektor. Je třeba tyto případy oddělit a správně doložit ostrou kladnost."
+  },
+  "3008": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3025": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3037": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only sufficiency is proved.",
+    "feedback": "Je dokázáno pouze, že zadané podmínky vedou ke skalárnímu součinu. Chybí opačná implikace, bez níž není tvrzení „právě tehdy“ úplné."
+  },
+  "3038": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3041": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only sufficiency is proved.",
+    "feedback": "Řešení obsahuje jen dostačující směr. Doplňte odvození obou nerovností z pozitivní definitnosti, včetně vyloučení det(A) ≤ 0."
+  },
+  "3045": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3056": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3057": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "Necessity is sound, but the sufficiency inequality omits absolute values on xy and is false when xy has the opposite sign.",
+    "feedback": "Nutná implikace je zpracována dobře. V dostačujícím směru ale odhad 2bxy pomocí −2|b|xy není platný pro obě znaménka xy; musí se pracovat s |xy| nebo použít doplnění na čtverec."
+  },
+  "3060": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3072": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The completed-square formula in the sufficiency proof is missing/misstates the determinant term, so positive definiteness is not established.",
+    "feedback": "V dostačujícím směru je chybně zapsané doplnění na čtverec: chybí správný člen det(A)/a₁₁. Z uvedeného výrazu proto nelze odvodit pozitivní definitnost."
+  },
+  "3075": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3077": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The main idea is correct, but the implication structure and some algebra are too unclear to constitute a fully rigorous proof.",
+    "feedback": "Hlavní myšlenka je správná, avšak směry implikací a několik algebraických přechodů jsou zapsány nejasně. Oddělte oba směry a u každého explicitně dokažte ostrou kladnost příslušného koeficientu."
+  },
+  "3090": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3102": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3111": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3113": {
+    "points": 3,
+    "correct": false,
+    "justification": "The determinant necessity argument is flawed.",
+    "feedback": "Odvození det(A) > 0 v nutném směru není korektní. Samotná regularita dává jen det(A) ≠ 0; pro kladné znaménko je nutné použít pozitivní definitnost na vhodně zvoleném vektoru."
+  },
+  "3116": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3121": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only sufficiency is proved.",
+    "feedback": "Dokazujete pouze dostačující směr. Chybí důkaz nutnosti obou podmínek, zejména vyloučení záporného determinantu."
+  },
+  "3128": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3131": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "There is a minor gap when inferring coefficient positivity from the completed-square expression.",
+    "feedback": "Po doplnění na čtverec je správný tvar, ale není doloženo, proč musí být druhý koeficient ostře kladný. Doplňte vhodnou volbu nenulového vektoru."
+  },
+  "3135": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "There is a minor gap in the necessity step from positive definiteness to a positive determinant.",
+    "feedback": "V nutné implikaci přecházíte od pozitivní definitnosti rovnou ke kladnosti koeficientu, aniž zvolíte vektor, který odstraní první čtverec. Tento krok je třeba doplnit."
+  },
+  "3139": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The proof is essentially correct, but strict positivity of the determinant coefficient is asserted without justification.",
+    "feedback": "Důkaz je téměř správný, jen ostrá kladnost koeficientu det(A)/a₁₁ je tvrzena bez zdůvodnění. Uveďte nenulový vektor, pro který první čtverec zmizí."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3166": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3167": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3174": {
+    "points": 0,
+    "correct": false,
+    "justification": "No solution is included; the submission only refers to a solution elsewhere.",
+    "feedback": "V odevzdání není žádný důkaz, pouze odkaz na řešení v jiné úloze. Hodnotit lze jen zde zpřístupněný obsah; doplňte samotné řešení této úlohy."
+  },
+  "3188": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The proof has a small but consequential notation error: the square-root product uses the wrong diagonal entry.",
+    "feedback": "V jinak správné argumentaci je chybný výraz pod odmocninou: musí jít o součin obou diagonálních prvků. Opravte tento zápis a navazující nerovnost."
+  },
+  "3193": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3194": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3196": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3204": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3209": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3213": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "Both implications are present, but the logical transitions are insufficiently explicit.",
+    "feedback": "Oba směry jsou přítomné, avšak klíčové přechody mezi pozitivní definitností a podmínkami na koeficienty nejsou dostatečně vysvětlené. Především uveďte, jakými vektory se jednotlivé nerovnosti testují."
+  },
+  "3218": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3219": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only sufficiency is proved.",
+    "feedback": "Je ověřen jen směr z podmínek na matici ke skalárnímu součinu. Chybí opačný směr požadované ekvivalence."
+  },
+  "3221": {
+    "points": 0,
+    "correct": false,
+    "justification": "The submission solves a different problem (the polarization identities), not this matrix criterion.",
+    "feedback": "Odevzdaný text řeší jinou úlohu – polarizační identity. K této úloze chybí důkaz kritéria a₁₁ > 0 a det(A) > 0."
+  },
+  "3223": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only necessity is addressed.",
+    "feedback": "Řešení se zabývá pouze nutnými podmínkami. Chybí ověření, že při a₁₁ > 0 a det(A) > 0 je forma pozitivně definitní."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3227": {
+    "points": 3,
+    "correct": false,
+    "justification": "The completed-square identity is useful, but the two implications and strict equality case are not rigorously separated.",
+    "feedback": "Doplnění na čtverec je správný základ, ale není přesně rozlišeno, co se v kterém směru předpokládá a dokazuje. Také je třeba výslovně vyřešit ostrou kladnost a případ nulové hodnoty."
+  },
+  "3231": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3233": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3238": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The discriminant proof is essentially correct, but the strict-positivity/equality case is only implicit.",
+    "feedback": "Diskriminační argument je v zásadě správný. Pro úplnost ale výslovně dokažte, že hodnota je nulová právě pro nulový vektor, včetně případů, kdy jedna souřadnice je nulová."
+  },
+  "3240": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The proof is essentially complete, but a determinant sign is written inconsistently in the contradiction step.",
+    "feedback": "Důkaz je téměř úplný, avšak v kroku se sporem je determinant označen opačným znaménkem, než odpovídá následujícímu výpočtu. Opravte znaménko a formulaci sporu."
+  },
+  "3241": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3242": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3245": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only the sufficient direction is proved.",
+    "feedback": "Od začátku předpokládáte obě nerovnosti a ověřujete axiomy, takže dokazujete jen dostačující směr. Chybí odvození podmínek ze skutečnosti, že jde o skalární součin."
+  },
+  "3248": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The completed-square idea is present, but neither implication is organized into a rigorous derivation of the strict conditions.",
+    "feedback": "Je zde správná myšlenka doplnění na čtverec, ale důkaz není dotažen do dvou jasných implikací. Chybí zejména přesné odvození ostrých podmínek a kontrola nenulových vektorů."
+  },
+  "3250": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "A single sign choice yields only one bound on the off-diagonal entry; the missing opposite sign invalidates both the necessity and sufficiency estimates as written.",
+    "feedback": "Používáte pouze jednu volbu znaménka, takže získáte jen jednostrannou nerovnost pro mimodiagonální prvek. Je nutné pokrýt obě znaménka, tedy pracovat s absolutní hodnotou; současný nedostatek zasahuje oba směry důkazu."
+  },
+  "3254": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The necessity direction asserts positivity of the completed-square coefficient without a final test-vector argument.",
+    "feedback": "V nutné implikaci je správně připravené doplnění na čtverec, ale chybí závěrečný argument, proč musí být druhý koeficient kladný. Doplňte nenulový vektor anulující první čtverec."
+  },
+  "3256": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3259": {
+    "points": 3,
+    "correct": false,
+    "justification": "The proof mixes necessity and sufficiency and does not rigorously establish all strict inequalities in both directions.",
+    "feedback": "Řešení správně rozpoznává doplnění na čtverec, ale směry implikací jsou promíchané a ostré nerovnosti nejsou v obou směrech přesně odvozeny. Uspořádejte důkaz na dvě samostatné části."
+  },
+  "3260": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3265": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3271": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3272": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3275": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The coefficient argument in the necessity direction is not fully justified.",
+    "feedback": "V nutném směru je kladnost koeficientu po doplnění na čtverec spíše konstatována než dokázána. Je třeba uvést volbu vektoru, která vynuluje první člen, a využít ostrou pozitivní definitnost."
+  },
+  "3276": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3277": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3281": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3284": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3285": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3287": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3288": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The discriminant method is basically correct, but the text reverses/blurred the relation between a negative discriminant and solvability, and the equality case is not cleanly justified.",
+    "feedback": "Metoda s diskriminantem vede ke správnému výsledku, ale formulace o existenci řešení nerovnosti je nepřesná a případ rovnosti není čistě doložen. Upřesněte, co znamená záporný diskriminant pro kvadratický polynom s kladným vedoucím koeficientem."
+  },
+  "3294": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3295": {
+    "points": 3,
+    "correct": false,
+    "justification": "The necessity proof derives a11>0 but simply states det(A)>0 without proving it.",
+    "feedback": "V nutné implikaci správně získáte a₁₁ > 0, ale det(A) > 0 je pouze tvrzeno. Je třeba zvlášť vyloučit det(A) ≤ 0 pomocí vhodného nenulového vektoru."
+  },
+  "3297": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The completed-square criterion is used correctly in spirit, but necessity is compressed into an unjustified “if and only if” assertion.",
+    "feedback": "Doplnění na čtverec je správné, ale v nutném směru je klíčový závěr skryt v tvrzení „právě tehdy“ bez důkazu. Uveďte testovací vektory, které vynutí kladnost obou koeficientů."
+  },
+  "3298": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3299": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3308": {
+    "points": 2,
+    "correct": false,
+    "justification": "Only sufficiency is shown.",
+    "feedback": "Řešení ověřuje pouze dostačující směr. Chybí celá opačná implikace od pozitivní definitnosti k a₁₁ > 0 a det(A) > 0."
+  },
+  "3309": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3317": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The proof is nearly complete, but strict positivity in the Cauchy-type estimate is not fully justified at the possible equality configuration.",
+    "feedback": "Řešení je téměř úplné. V dostačujícím směru však dolní odhad může mít pro nenulový vektor nulový čtverec; je třeba vysvětlit, proč díky ostré nerovnosti |a₁₂| < √(a₁₁a₂₂) zůstává původní výraz kladný."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3347": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  },
+  "3356": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly verifies the automatic symmetry and linearity properties and proves both directions of the positive-definiteness criterion, including the strict equality case.",
+    "feedback": "Řešení je správné a úplné. Správně využíváte symetrii a linearitu maticového předpisu a v obou směrech dokazujete, že pozitivní definitnost je ekvivalentní podmínkám a₁₁ > 0 a det(A) > 0, včetně případu nulové hodnoty."
+  }
+}

@@ -1,0 +1,830 @@
+{
+  "2518": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3001": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3271": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3356": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2377": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3314": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The displayed matrices, normal equations, and result are correct, but the response explicitly assigns A and z to R^3. In fact A is a 6x3 matrix and z lies in R^6.",
+    "feedback": "Výpočet a výsledná rovina jsou správné. U rozměrů však uvádíte A∈R^3 a z∈R^3; ve skutečnosti je A maticí 6×3 a vektor z patří do R^6."
+  },
+  "3128": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3332": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2935": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3281": {
+    "points": 3,
+    "correct": false,
+    "justification": "The design matrix and normal equations are correct, but a row-reduction error gives b=7/5 and hence an incorrect final plane. The correct coefficient is b=4/5.",
+    "feedback": "Sestavení úlohy i normální rovnice jsou správné. Při eliminaci však vznikne chyba a vyjde b=7/5 místo b=4/5; tím je chybná i závěrečná rovina. Správný vektor koeficientů je (2/5,4/5,3/5)."
+  },
+  "3188": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2430": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2948": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2899": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The subsequent normal-equation derivation and final plane are correct, but the objective is explicitly written with a product z_i(ax_i+by_i+c) rather than the residual difference z_i-(ax_i+by_i+c).",
+    "feedback": "Normální rovnice i výsledná rovina z=(2/5)x+(4/5)y+3/5 jsou správně. Účelová funkce je však na začátku zapsána chybně jako součin z_i(ax_i+by_i+c); čtvercová chyba má obsahovat rozdíl z_i-(ax_i+by_i+c)."
+  },
+  "2917": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3248": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2869": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The least-squares computation and displayed final plane are correct, but the accompanying text explicitly states c=0.9, contradicting the computed and displayed value c=0.6.",
+    "feedback": "Výpočet normálních rovnic i výsledná rovina z=0,4x+0,8y+0,6 jsou správně. V doprovodném textu ale uvádíte c=0,9, což odporuje vlastnímu výpočtu i správné hodnotě c=0,6."
+  },
+  "3221": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3324": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3349": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3288": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2947": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2923": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3239": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The normal equations, coefficient vector, and plane are correct, but the response says that the final column of the augmented data matrix contains values of c; it actually contains the observed z-values (the right-hand side).",
+    "feedback": "Normální rovnice, koeficienty i výsledná rovina jsou správně. Popis rozšířené matice ale zaměňuje význam posledního sloupce: nejde o hodnoty c, nýbrž o zadané hodnoty souřadnice z, tedy pravou stranu soustavy."
+  },
+  "2401": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3025": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2956": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2881": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3209": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3204": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The final normal equations and plane are correct, but the displayed derivative with respect to b omits the term b y_i from the residual.",
+    "feedback": "Normální rovnice i konečný výsledek jsou správné. V rozepsané parciální derivaci podle b ale v reziduu chybí člen b y_i, takže tento zobrazený derivační mezikrok není správný."
+  },
+  "2857": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2826": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3174": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3233": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3198": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The response computes the correct coefficient vector, but the final plane substitutes the coefficient names a,b,c for the variables, writing z=(2/5)a+(4/5)b+(3/5)c instead of an expression in x and y.",
+    "feedback": "Koeficienty (a,b,c)=(2/5,4/5,3/5) vypočítáváte správně. V závěrečné rovnici však používáte symboly a,b,c jako proměnné; hledaná rovina má být vyjádřena v x a y, tedy z=(2/5)x+(4/5)y+3/5."
+  },
+  "3245": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The least-squares computation and result are correct, but the response explicitly declares the design matrix A to be 3x6 although the displayed matrix is 6x3.",
+    "feedback": "Výpočet normálních rovnic i výsledná rovina jsou správně. U matice A však uvádíte rozměr 3×6, zatímco zobrazená matice se šesti body a třemi koeficienty má rozměr 6×3."
+  },
+  "3194": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The normal equations and final coefficients are correct, but the plane is initially defined as a=ax+by+c rather than z=ax+by+c.",
+    "feedback": "Výpočet i výsledné koeficienty jsou správné. V úvodním zápisu roviny však stojí a=ax+by+c místo z=ax+by+c; tím je levá strana rovnice věcně chybná."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2847": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2889": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3301": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The least-squares coefficients and plane are correct, but the additional reported residual sum of squares 0.22 is wrong; for the stated plane it equals 2/5=0.4.",
+    "feedback": "Hledaná rovina z=0,4x+0,8y+0,6 je správná. Dodatečně uvedená hodnota součtu čtverců odchylek 0,22 však správná není; pro tuto rovinu je minimum 2/5=0,4."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2860": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3347": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The normal-equation computation and final plane are correct, but the response says that independent columns imply the original system has no solution and calls normal-equation solutions exact solutions. Neither characterization is valid.",
+    "feedback": "Výpočet normálních rovnic a výsledná rovina jsou správně. Nezávislost sloupců A však sama o sobě neznamená, že původní soustava nemá řešení, a řešení normálních rovnic nelze označit za přesné řešení původní nekonzistentní soustavy."
+  },
+  "3115": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3346": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3113": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The normal equations and highlighted final plane are correct, but the prose states c=3/3, contradicting the correct displayed value c=3/5.",
+    "feedback": "Normální rovnice i zvýrazněná výsledná rovina jsou správně. V textu před výsledkem však uvádíte c=3/3, což je v rozporu se správnou hodnotou c=3/5 použitou v závěru."
+  },
+  "3309": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The normal equations and final plane are correct, but the response identifies the coefficient vector x itself as the orthogonal projection of z onto Im(A). The projection is Ax, not x, and the dimensions differ.",
+    "feedback": "Normální rovnice i rovina jsou vypočteny správně. Vektor koeficientů x ale není kolmým průmětem z do Im(A); tímto průmětem je vektor Ax. Uvedené tvrzení je i rozměrově neslučitelné, protože x má tři složky a projekce šest."
+  },
+  "3276": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The least-squares calculation and plane are correct, but the response claims that the six equations are probably linearly independent and therefore probably inconsistent. Six row equations in three unknowns cannot all be linearly independent, and independence would not justify that conclusion.",
+    "feedback": "Samotný výpočet nejmenších čtverců a výsledná rovina jsou správně. Úvodní zdůvodnění je ale chybné: šest rovnic ve třech neznámých nemůže být všech šest lineárně nezávislých a z tvrzené nezávislosti by navíc neplynula neřešitelnost soustavy."
+  },
+  "3250": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2968": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "1771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3256": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2876": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3039": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2900": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3241": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3266": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The normal-equation calculation and final plane are correct, but the response falsely asserts that the data vector lies in Im(A) and that the original overdetermined system has an exact solution.",
+    "feedback": "Normální rovnice i výsledná rovina jsou správně. Není však pravda, že zadaný vektor pravých stran leží v Im(A) a že původní soustava má přesné řešení; nenulová rezidua právě ukazují opak."
+  },
+  "3193": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3167": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3318": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3238": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2125": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3351": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3057": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3305": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3072": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The least-squares system and all three coefficients are correct, but the final displayed equation has y on the left-hand side instead of z.",
+    "feedback": "Výpočet koeficientů a=2/5, b=4/5, c=3/5 je správný. V závěrečné rovnici ale píšete na levé straně y místo z, takže zapsaná rovnice není hledanou rovinou; správný levý člen je z."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2932": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3265": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3240": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2877": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3287": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The surrounding normal equations and final coefficients are correct, but the inverse-matrix multiplication writes the right-hand side as (2,4,c)^T instead of (2,4,6)^T.",
+    "feedback": "Normální rovnice i výsledné koeficienty jsou správně. V jednom zapsaném násobení inverzní maticí však má vektor pravé strany třetí složku c místo čísla 6, což je chybný a s okolním výpočtem rozporný zápis."
+  },
+  "3339": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3254": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The least-squares computation, final plane, and reported SSE are correct, but the final residual expression uses coefficient symbols a_i,b_i in place of the predictors x_i,y_i and the constant term.",
+    "feedback": "Koeficienty roviny i hodnota součtu čtverců reziduí jsou správné. V závěrečném vzorci pro reziduum však zaměňujete proměnné: výraz má pracovat s x_i, y_i a konstantou 3/5, nikoli se symboly koeficientů a_i, b_i, c_i."
+  },
+  "3331": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3037": {
+    "points": 3,
+    "correct": false,
+    "justification": "The design matrix and normal equations are correct, but those equations are solved incorrectly, producing (3/5,1,3/10) instead of (2/5,4/5,3/5), so the final plane is wrong.",
+    "feedback": "Matici úlohy i normální rovnice sestavujete správně. Chyba nastává až při jejich vyřešení: uvedený vektor (3/5,1,3/10) dané rovnice nesplňuje. Správné koeficienty jsou (2/5,4/5,3/5), a proto je chybná i závěrečná rovina."
+  },
+  "3403": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2862": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2924": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2941": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3085": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2892": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The setup, normal equations, and final plane are correct, but the stated closed-form formula uses (A^T A)^(-1)Ab instead of (A^T A)^(-1)A^Tb.",
+    "feedback": "Sestavení soustavy, normální rovnice i výsledek (2/5,4/5,3/5) jsou správné. V uvedeném obecném vzorci však chybí transpozice: píšete násobení Ab místo A^Tb, takže tento mezikrok není matematicky správný."
+  },
+  "2874": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3077": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2743": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2988": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The actual design matrix, normal equations, and answer use the data correctly, but the response first recopies the last point as (-1,1,0) instead of (-1,1,1).",
+    "feedback": "Ve výpočtu používáte správnou matici i vektor pravých stran a docházíte ke správné rovině. V úvodním přepisu dat je však poslední bod uveden jako (-1,1,0), zatímco v zadání je (-1,1,1); jde o věcný rozpor uvnitř řešení."
+  },
+  "3056": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "273": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2984": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3260": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "1989": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The normal equations, coefficients, and final plane are correct. However, the response initially describes the task as finding a solution of smallest norm, whereas least squares minimizes the residual norm and the original inconsistent system has no exact solution.",
+    "feedback": "Normální rovnice, koeficienty a=2/5, b=4/5, c=3/5 i výsledná rovina jsou správně. Úvodní tvrzení o „řešení s nejmenší normou“ ale zaměňuje dvě různé úlohy: zde se minimalizuje norma rezidua, nikoli norma vektoru řešení."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3036": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3264": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2562": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3076": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3116": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2887": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3326": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3275": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3344": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3253": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The response applies the least-squares framework, but it enters the third data row as (0,0,1) instead of (0,1,1). Consequently the normal equations and the reported plane with coefficients (8,20,17)/23 are wrong.",
+    "feedback": "Metodu nejmenších čtverců volíte správně, ale třetí bod přepisujete do řádku matice jako (0,0,1) místo (0,1,1). Z takto změněných dat vycházejí chybné normální rovnice i koeficienty (8,20,17)/23. Pro zadané body je správně (a,b,c)=(2/5,4/5,3/5)."
+  },
+  "3299": {
+    "points": 3,
+    "correct": false,
+    "justification": "The design system and A^Tz are correct, but the second diagonal entry of A^T A is written as 2 instead of 4. This produces the incorrect coefficients (2,4,-1) and an incorrect plane.",
+    "feedback": "Výchozí soustava i vektor A^Tz jsou správné. V matici A^TA je však prostřední diagonální prvek 4, nikoli 2; kvůli tomu vycházejí chybné koeficienty (2,4,-1). Správná rovina má koeficienty (2/5,4/5,3/5)."
+  },
+  "2922": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3108": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2815": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3008": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2464": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3223": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3131": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The calculation obtains the correct coefficient c=3/5, but the final written plane appears to use the constant 2/5, so the stated final answer is inconsistent with the derivation.",
+    "feedback": "Z výpočtu správně vycházejí koeficienty a=2/5, b=4/5 a c=3/5. V závěrečném zápisu roviny je ale konstantní člen uveden jako 2/5, takže finální odpověď odporuje správnému mezivýsledku."
+  },
+  "3407": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The response correctly sets up and solves the normal equations, but its prose calls the coefficient vector x a smallest-norm solution and the projection of z onto Im(A). Least squares minimizes the residual norm, and the projected vector is Ax.",
+    "feedback": "Soustava, normální rovnice, koeficienty i výsledná rovina jsou správně. Vysvětlení ale zaměňuje objekty: minimalizuje se norma rezidua, nikoli norma vektoru x, a projekcí z do Im(A) je Ax, nikoli samotný třírozměrný vektor koeficientů x."
+  },
+  "3310": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3135": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3317": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3150": {
+    "points": 3,
+    "correct": false,
+    "justification": "The least-squares approach, design matrix, and Gram matrix are correct, but the middle entry of A^Tz is computed as 3 instead of 4, yielding the wrong coefficients (1/3,2/3,2/3).",
+    "feedback": "Postup nejmenších čtverců, matice A i matice A^TA jsou správně. Ve vektoru A^Tz má však prostřední složka hodnotu 4, nikoli 3. Tato chyba vede k nesprávným koeficientům; správně je (a,b,c)=(2/5,4/5,3/5)."
+  },
+  "2934": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3259": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3121": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2764": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3294": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The response computes all three coefficients correctly, but its final equation uses x in both linear terms rather than using y in the second term.",
+    "feedback": "Koeficienty a=2/5, b=4/5, c=3/5 jsou vypočteny správně. Ve finální rovnici ale stojí x v obou lineárních členech; druhý člen má být (4/5)y."
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3205": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3045": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "2980": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3094": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3295": {
+    "points": 2,
+    "correct": false,
+    "justification": "The response uses the point coordinates (x,y,z) as all three columns of the design matrix instead of (x,y,1). This models a different homogeneous relation and leads to the wrong Gram matrix and coefficient vector (1/8,5/8,3/4).",
+    "feedback": "Zvolená matice neodpovídá rovnici z=ax+by+c: její třetí sloupec tvoříte hodnotami z místo konstantních jedniček. Tím řešíte jinou úlohu, takže navazující Gramova matice i výsledek (1/8,5/8,3/4) jsou chybné. Pro zadaný model vychází (2/5,4/5,3/5)."
+  },
+  "2517": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The response recognizes the least-squares method and starts from the correct design system, but both A^T A and A^Tz are computed incorrectly, leading to the wrong plane z=-(1/4)x+(1/4)y+1.",
+    "feedback": "Správně rozpoznáváte úlohu nejmenších čtverců a zapisujete výchozí matici soustavy. Při násobení však vycházejí chybné normální rovnice: správně je A^T A=((4,-1,2),(-1,4,2),(2,2,6)) a A^Tz=(2,4,6)^T. Proto je i uvedená rovina chybná; správné koeficienty jsou (a,b,c)=(2/5,4/5,3/5)."
+  },
+  "3168": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3165": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  },
+  "3179": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly formulates the six plane conditions as a least-squares system, forms the normal equations A^T A(a,b,c)^T=A^Tz, and obtains the unique plane z=(2/5)x+(4/5)y+3/5.",
+    "feedback": "Šest podmínek správně zapisujete jako úlohu nejmenších čtverců, sestavujete odpovídající normální rovnice a získáváte koeficienty a=2/5, b=4/5, c=3/5. Hledaná rovina je z=(2/5)x+(4/5)y+3/5; řešení je úplné."
+  }
+}

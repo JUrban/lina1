@@ -1,0 +1,824 @@
+{
+  "273": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "544": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The perpendicular-vector construction and resulting polynomial equation are correct, but the argument calls it a quadratic with nonnegative/positive discriminant without treating the case where its leading coefficient vanishes (including the identically zero case).",
+    "feedback": "Konstrukce dvojice (x,y), (−y,x) i odvozená rovnice jsou správné. Argument přes diskriminant ale předpokládá, že jde skutečně o kvadratickou rovnici. Když je její vedoucí koeficient nulový, rovnice je lineární nebo dokonce identicky nulová; tyto případy je třeba krátce oddělit a ověřit existenci řešení přímo."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2125": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2182": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2377": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The rotation setup is appropriate, but the trigonometric rearrangement replaces cos²φ−sin²φ incorrectly and leads to an arccos formula whose argument need not lie in [-1,1]; hence the constructed angle is not established.",
+    "feedback": "Volba otočené báze je správná, ale při úpravě rovnice chybně převádíte výraz cos²φ−sin²φ. Následný vzorec s arccos navíc nemusí být definovaný, protože jeho argument nemusí ležet v intervalu [−1,1]. Opravte goniometrickou úpravu a existence úhlu musí být odvozena z rovnice, která má řešení pro všechny přípustné prvky A."
+  },
+  "2401": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2464": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2511": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2517": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2518": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2736": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2743": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2763": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2764": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The perpendicular-vector construction and resulting polynomial equation are correct, but the argument calls it a quadratic with nonnegative/positive discriminant without treating the case where its leading coefficient vanishes (including the identically zero case).",
+    "feedback": "Konstrukce dvojice (x,y), (−y,x) i odvozená rovnice jsou správné. Argument přes diskriminant ale předpokládá, že jde skutečně o kvadratickou rovnici. Když je její vedoucí koeficient nulový, rovnice je lineární nebo dokonce identicky nulová; tyto případy je třeba krátce oddělit a ověřit existenci řešení přímo."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2815": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2847": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2857": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2859": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2862": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The geometric rotation and intermediate-value argument is essentially correct, but the sign change under a quarter-turn and the continuity/basis conclusion are only asserted informally rather than fully justified.",
+    "feedback": "Geometrická myšlenka s otočením a větou o mezihodnotě je správná. Pro úplnost však výslovně zdůvodněte, proč otočení o 90° změní hodnotu uvažovaného skalárního součinu na opačnou, a stručně uveďte spojitost funkce i to, že otočené nenulové kolmé vektory tvoří bázi."
+  },
+  "2864": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2867": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2871": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2874": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2876": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2877": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2878": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2881": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2887": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2888": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2892": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2900": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2917": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2918": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The correct rotation formula is obtained and the relevant cases are visible, but the factorization is treated as a disjunction even where tangent is undefined; the exceptional case is not stated rigorously.",
+    "feedback": "Výsledný výraz pro skalární součin je správný, ale po vytknutí cos(2α) nelze bez dalšího považovat cos(2α)=0 za řešení původní rovnice. Je třeba oddělit případ c=a od případu c≠a a v každém ověřit podmínku přímo; tím se odstraní mezera spojená s nedefinovaným tangensem."
+  },
+  "2922": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2932": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2935": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2940": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2941": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2947": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2956": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2968": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2978": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "2984": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "2988": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The rotation setup is correct, but the double-angle identities are applied backwards as sin(α/2) and cos(α/2). Consequently the claimed endpoint values and the intermediate-value argument refer to a different function.",
+    "feedback": "Začátek s otočenou bází je správný, zásadní chyba je však v goniometrické úpravě: ze součinů sinα cosα a rozdílu cos²α−sin²α vznikají funkce dvojnásobného úhlu, nikoli polovičního. Kvůli tomu neplatí uvedené hodnoty v krajních bodech pro původní skalární součin. Opravte tento přepis a teprve pro správnou funkci použijte větu o mezihodnotě."
+  },
+  "3001": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The rotation method and the tangent/cotangent equations cover the nondegenerate cases, but the scalar-matrix case a=c and b=0 is not explicitly covered, and one intermediate trigonometric line contains a sign typo.",
+    "feedback": "Hlavní výpočet i kombinace rovnic s tangensem a kotangensem jsou v pořádku. Doplňte však zvlášť případ a=c a b=0, kdy oba uvedené podíly nejsou použitelné, a opravte mezikrok s členem b: má jít o cos²α−sin²α, nikoli o jejich součet."
+  },
+  "3002": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3007": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The orthogonal-change-of-basis and continuity idea is sound, but the expansion changes the coefficient (a−c) to (a+c). The angle obtained from the resulting intermediate-value argument therefore need not make the original A-inner product zero.",
+    "feedback": "Myšlenka s ortogonálním zobrazením a větou o mezihodnotě je vhodná. V roznásobení ale vzniká koeficient (a−c)sinα cosα, nikoli (a+c)sinα cosα. Dále už pracujete s jinou funkcí, takže nalezený úhel nemusí nulovat původní skalární součin. Po opravě znaménka zopakujte argument pro skutečný výraz."
+  },
+  "3025": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3036": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3038": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3039": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3041": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3045": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3056": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3057": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3060": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3062": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3072": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3075": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3077": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3089": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3090": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3094": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3102": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3108": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3115": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3116": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3121": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3128": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3131": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3135": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3136": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3150": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The correct expression involving sin(2θ) and cos(2θ) is reached, but it is then converted to an equation for tan θ instead of tan(2θ), and the divisions omit exceptional cases. Thus the claimed angle is not justified.",
+    "feedback": "Správně jste získal(a) rovnici s funkcemi sin(2θ) a cos(2θ), ale v dalším kroku má vystupovat tan(2θ), nikoli tanθ. Navíc je nutné oddělit případy, kdy dělitel nebo cos(2θ) může být nulový. V nynější podobě proto uvedený úhel z odvozené rovnice neplyne."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3165": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3166": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3167": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3174": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3179": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3188": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3194": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3204": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3205": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3213": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3218": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3221": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3223": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3238": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3240": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3241": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3242": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3244": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3245": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3248": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3250": {
+    "points": 3.5,
+    "correct": false,
+    "justification": "The perpendicular-vector construction and resulting polynomial equation are correct, but the argument calls it a quadratic with nonnegative/positive discriminant without treating the case where its leading coefficient vanishes (including the identically zero case).",
+    "feedback": "Konstrukce dvojice (x,y), (−y,x) i odvozená rovnice jsou správné. Argument přes diskriminant ale předpokládá, že jde skutečně o kvadratickou rovnici. Když je její vedoucí koeficient nulový, rovnice je lineární nebo dokonce identicky nulová; tyto případy je třeba krátce oddělit a ověřit existenci řešení přímo."
+  },
+  "3254": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3256": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3259": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3260": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3261": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3264": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3265": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3266": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3269": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3271": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3273": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3275": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3277": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3281": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3283": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3294": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3295": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3298": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3299": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3305": {
+    "points": 2.5,
+    "correct": false,
+    "justification": "The off-diagonal rotation formula is correct, but the solution of tan(2φ)=2b/(a−c) drops the factor 1/2 in front of arctan and uses the wrong period; it also omits a=c. The displayed angles therefore do not generally solve the equation.",
+    "feedback": "Rovnici tan(2φ)=2b/(a−c) odvozujete správně. Při jejím řešení však chybí faktor 1/2 před arctan a je uvedena nesprávná perioda; navíc vzorec nepokrývá případ a=c. Upravte řešení rovnice pro dvojnásobný úhel a zvlášť ošetřete nulový jmenovatel."
+  },
+  "3316": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3317": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3326": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3332": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3339": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3340": {
+    "points": 3,
+    "correct": false,
+    "justification": "The rotation computation is essentially correct, but the existence argument divides by a matrix coefficient or a trigonometric factor without handling the case in which that divisor is zero. Thus the claim is not proved for every positive-definite A.",
+    "feedback": "Výpočet skalárního součinu otočených vektorů je v zásadě správný. V závěru ale dělíte koeficientem nebo goniometrickým výrazem, který může být nulový, a příslušný zvláštní případ chybí. Rozdělte důkaz podle toho, zda je tento dělitel nulový, a v nulovém případě ověřte existenci úhlu přímo v původní rovnici."
+  },
+  "3345": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3346": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3347": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3349": {
+    "points": 2,
+    "correct": false,
+    "justification": "The response defines the right continuous function along a rotated basis, but merely asserts that it changes sign. No endpoint computation or other proof of the sign change is supplied, so the central existence claim is unproved.",
+    "feedback": "Volba otočené báze a definice spojité funkce jsou dobrým začátkem. Klíčové tvrzení, že funkce přechází z kladných hodnot do záporných, však pouze uvádíte bez výpočtu. Je nutné spočítat její hodnoty ve dvou konkrétních polohách otočené báze a ukázat, že jsou opačné (případně jedna je nulová); teprve potom lze použít větu o mezihodnotě."
+  },
+  "3350": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  },
+  "3407": {
+    "points": 4,
+    "correct": true,
+    "justification": "The solution correctly constructs a rotated standard orthonormal basis and proves that its A-inner product vanishes for some angle, with all necessary exceptional cases (or an equivalent complete argument) handled.",
+    "feedback": "Řešení je úplné. Správně konstruujete bázi, která zůstává ortonormální ve standardním skalárním součinu, a dokazujete existenci volby, pro niž jsou její vektory kolmé i ve skalárním součinu daném maticí A. Potřebné případy jsou pokryty."
+  }
+}

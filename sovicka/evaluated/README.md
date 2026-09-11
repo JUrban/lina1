@@ -13,3 +13,12 @@ Each `duNN_M.json` file mirrors the student identifiers in the corresponding
 Scores are calibrated against the 20 labelled examples for the same homework
 part and use the general mathematical-proof principles in `recipes/`.
 
+## CSV and Markdown export
+
+The [evaluation dashboard](export/README.md) provides downloadable CSV files
+and a web-friendly Markdown page for each homework part. Regenerate the export
+after changing any evaluation JSON file with:
+
+```bash
+node ../export_evaluations.mjs
+```

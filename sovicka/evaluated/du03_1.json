@@ -1,0 +1,758 @@
+{
+  "534": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "1500": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "1927": {
+    "points": 3.5,
+    "justification": "The forward implication is correct, and the reverse direction constructs an orthogonal matrix from the Gram equality. However, the displayed matrix is (VU^{-1})^T, while the matrix that maps every u_i to v_i is VU^{-1}; the claimed mapping property is therefore not established for the matrix actually denoted by Q.",
+    "feedback": "Směr (a) ⇒ (b) je správně. V opačném směru ale jako Q zapisujete (U^T)^{-1}V^T=(VU^{-1})^T, zatímco podmínku Qu_i=v_i splňuje VU^{-1}. Pro zvolenou matici tedy není tvrzená zobrazovací vlastnost doložena, i když její ortogonalitu počítáte správně.",
+    "correct": false
+  },
+  "2125": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2182": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2377": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2398": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2401": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2430": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2464": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2492": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2562": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2743": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2760": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2764": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2766": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2771": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2815": {
+    "points": 3.5,
+    "justification": "Both main constructions are present, but the justification of the final step is flawed: from a nonzero matrix A it does not follow that some diagonal value u_i^T A u_i is nonzero (a nonzero skew-symmetric matrix is a counterexample). The conclusion follows from vanishing on all ordered basis pairs, not from the stated alternatives.",
+    "feedback": "Oba směry máte téměř správně. V závěru však neplatí uvedené zdůvodnění, že nenulová matice A musí dát nenulovou hodnotu už pro některý pár se stejnými vektory; například nenulová antisymetrická matice má x^TAx=0 pro každé x. Rozhodující je, že u_i^TAu_j=0 pro všechny uspořádané dvojice bázových vektorů.",
+    "correct": false
+  },
+  "2826": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2847": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2857": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2858": {
+    "points": 3.5,
+    "justification": "The basis map is constructed and equality of inner products is obtained for every basis pair, but the response then asserts Q^TQ=I without explaining why equality on basis pairs forces this matrix identity (or extending the equality bilinearly to arbitrary vectors).",
+    "feedback": "Konstrukce zobrazení i rovnosti skalárních součinů pro všechny dvojice bázových vektorů jsou správné. Chybí však odůvodnění přechodu k Q^TQ=I: je třeba výslovně využít, že u_i tvoří bázi, případně rozšířit rovnost bilineárně na libovolné vektory.",
+    "correct": false
+  },
+  "2860": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2864": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2865": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2868": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2869": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2874": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2876": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2878": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2887": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2888": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2892": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2900": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2901": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2903": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2917": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2918": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2922": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2932": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2935": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2937": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2948": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2956": {
+    "points": 3,
+    "justification": "The forward implication is correct, but the reverse implication confuses a coordinate transition matrix with the standard matrix of the map u_i ↦ v_i. The matrix with columns [u_i]_{B2} is not the standard matrix VU^{-1}, so the displayed coordinate identity does not prove v_i=Qu_i.",
+    "feedback": "Směr (a) ⇒ (b) je správně. V opačném směru zaměňujete matici přechodu souřadnic se standardní maticí zobrazení u_i↦v_i. Matice se sloupci [u_i]_{B2} obecně není VU^{-1} a z rovnosti souřadnicových zápisů proto neplyne v_i=Qu_i. Je nutné opravit konstrukci Q a následně pro tuto matici ověřit ortogonalitu.",
+    "correct": false
+  },
+  "2968": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "2978": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3001": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3007": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3008": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3025": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3036": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3037": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3039": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3045": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3056": {
+    "points": 3.5,
+    "justification": "The reverse implication correctly constructs Q=VU^{-1} and verifies orthogonality. In the forward implication, however, only equality of the norms (diagonal Gram entries) is shown, which does not by itself establish equality of all off-diagonal inner products.",
+    "feedback": "Směr (b) ⇒ (a) s konstrukcí Q=VU^{-1} je správný. Ve směru (a) ⇒ (b) ale z ortogonality odvozujete jen rovnost norem jednotlivých bázových vektorů, tedy diagonálních prvků Gramových matic. Rovnost smíšených součinů u_i·u_j a v_i·v_j pro i≠j v řešení chybí.",
+    "correct": false
+  },
+  "3057": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3060": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3062": {
+    "points": 3.5,
+    "justification": "The forward implication is correct and the unique basis map is identified in the reverse direction. The final equations in the reverse direction are not valid matrix/scalar manipulations and the argument does not explicitly extend preservation from basis pairs to arbitrary vectors before invoking orthogonality.",
+    "feedback": "První implikace je správná a v opačném směru správně zavádíte jediné lineární zobrazení A s Au_i=v_i. Závěrečné zápisy se skalárním součinem však nejsou korektně formulovány a chybí jasné zdůvodnění, že rovnost na všech dvojicích bázových vektorů znamená zachování skalárního součinu pro libovolné vektory.",
+    "correct": false
+  },
+  "3071": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3075": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3076": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3077": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3102": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3108": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3111": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3115": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3116": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3121": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3128": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3131": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3135": {
+    "points": 2.5,
+    "justification": "The forward implication is correct. In the reverse direction the response uses a coordinate transition matrix and proves that it preserves the bilinear form with Gram matrix G1, but this is not the same as proving that the standard matrix mapping u_i to v_i is orthogonal for the standard Euclidean inner product.",
+    "feedback": "Směr (a) ⇒ (b) je správně. V opačném směru pracujete s maticí přechodu souřadnic a dokazujete vztah P^TG_1P=G_1. To znamená zachování součinu popsaného maticí G_1 v souřadnicích, nikoli ortogonalitu standardní matice zobrazení u_i↦v_i vůči standardnímu skalárnímu součinu. Tyto dvě matice jsou v řešení zaměněny.",
+    "correct": false
+  },
+  "3136": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3139": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3142": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3164": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3166": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3167": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3168": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3188": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3193": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3194": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3198": {
+    "points": 3,
+    "justification": "The forward implication is essentially correct and the reverse direction recognizes the unique map between the bases. However, the coordinate formulas do not clearly define the standard matrix Q, and the statement that Q^TQ “has no influence” on the inner product is not a valid proof that Q^TQ=I.",
+    "feedback": "První směr je v zásadě správně. Ve druhém sice rozpoznáváte zobrazení dané předpisem u_i↦v_i, ale souřadnicové zápisy neurčují jednoznačně jeho standardní matici a závěr, že Q^TQ „nemá vliv“ na skalární součin, není důkazem rovnosti Q^TQ=I. Chybí korektní dokončení ortogonality.",
+    "correct": false
+  },
+  "3204": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3213": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3218": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3219": {
+    "points": 3.5,
+    "justification": "The Gram-matrix reasoning is sound, but the matrix Q=(B^T)^{-1}C^T constructed in the reverse direction maps the second basis to the first, not the first to the second. The response then incorrectly claims v_i=Qu_i; the inverse/transpose would have the requested direction.",
+    "feedback": "Výpočty s Gramovými maticemi jsou správné, ale ve druhém směru sestavujete Q=(B^T)^{-1}C^T, které splňuje QB_2=B_1, tedy zobrazuje druhou bázi na první. Následné tvrzení v_i=Qu_i proto neplatí pro právě zvolenou matici; požadovaný směr má její inverze (zde též transpozice).",
+    "correct": false
+  },
+  "3221": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3223": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3225": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3227": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3233": {
+    "points": 3.5,
+    "justification": "The forward implication and the construction of the unique basis map are correct. The reverse implication only verifies preservation on basis pairs and immediately calls the map orthogonal, without stating the necessary bilinear extension to arbitrary vectors.",
+    "feedback": "Směr (a) ⇒ (b) i existence jediného zobrazení s f(u_i)=v_i jsou správně. V závěru však ověřujete skalární součin pouze pro dvojice bázových vektorů a bez dalšího prohlásíte f za ortogonální. Chybí výslovné rozšíření této rovnosti pomocí linearity a bilinearity na libovolné dva vektory.",
+    "correct": false
+  },
+  "3238": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3239": {
+    "points": 3.5,
+    "justification": "The reverse implication is complete and correct. In the forward implication the response checks only the single pair (u1,u2), then concludes equality of the entire Gram matrices without treating arbitrary indices i,j.",
+    "feedback": "Směr (b) ⇒ (a) je úplný a správný. Ve směru (a) ⇒ (b) ale zapisujete rovnost skalárního součinu jen pro dvojici u_1,u_2 a z ní rovnou usuzujete rovnost celých Gramových matic. Je nutné formulovat tentýž argument pro libovolné indexy i,j.",
+    "correct": false
+  },
+  "3240": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3241": {
+    "points": 2.5,
+    "justification": "The forward implication is correct. In the reverse direction QU=V is solved in the wrong order as Q=U^{-1}V instead of Q=VU^{-1}, and the subsequent transpose and cancellation steps are consequently invalid.",
+    "feedback": "Směr (a) ⇒ (b) je správně. Ve druhém směru však z QU=V chybně dostáváte Q=U^{-1}V; správné pořadí je Q=VU^{-1}. Proto ani následující výpočet Q^TQ a provedené záměny pomocí U^TU=V^TV nejsou platné pro hledanou matici.",
+    "correct": false
+  },
+  "3242": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3254": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3261": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3265": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3266": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3268": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3269": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3271": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3272": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3275": {
+    "points": 3,
+    "justification": "The forward implication is correct and the existence of a linear basis map is noted. In the reverse implication the coordinate-matrix construction is not made precise, and equality on basis pairs is followed by an unsupported assertion that Q^TQ must equal I.",
+    "feedback": "První implikace je správná a ve druhé správně uvádíte existenci lineárního zobrazení mezi bázemi. Není však přesně určeno, která z uvedených matic je standardní matice Q, a z rovnosti u_i^Tu_j=u_i^TQ^TQu_j pouze slovně tvrdíte Q^TQ=I. Chybí korektní zdůvodnění tohoto závěru z bázovosti vektorů u_i.",
+    "correct": false
+  },
+  "3281": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3284": {
+    "points": 3.5,
+    "justification": "The unique map A with Au_i=v_i is correctly introduced, but preservation of the inner product is checked only for x=u_i and y=u_j. The response then concludes preservation for all vectors without carrying out or stating the bilinear extension.",
+    "feedback": "Správně zavádíte jediné lineární zobrazení A s Au_i=v_i. Zachování skalárního součinu však ověřujete jen pro x=u_i a y=u_j a rovnou je prohlásíte za platné pro všechny vektory. Chybí zdůvodnění rozšíření z bázových dvojic na jejich libovolné lineární kombinace.",
+    "correct": false
+  },
+  "3285": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3299": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3308": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3309": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3310": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3314": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3316": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3317": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3326": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3329": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3331": {
+    "points": 2,
+    "justification": "The response gives a correct proof of (a)⇒(b), but it does not address the converse implication (b)⇒(a), which is the substantial half of the equivalence.",
+    "feedback": "Správně dokazujete pouze směr (a) ⇒ (b): z ortogonality Q plyne rovnost všech odpovídajících prvků Gramových matic. Opačný směr (b) ⇒ (a), tedy konstrukce ortogonální matice zobrazující u_i na v_i, v řešení zcela chybí.",
+    "correct": false
+  },
+  "3340": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3344": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3346": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3347": {
+    "points": 3.5,
+    "justification": "The forward implication and existence of the basis map are correct. In the converse, equality of inner products is established only on basis pairs, followed by the unproved statement that Q preserves the standard inner product; the extension to arbitrary vectors is omitted.",
+    "feedback": "První směr i existence jediného zobrazení s Qu_i=v_i jsou správně. V opačném směru ale rovnost skalárních součinů dokazujete pouze na dvojicích bázových vektorů a bez rozšíření na libovolné lineární kombinace tvrdíte, že Q zachovává skalární součin.",
+    "correct": false
+  },
+  "3350": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3355": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3356": {
+    "points": 4,
+    "correct": true,
+    "justification": "The response correctly proves both implications: orthogonal maps preserve all Gram-matrix entries, and equality of the Gram matrices yields the basis map Q = VU^{-1} (or an equivalent construction), which is shown to preserve the inner product or satisfy Q^TQ = I.",
+    "feedback": "Správně dokazujete oba směry. Ortogonální zobrazení zachovává skalární součin, takže se shodují všechny prvky Gramových matic; v opačném směru je zobrazení určené předpisem u_i ↦ v_i a z rovnosti Gramových matic správně plyne jeho ortogonalita. Řešení je úplné."
+  },
+  "3403": {
+    "points": 3.5,
+    "justification": "The forward implication and the basis-map construction are correct, but the reverse proof jumps from u_i^T(Q^TQ-I)u_j=0 for all basis pairs directly to Q^TQ=I without justifying the basis-matrix argument.",
+    "feedback": "Směr (a) ⇒ (b) i zavedení zobrazení Q s Qu_i=v_i jsou správně. V závěru však z rovnosti u_i^T(Q^TQ-I)u_j=0 pro všechny i,j pouze přímo tvrdíte Q^TQ=I. Chybí vysvětlení, proč nulovost na všech dvojicích bázových vektorů vynutí nulovost celé matice Q^TQ-I.",
+    "correct": false
+  }
+}
